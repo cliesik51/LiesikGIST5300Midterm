@@ -4,9 +4,11 @@
 
 #### Data Collection
 
-I collected the following CSVs from POI Factory and used gejson.io to convert them to geoJSON files for each regional chain. I chose the geoJSON format because they were what was recommended as the prefered format when working with data on Leaflet.
+I collected the following CSVs from POI Factory and used geojson.io to convert them to geoJSON files for each regional chain. I chose the geoJSON format because they were what was recommended as the prefered format when working with data on Leaflet.
 
 geojson.io: <https://geojson.io/?map=3.89/35.99897/-97.24291>
+Leaflet geoJSON Tutorial: <https://leafletjs.com/examples/geojson/>
+Leaflet Layer Group and Control Tutorial: <https://leafletjs.com/examples/layers-control/>
 
 In-N-Out Burger: <http://www.poi-factory.com/node/33102>
 Shake Shack: <http://www.poi-factory.com/node/43965>
@@ -18,6 +20,8 @@ These are 4 popular regional fast food burger restaurants that are present in di
 It is constantly argued about which brand has the best food, but it would also be interesting to see how these locations compare to each other in a spatial scale.
 
 #### Analysis
+
+Looking at the distribuition of the markers we can see that each chain has their own strongholds located where they originated from. That isn't surprising to see, but it is interesting that every chain but Cookout have locations in Arizona, California, Nevada, and Texas. Cookout has yet to venture west of the Mississippi River. Additionally, if it weren't for Texas and the I-25 corridor from colorado Springs to Fort Collins, there would be a gap along the Great Plains and the Front Range of the Rockies where none of the chains had locations. As these businesses expand outside of there initial footprint, they appear to focus primarily on larger urban areas. Especially Shake Shack with the east coast brand holding locations in cities like Kansas City, Denver, Salt Lake City, Portland, and Seattle. Obviously this map wont be the deciding factor in which brand has the best food, but it definitely highlights the reach that some of these once "regional" chains have acquired.  
 
 #### Web Map Link
 <https://cliesik51.github.io/LiesikGIST5300Midterm/>

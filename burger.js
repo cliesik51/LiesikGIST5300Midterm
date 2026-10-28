@@ -27788,26 +27788,50 @@ var shakeShackColor = {
     fillOpacity: 0.8
 }
 
-// Add geojson files to map as layers with symbology
+// Add geojson files to map as layers with symbology and pop-ups
 var checkersLayer = L.layerGroup([L.geoJSON(checkers, {
     pointToLayer: function (feature, latlng) {
-    return L.circleMarker(latlng, checkersColor);
-  }
+        return L.circleMarker(latlng, checkersColor);
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(
+            '<strong>Location: </strong>' + feature.properties.location +
+            '<strong><br>Address: </strong>' + feature.properties.address
+        );
+    }
 })]);
 var cookoutLayer = L.layerGroup([L.geoJSON(cookout, {
     pointToLayer: function (feature, latlng) {
-    return L.circleMarker(latlng, cookoutColor);
-  }
+        return L.circleMarker(latlng, cookoutColor);
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(
+            '<strong>Location: </strong>' + feature.properties.location +
+            '<strong><br>Address: </strong>' + feature.properties.address
+        );
+    }
 })]);
 var inNoutLayer = L.layerGroup([L.geoJSON(inNout, {
     pointToLayer: function (feature, latlng) {
-    return L.circleMarker(latlng, inNoutColor);
-  }
+        return L.circleMarker(latlng, inNoutColor);
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(
+            '<strong>Location: </strong>' + feature.properties.location +
+            '<strong><br>Address: </strong>' + feature.properties.address
+        );
+    }
 })]);
 var shakeShackLayer = L.layerGroup([L.geoJSON(shakeShack, {
     pointToLayer: function (feature, latlng) {
-    return L.circleMarker(latlng, shakeShackColor);
-  }
+        return L.circleMarker(latlng, shakeShackColor);
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(
+            '<strong>Location: </strong>' + feature.properties.location +
+            '<strong><br>Address: </strong>' + feature.properties.address
+        );
+    }
 })]);
 
 // Select basemaps for layer control
@@ -27822,8 +27846,8 @@ var osmHOT = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png'
 });
 
 var USGS_USImageryTopo = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}', {
-	maxZoom: 16,
-	attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
+    maxZoom: 16,
+    attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
 });
 
 // create map frame to contain features

@@ -1,0 +1,2000 @@
+[
+  {
+    "lon": -86.73313,
+    "lat": 33.44722,
+    "location": "Shake Shack-Birmingham,AL",
+    "address": "200 Summit Blvd [ste 100], Birmingham,AL 35243, (205) 354-2771"
+  },
+  {
+    "lon": -111.7426383,
+    "lat": 33.306925,
+    "location": "Shake Shack-Gilbert,AZ",
+    "address": "2024 E Williams Field Rd, Gilbert,AZ 85925, (480) 561-4875"
+  },
+  {
+    "lon": -112.383056,
+    "lat": 33.465179,
+    "location": "Shake Shack-Goodyear,AZ",
+    "address": "1675 N Glove Dr, Goodyear,AZ 85395, (623) 299-7845"
+  },
+  {
+    "lon": -112.0718041,
+    "lat": 33.5093448,
+    "location": "Shake Shack-Phoenix,AZ",
+    "address": "100 E Camelback Rd [Uptown Plaza], Phoenix,AZ 85012, (602) 903-3240"
+  },
+  {
+    "lon": -112.006439,
+    "lat": 33.434752,
+    "location": "Shake Shack-Phoenix,AZ",
+    "address": "3400 E Sky Harbor Blvd [Phoenix Sky Harbor Intl], Phoenix,AZ 85034, none listed}"
+  },
+  {
+    "lon": -111.9288249,
+    "lat": 33.5023651,
+    "location": "Shake Shack-Scottsdale,AZ",
+    "address": "7014 E Camelback Rd [Fashion Square space B116], Scottsdale,AZ 85251, (480) 270-8825"
+  },
+  {
+    "lon": -111.9258269,
+    "lat": 33.6231463,
+    "location": "Shake Shack-Scottsdale,AZ",
+    "address": "15030 N Scottsdale Rd [Kierland Commons ste 180G1A], Scottsdale,AZ 85254, (602) 362-2020"
+  },
+  {
+    "lon": -118.4056533,
+    "lat": 34.069896,
+    "location": "Shake Shack-Beverly Hills,CA",
+    "address": "9601 S Santa Monica Blvd, Beverly Hills,CA 90210, (424) 322-9107"
+  },
+  {
+    "lon": -118.30962,
+    "lat": 34.18205,
+    "location": "Shake Shack-Burbank,CA",
+    "address": "200 N San Fernando Blvd, Burbank,CA 91502, (747) 333-3040"
+  },
+  {
+    "lon": -118.606134,
+    "lat": 34.187776,
+    "location": "Shake Shack-Canoga Park,CA",
+    "address": "6600 Topanga Canyon Blvd, Canoga Park,CA 91303, (747) 777-5816"
+  },
+  {
+    "lon": -117.266915,
+    "lat": 33.083023,
+    "location": "Shake Shack-Carlsbad,CA",
+    "address": "7740 El Camino Real, Carlsbad,CA 92009, (760) 280-1530"
+  },
+  {
+    "lon": -118.3933176,
+    "lat": 33.9854311,
+    "location": "Shake Shack-Culver City,CA",
+    "address": "6000 Sepulveda Blvd, Culver City,CA 90230, (424) 339-2231"
+  },
+  {
+    "lon": -118.3937861,
+    "lat": 34.025204,
+    "location": "Shake Shack-Culver City,CA",
+    "address": "9341 Culver Blvd, Culver City,CA 90232, (424) 326-5058"
+  },
+  {
+    "lon": -118.38582,
+    "lat": 33.90229,
+    "location": "Shake Shack-El Segundo,CA",
+    "address": "2171 Rosecrans Ave, El Segundo,CA 90245, (424) 397-2170"
+  },
+  {
+    "lon": -122.2919728,
+    "lat": 37.8335509,
+    "location": "Shake Shack-Emeryville,CA",
+    "address": "5614 Bay St [ste 240], Emeryville,CA 94608, (510) 201-0407"
+  },
+  {
+    "lon": -118.512356,
+    "lat": 34.161652,
+    "location": "Shake Shack-Encino,CA",
+    "address": "17401 Ventura Blvd, Encino,CA 91316, (747) 244-4511"
+  },
+  {
+    "lon": -118.2548779,
+    "lat": 34.1428766,
+    "location": "Shake Shack-Glendale,CA",
+    "address": "252 S Brand Blvd, Glendale,CA 91204, (818) 858-1612"
+  },
+  {
+    "lon": -117.7467467,
+    "lat": 33.6525974,
+    "location": "Shake Shack-Irvine,CA",
+    "address": "512 Spectrum Center Dr, Irvine,CA 92618, (949) 620-4603"
+  },
+  {
+    "lon": -122.50939,
+    "lat": 37.94813,
+    "location": "Shake Shack-Larkspur,CA",
+    "address": "1401 Larkspur Landing Circle, Larkspur,CA 94939, (628) 212-2050"
+  },
+  {
+    "lon": -118.1096458,
+    "lat": 33.7548562,
+    "location": "Shake Shack-Long Beach,CA",
+    "address": "6440 E Pacific Coast Hwy [ste 100], Long Beach,CA 90803, (562) 380-2090"
+  },
+  {
+    "lon": -118.41982,
+    "lat": 34.05996,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "10250 Santa Monica Blvd, Los Angeles,CA 90067, (424) 218-0076"
+  },
+  {
+    "lon": -118.252626,
+    "lat": 34.052838,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "330 South Hope St, Los Angeles,CA 90071, (213) 559-0014"
+  },
+  {
+    "lon": -118.308578,
+    "lat": 34.0624413,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "3785 Wilshire Blvd, Los Angeles,CA 90010, (818) 224-7160"
+  },
+  {
+    "lon": -118.2707221,
+    "lat": 34.0921537,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "3903 W Sunset Blvd, Los Angeles,CA 90029, (323) 484-8524"
+  },
+  {
+    "lon": -118.2559927,
+    "lat": 34.0445016,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "400 West 8th St, Los Angeles,CA 90014, (213) 213-5307"
+  },
+  {
+    "lon": -118.438172,
+    "lat": 33.977838,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "4786 Admiralty Way, Los Angeles,CA 90292, (213) 618-3241"
+  },
+  {
+    "lon": -118.3245952,
+    "lat": 34.1016946,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "6201 Hollywood Blvd, Los Angeles,CA 90028, (323) 593-7763"
+  },
+  {
+    "lon": -118.6060928,
+    "lat": 34.1877649,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "6443 Topanga Canyon Blvd, Los Angeles,CA 91303, (747) 777-5815"
+  },
+  {
+    "lon": -118.3770981,
+    "lat": 34.0886803,
+    "location": "Shake Shack-Los Angeles,CA",
+    "address": "8520 Santa Monica Blvd, Los Angeles,CA 90069, (323) 480-3010"
+  },
+  {
+    "lon": -117.0658009,
+    "lat": 32.6562124,
+    "location": "Shake Shack-National City,CA",
+    "address": "3030 Plaza Bonita Rd, National City,CA 91950, (619) 765-1072"
+  },
+  {
+    "lon": -122.269083,
+    "lat": 37.808912,
+    "location": "Shake Shack-Oakland,CA",
+    "address": "1954 Telegraph Ave, Oakland,CA 94612, (510) 380-6422"
+  },
+  {
+    "lon": -122.1695431,
+    "lat": 37.4449018,
+    "location": "Shake Shack-Palo Alto,CA",
+    "address": "180 El Camino Read [ste 950 Stanford SC], Palo Alto,CA 94304, (650) 509-5101"
+  },
+  {
+    "lon": -118.147075,
+    "lat": 34.132838,
+    "location": "Shake Shack-Pasadena,CA",
+    "address": "750 Arroyo Pkwy, Pasadena,CA 91105, (747) 215-2745"
+  },
+  {
+    "lon": -117.5336094,
+    "lat": 34.1122256,
+    "location": "Shake Shack-Rancho Cucamonga,CA",
+    "address": "12456 North Mainstreet, Rancho Cucamonga,CA 91739, (909) 850-5061"
+  },
+  {
+    "lon": -121.27084,
+    "lat": 38.773586,
+    "location": "Shake Shack-Roseville,CA",
+    "address": "1151 Galleria Blvd [ste FC-12], Roseville,CA 95678, (279) 888-9070"
+  },
+  {
+    "lon": -121.487124,
+    "lat": 38.568376,
+    "location": "Shake Shack-Sacramento,CA",
+    "address": "1710 R St [ste 190], Sacramento,CA 95811, (279) 321-4002"
+  },
+  {
+    "lon": -117.2359885,
+    "lat": 32.9514506,
+    "location": "Shake Shack-San Diego,CA",
+    "address": "3705 Paseo Place [ste 1140], San Diego,CA 92130, (619) 363-3604"
+  },
+  {
+    "lon": -117.2136819,
+    "lat": 32.8725561,
+    "location": "Shake Shack-San Diego,CA",
+    "address": "4309 La Jolla Village Dr [ste 2350], San Diego,CA 92122, (619) 391-1570"
+  },
+  {
+    "lon": -117.169507,
+    "lat": 32.72572,
+    "location": "Shake Shack-San Diego,CA",
+    "address": "2008 India St, San Diego,CA 92101, (619) 331-3958"
+  },
+  {
+    "lon": -117.1595286,
+    "lat": 32.766444,
+    "location": "Shake Shack-San Diego,CA",
+    "address": "675 Camino De La Reina, San Diego,CA 92108, (619) 391-1626"
+  },
+  {
+    "lon": -117.0834579,
+    "lat": 32.9148865,
+    "location": "Shake Shack-San Diego,CA",
+    "address": "11961 Watermark Way, San Diego,CA 92131"
+  },
+  {
+    "lon": -122.4351293,
+    "lat": 37.7977763,
+    "location": "Shake Shack-San Francisco,CA",
+    "address": "3060 Fillmore St, San Francisco,CA 94123, (415) 405-4618"
+  },
+  {
+    "lon": -122.476829,
+    "lat": 37.728935,
+    "location": "Shake Shack-San Francisco,CA",
+    "address": "3251 20th Ave, San Francisco,CA 94132, (415) 382-7271"
+  },
+  {
+    "lon": -122.406443,
+    "lat": 37.784095,
+    "location": "Shake Shack-San Francisco,CA",
+    "address": "845 Market St, San Francisco,CA 94103, (628)  267-2633"
+  },
+  {
+    "lon": -121.861402,
+    "lat": 37.2517315,
+    "location": "Shake Shack-San Jose,CA",
+    "address": "925 Blossom Hill Rd, San Jose,CA 95123, (424) 377-6226"
+  },
+  {
+    "lon": -122.4194637,
+    "lat": 37.6372543,
+    "location": "Shake Shack-San Mateo,CA",
+    "address": "33 Hilldale Shopping Center, San Mateo,CA 94403, (650) 398-1756"
+  },
+  {
+    "lon": -121.947089,
+    "lat": 37.3246,
+    "location": "Shake Shack-Santa Clara,CA",
+    "address": "2855 Stevens Creek Blvd [ste 1748], Santa Clara,CA 95050, (408) 341-6016"
+  },
+  {
+    "lon": -118.497436,
+    "lat": 34.020228,
+    "location": "Shake Shack-Santa Monica,CA",
+    "address": "501 Wilshire Blvd, Santa Monica,CA 90401, (424) 328-5141"
+  },
+  {
+    "lon": -118.8215798,
+    "lat": 34.1587618,
+    "location": "Shake Shack-Thousand Oaks,CA",
+    "address": "120 Promemade Way [ste A], Thousand Oaks,CA 91362, (805) 309-5941"
+  },
+  {
+    "lon": -118.3497562,
+    "lat": 33.8310336,
+    "location": "Shake Shack-Torrance,CA",
+    "address": "3525 W Carson St, Torrance,CA 90503, (424) 447-8076"
+  },
+  {
+    "lon": -122.0616913,
+    "lat": 37.8975271,
+    "location": "Shake Shack-Walnut Creek,CA",
+    "address": "1604 Mt Diablo Blvd, Walnut Creek,CA 94596, (925) 397-6291"
+  },
+  {
+    "lon": -105.255995,
+    "lat": 40.016766,
+    "location": "Shake Shack-Boulder,CO",
+    "address": "1680 29th St, Boulder,CO 80301, (720) 704-7980"
+  },
+  {
+    "lon": -104.8786576,
+    "lat": 39.4239356,
+    "location": "Shake Shack-Castle Rock,CO",
+    "address": "6489 Promenade Pkwy, Castle Rock,CO 80108, (303) 856-9016"
+  },
+  {
+    "lon": -104.8036716,
+    "lat": 38.9911691,
+    "location": "Shake Shack-Colorado Springs,CO",
+    "address": "9723 Federal Dr, Colorado Springs,CO 80921, (719) 895-5256"
+  },
+  {
+    "lon": -104.9807439,
+    "lat": 39.7622106,
+    "location": "Shake Shack-Denver,CO",
+    "address": "2995 Larimer St, Denver,CO 80205, (720) 543-8609"
+  },
+  {
+    "lon": -104.957823,
+    "lat": 39.72081,
+    "location": "Shake Shack-Denver,CO",
+    "address": "260 N Josephine St [ste 101], Denver,CO 80206, (720) 583-7932"
+  },
+  {
+    "lon": -104.674022,
+    "lat": 39.849465,
+    "location": "Shake Shack-Denver Int' Airport,CO",
+    "address": "8500 Pena Blvd [Concourse B], Denver,CO 80249, none listed"
+  },
+  {
+    "lon": -105.057705,
+    "lat": 39.747894,
+    "location": "Shake Shack-Edgewater,CO",
+    "address": "5507 West 20th Ave, Edgewater,CO 80214, (720) 902-5460"
+  },
+  {
+    "lon": -104.896255,
+    "lat": 39.595502,
+    "location": "Shake Shack-Greenwood Village,CO",
+    "address": "7979 East Arapahoe Rd, Greenwood Village,CO 80112, (720) 712-7525"
+  },
+  {
+    "lon": -105.0068082,
+    "lat": 39.5533226,
+    "location": "Shake Shack-Highlands Ranch,CO",
+    "address": "1509 Park Central Dr [ste 100], Highlands Ranch,CO 80129, (720) 452-1007"
+  },
+  {
+    "lon": -104.876034,
+    "lat": 39.562885,
+    "location": "Shake Shack-Lone Tree,CO",
+    "address": "8515 Park Meadows Center Dr, Lone Tree,CO 80124, (none listed)"
+  },
+  {
+    "lon": -73.481203,
+    "lat": 41.380288,
+    "location": "Shake Shack-Danbury,CT",
+    "address": "7 Backus Ave, Danbury,CT 06810, (203) 298-1079"
+  },
+  {
+    "lon": -73.476298,
+    "lat": 41.069942,
+    "location": "Shake Shack-Darien,CT",
+    "address": "1340 Post Rd, Darien,CT 06820, (203) 614-1411"
+  },
+  {
+    "lon": -72.928381,
+    "lat": 41.307049,
+    "location": "Shake Shack-New Haven,CT",
+    "address": "986 Chapel Street, New Haven,CT 06510, (203) 747-8483"
+  },
+  {
+    "lon": -72.727702,
+    "lat": 41.657227,
+    "location": "Shake Shack-Newington,CT",
+    "address": "3329 Berlin Turnpike, Newington,CT 06111, (860) 914-2004"
+  },
+  {
+    "lon": -72.5561826,
+    "lat": 41.8142197,
+    "location": "Shake Shack-South Windsor,CT",
+    "address": "601 Evergreen Way, South Windsor,CT 06074, (860) 337-9611"
+  },
+  {
+    "lon": -73.549539,
+    "lat": 41.073208,
+    "location": "Shake Shack-Stamford,CT",
+    "address": "5 Cold Springs Rd, Stamford,CT 06905, (none listed)"
+  },
+  {
+    "lon": -72.757668,
+    "lat": 41.726036,
+    "location": "Shake Shack-West Hartford,CT",
+    "address": "1445 New Britain Ave [unit 1385], West Hartford,CT 06110, (860) 900-0559"
+  },
+  {
+    "lon": -73.299958,
+    "lat": 41.138211,
+    "location": "Shake Shack-Westport,CT",
+    "address": "1849 Post Road East [just off I-95 Exit 19], Westport,CT 06880, (203) 682-6570"
+  },
+  {
+    "lon": -77.041848,
+    "lat": 38.906367,
+    "location": "Shake Shack-Washington,DC",
+    "address": "1216 18th Street NW [SW corner of Connecticut], Washington,DC 20036, (202) 683-9922"
+  },
+  {
+    "lon": -77.032359,
+    "lat": 38.909044,
+    "location": "Shake Shack-Washington,DC",
+    "address": "1400 14th St NW, Washington,DC 20005, (202) 602-0493"
+  },
+  {
+    "lon": -77.028215,
+    "lat": 38.897343,
+    "location": "Shake Shack-Washington,DC",
+    "address": "800 F Street NW [Corner of 9th Street NW], Washington,DC 20004, (202) 800-9930"
+  },
+  {
+    "lon": -77.025383,
+    "lat": 38.8849103,
+    "location": "Shake Shack-Washington,DC",
+    "address": "975 Wharf St SW, Washington,DC 20024, (202) 869-8345"
+  },
+  {
+    "lon": -77.0065031,
+    "lat": 38.8765273,
+    "location": "Shake Shack-Washington,DC",
+    "address": "54 M St SE [Navy Yard], Washington,DC 20003, (202) 769-5760"
+  },
+  {
+    "lon": -76.994948,
+    "lat": 38.891742,
+    "location": "Shake Shack-Washington,DC",
+    "address": "50 Massachusetts Avenue NE, Washington,DC 20002, (202) 684-2428"
+  },
+  {
+    "lon": -75.6508844,
+    "lat": 39.6726497,
+    "location": "Shake Shack-New Castle,DE",
+    "address": "2120 Fashion Center Blvd, New Castle,DE 19702, (302) 597-7417"
+  },
+  {
+    "lon": -80.1446381,
+    "lat": 25.9686108,
+    "location": "Shake Shack-Aventura,FL",
+    "address": "19565 Biscayne Blvd [ste FH5], Aventura,FL 33180, (786) 204-3807"
+  },
+  {
+    "lon": -80.112114,
+    "lat": 26.365782,
+    "location": "Shake Shack-Boca Raton,FL",
+    "address": "1400 Glades Road [University Commons], Boca Raton,FL 33431, (561) 923-0847"
+  },
+  {
+    "lon": -80.1330271,
+    "lat": 26.3651769,
+    "location": "Shake Shack-Boca Raton,FL",
+    "address": "6000 Glades Rd [Town Ctr Mall Food Court], Boca Raton,FL 33431, (561) 489-4056"
+  },
+  {
+    "lon": -80.281982,
+    "lat": 25.709953,
+    "location": "Shake Shack-Coral Gables,FL",
+    "address": "1450 South Dixie Highway (US1), Coral Gables,FL 33146, (786) 470-3701"
+  },
+  {
+    "lon": -80.145296,
+    "lat": 26.071596,
+    "location": "Shake Shack-Fort Lauderdale,FL",
+    "address": "100 Terminal Dr [Fort Lauderdale Airport-Gate D9], Fort Lauderdale,FL 33130,none listed"
+  },
+  {
+    "lon": -80.11713,
+    "lat": 26.15558,
+    "location": "Shake Shack-Fort Lauderdale,FL",
+    "address": "2400 N Federal Hwy, Fort Lauderdale,FL 33305, (754) 216-4398"
+  },
+  {
+    "lon": -81.525721,
+    "lat": 30.258376,
+    "location": "Shake Shack-Jacksonville,FL",
+    "address": "10281 Midtown Parkway [St Johns Ctr], Jacksonville,FL 32246, (904) 593-8437"
+  },
+  {
+    "lon": -81.387844,
+    "lat": 30.258804,
+    "location": "Shake Shack-Jacksonville Beach,FL",
+    "address": "3856 3rd St S, Jacksonville Beach,FL 32250, (555) 555-5555"
+  },
+  {
+    "lon": -80.3373933,
+    "lat": 25.6452033,
+    "location": "Shake Shack-Miami,FL",
+    "address": "8810 SW 136th St, Miami,FL 33176, (786) 605-5301"
+  },
+  {
+    "lon": -80.192992,
+    "lat": 25.765065,
+    "location": "Shake Shack-Miami,FL",
+    "address": "901 South Miami Ave [ste 109], Miami,FL 33130, (786) 292-5777"
+  },
+  {
+    "lon": -80.140806,
+    "lat": 25.790793,
+    "location": "Shake Shack-Miami,FL",
+    "address": "1111 Lincoln Road [at Lenox Avenue], Miami,FL 33139, (305) 434-7787"
+  },
+  {
+    "lon": -80.312484,
+    "lat": 25.690549,
+    "location": "Shake Shack-Miami,FL",
+    "address": "7535 N Kendall Dr [Dadeland Mall], Miami,FL 33156, (none listed)"
+  },
+  {
+    "lon": -81.4703487,
+    "lat": 28.443922,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "8359 International Dr, Orlando,FL 32819, (407) 205-0362"
+  },
+  {
+    "lon": -81.492619,
+    "lat": 28.384798,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "8200 Vineland Avenue, Orlando,FL 32821"
+  },
+  {
+    "lon": -81.46848,
+    "lat": 28.44814,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "8001 S Orange Blossom Trail [Florida Mall ste 100A], Orlando,FL 32809, (407) 627-1029"
+  },
+  {
+    "lon": -81.4281393,
+    "lat": 28.4869878,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "4068 Conroy Rd, Orlando,FL 32839, (407) 627-1101"
+  },
+  {
+    "lon": -81.484674,
+    "lat": 28.394722,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "11637 Daryl Carter Pkwy, Orlando,FL 32821, (none listed)"
+  },
+  {
+    "lon": -81.492358,
+    "lat": 28.387444,
+    "location": "Shake Shack-Orlando,FL",
+    "address": "8200 Vineland Ave [Vineland Outlets], Orlando,FL 32821, none listed"
+  },
+  {
+    "lon": -80.085331,
+    "lat": 26.849055,
+    "location": "Shake Shack-Palm Beach Gardens,FL",
+    "address": "3101 PGA Blvd [ste L215], Palm Beach Gardens,FL 33410, (561) 788-7008"
+  },
+  {
+    "lon": -82.453114,
+    "lat": 27.383034,
+    "location": "Shake Shack-Sarasota,FL",
+    "address": "190 N Cattlemen Rd [unit 1], Sarasota,FL 34243, (941) 413-1351"
+  },
+  {
+    "lon": -80.321834,
+    "lat": 26.154805,
+    "location": "Shake Shack-Sunrise,FL",
+    "address": "2606 Sawgrall Mills Circle [ste 1301A], Sunrise,FL 33323, (754) 218-8812"
+  },
+  {
+    "lon": -82.503305,
+    "lat": 27.952317,
+    "location": "Shake Shack-Tampa,FL",
+    "address": "1011 Gramercy Lane, Tampa,FL 33607, (813) 588-5240"
+  },
+  {
+    "lon": -81.3652,
+    "lat": 28.602839,
+    "location": "Shake Shack-Winter Park,FL",
+    "address": "119 N Orlando Avenue, Winter Park,FL 32789, (321) 203-5130"
+  },
+  {
+    "lon": -84.294258,
+    "lat": 34.070175,
+    "location": "Shake Shack-Alpharetta,GA",
+    "address": "11780 Haynes Bridge Rd, Alpharetta,GA 30009, (770) 450-0950"
+  },
+  {
+    "lon": -84.3786,
+    "lat": 33.7838926,
+    "location": "Shake Shack-Atlanta,GA",
+    "address": "1071 Piedmont Ave NE, Atlanta,GA 30309, (470) 220-7892"
+  },
+  {
+    "lon": -84.4120529,
+    "lat": 33.7852776,
+    "location": "Shake Shack-Atlanta,GA",
+    "address": "1168 Howell Mill Rd, Atlanta,GA 30318, (470) 225-5484"
+  },
+  {
+    "lon": -84.380318,
+    "lat": 33.837627,
+    "location": "Shake Shack-Atlanta,GA",
+    "address": "3035 Peachtree Road NE [Ste A146] [Buckhead Atlanta], Atlanta,GA 30305, (470) 809-9201"
+  },
+  {
+    "lon": -84.3624199,
+    "lat": 33.8467259,
+    "location": "Shake Shack-Atlanta,GA",
+    "address": "3393 Peachtree Rd NE, Atlanta,GA 30336, (470) 826-4675"
+  },
+  {
+    "lon": -84.36557,
+    "lat": 33.75355,
+    "location": "Shake Shack-Atlanta,GA",
+    "address": "670 DeKalb Ave NE [ste 103], Atlanta,GA 30312, (470) 377-8697"
+  },
+  {
+    "lon": -84.4043808,
+    "lat": 33.6408501,
+    "location": "Shake Shack-Atlanta Intl Airport,GA",
+    "address": "6000 N Terminal Pkwy [Concourse A near Gate A28], Atlanta,GA 30320, (none listed)"
+  },
+  {
+    "lon": -84.340357,
+    "lat": 33.923898,
+    "location": "Shake Shack-Dunwoody,GA",
+    "address": "4400 Ashford Dunwoody Rd [Perimeter Mall ste 3025], Dunwoody,GA 30346, (678) 203-3385"
+  },
+  {
+    "lon": -88.056853,
+    "lat": 41.935581,
+    "location": "Shake Shack-Bloomingdale,IL",
+    "address": "355 Army Trail Rd, Bloomingdale,IL 60108"
+  },
+  {
+    "lon": -87.6249695,
+    "lat": 41.8816643,
+    "location": "Shake Shack-Chicago,IL",
+    "address": "12 S Michigan Ave, Chicago,IL 60603, (312) 646-6005"
+  },
+  {
+    "lon": -87.6520489,
+    "lat": 41.8853573,
+    "location": "Shake Shack-Chicago,IL",
+    "address": "185 N Morgan St, Chicago,IL 60607, (312) 800-8926"
+  },
+  {
+    "lon": -87.6354179,
+    "lat": 41.8781498,
+    "location": "Shake Shack-Chicago,IL",
+    "address": "316 W Jackson Blvd [ste L1-20], Chicago,IL 60606, (312) 604-5820"
+  },
+  {
+    "lon": -87.655687,
+    "lat": 41.9462857,
+    "location": "Shake Shack-Chicago,IL",
+    "address": "3519 North Clark St [ste C105], Chicago,IL 60657, (312) 766-5882"
+  },
+  {
+    "lon": -87.62606,
+    "lat": 41.892593,
+    "location": "Shake Shack-Chicago,IL",
+    "address": "66 E Ohio Street, Chicago,IL 60611, (312) 667-1701"
+  },
+  {
+    "lon": -87.843315,
+    "lat": 42.163013,
+    "location": "Shake Shack-Deerfield,IL",
+    "address": "560 Waukegan Rd, Deerfield,IL 60015"
+  },
+  {
+    "lon": -87.9482922,
+    "lat": 41.8510496,
+    "location": "Shake Shack-Oak Brook,IL",
+    "address": "1950 Spring Rd, Oak Brook,IL 60523, (630) 413-1017"
+  },
+  {
+    "lon": -87.723135,
+    "lat": 41.719014,
+    "location": "Shake Shack-Oak Lawn,IL",
+    "address": "4071 W 95th St, Oak Lawn,IL 60453, none listed"
+  },
+  {
+    "lon": -88.042307,
+    "lat": 42.0503601,
+    "location": "Shake Shack-Schaumburg,IL",
+    "address": "1765 E Golf Rd, Schaumburg,IL 60173, (708) 852-6305"
+  },
+  {
+    "lon": -87.747554,
+    "lat": 42.0588874,
+    "location": "Shake Shack-Skokie,IL",
+    "address": "4999 Old Orchard Center [Old Orchard], Skokie,IL 60077, (847) 380-1240"
+  },
+  {
+    "lon": -87.9411992,
+    "lat": 42.2405912,
+    "location": "Shake Shack-Vernon Hills,IL",
+    "address": "864 E Townline Rd, Vernon Hills,IL 60061, (224) 294-2020"
+  },
+  {
+    "lon": -86.001719,
+    "lat": 39.956566,
+    "location": "Shack Shack-Fisher,IN",
+    "address": "9701 E 116th St, Fishers,IN 46037, (463) 215-6946"
+  },
+  {
+    "lon": -86.154864,
+    "lat": 39.771409,
+    "location": "Shack Shack-Indianapolis,IN",
+    "address": "167 New York St, Indianapolis,IN 46204, (463) 215-6170"
+  },
+  {
+    "lon": -86.296983,
+    "lat": 39.717627,
+    "location": "Shack Shack-Indianapolis,IN",
+    "address": "7800 Col H Weir Cook Memorial Dr [Inter Airport], Indianapolis,IN 46241"
+  },
+  {
+    "lon": -86.110128,
+    "lat": 39.914559,
+    "location": "Shack Shack-Indianapolis,IN",
+    "address": "8702 Keystone Crossing, Indianapolis,IN 46240, (463) 219-6164"
+  },
+  {
+    "lon": -94.646259,
+    "lat": 38.913509,
+    "location": "Shake Shack-Leawood,KS",
+    "address": "5200 W 119th St, Leawood,KS 66209, (913) 320-1229"
+  },
+  {
+    "lon": -84.3322601,
+    "lat": 37.9127808,
+    "location": "Shake Shack-Lexington,KY",
+    "address": "115 Summit at Fritz Farm [ste 110], Lexington,KY 40515, (859) 721-1295"
+  },
+  {
+    "lon": -91.091433,
+    "lat": 30.390085,
+    "location": "Shake Shack-Baton Rouge,LA",
+    "address": "6651 Bluebonnet Blvd, Baton Rouge,LA 70836, (225) 338-4666"
+  },
+  {
+    "lon": -90.25721,
+    "lat": 29.98569,
+    "location": "Shake Shack-Kenner,LA",
+    "address": "900 Arline Dr [Louis Armstrong Int's Airport], Kenner,LA 70062, (none listed)"
+  },
+  {
+    "lon": -90.15953,
+    "lat": 30.00388,
+    "location": "Shake Shack-Metairie,LA",
+    "address": "3501 Veterans Memorial, Metairie,LA 70002, (504) 380-0279"
+  },
+  {
+    "lon": -90.06499,
+    "lat": 29.951231,
+    "location": "Shake Shack-New Orleans,LA",
+    "address": "333 Canal St [space 1.21B], New Orleans,LA 70130, (504) 677-8001"
+  },
+  {
+    "lon": -71.0755997,
+    "lat": 42.3514519,
+    "location": "Shake Shack-Boston,MA",
+    "address": "234-236 Newbury St, Boston,MA 02116, (617) 933-5050"
+  },
+  {
+    "lon": -71.05863,
+    "lat": 42.3568,
+    "location": "Shake Shack-Boston,MA",
+    "address": "322 Washington St, Boston,MA 02108, (857) 504-8932"
+  },
+  {
+    "lon": -71.0445895,
+    "lat": 42.3512851,
+    "location": "Shake Shack-Boston,MA",
+    "address": "77 Seaport Blvd, Boston,MA 02210, (617) 337-4699"
+  },
+  {
+    "lon": -71.0826358,
+    "lat": 42.3484723,
+    "location": "Shake Shack-Boston,MA",
+    "address": "800 Boylston St, Boston,MA 02199, (617)915-8055"
+  },
+  {
+    "lon": -71.213678,
+    "lat": 42.482405,
+    "location": "Shake Shack-Burlington,MA",
+    "address": "75 Middlesex Turnpike [ste 1550], Burlington,MA 01803, (781) 253-5399"
+  },
+  {
+    "lon": -71.120802,
+    "lat": 42.372191,
+    "location": "Shake Shack-Cambridge,MA",
+    "address": "92 Winthrop Street [Harvard Square], Cambridge,MA 02138, (617) 758-8495"
+  },
+  {
+    "lon": -71.170713,
+    "lat": 42.321693,
+    "location": "Shake Shack-Chestnut Hill,MA",
+    "address": "49 Boylston Street [THE STREET], Chestnut Hill,MA 02467, (617) 651-3406"
+  },
+  {
+    "lon": -71.1768633,
+    "lat": 42.2312193,
+    "location": "Shake Shack-Dedham,MA",
+    "address": "226 Legacy Place, Dedham,MA 02026, (781) 489-7330"
+  },
+  {
+    "lon": -71.068652,
+    "lat": 42.395425,
+    "location": "Shake Shack-Everett,MA",
+    "address": "1 Broadway, Everett,MA 02149, (617) 272-9692"
+  },
+  {
+    "lon": -70.9080257,
+    "lat": 42.1808514,
+    "location": "Shake Shack-Hingham,MA",
+    "address": "100 Derby St, Hingham,MA 02043, (781) 374-8672"
+  },
+  {
+    "lon": -71.078617,
+    "lat": 42.392921,
+    "location": "Shake Shack-Somerville,MA",
+    "address": "355 Assembly Row, Somerville,MA 02145, (617) 604-3025"
+  },
+  {
+    "lon": -71.1795649,
+    "lat": 42.364917,
+    "location": "Shake Shack-Watertown,MA",
+    "address": "106 Arsenal Yards Blvd, Watertown,MA 02472, (617) 505-4716"
+  },
+  {
+    "lon": -71.132198,
+    "lat": 42.504263,
+    "location": "Shake Shack-Woburn,MA",
+    "address": "300 Mishawum Rd [unit 700], Woburn,MA 01801, (781) 208-6166"
+  },
+  {
+    "lon": -76.62266,
+    "lat": 39.27777,
+    "location": "Shake Shack-Baltimore,MD",
+    "address": "1101 Russell St, Baltimore,MD 21230, (none listed)"
+  },
+  {
+    "lon": -76.5621312,
+    "lat": 39.2777299,
+    "location": "Shake Shack-Baltimore,MD",
+    "address": "3902 Boston St, Baltimore,MD 21224, (410) 449-2981"
+  },
+  {
+    "lon": -76.6093216,
+    "lat": 39.2870369,
+    "location": "Shake Shack-Baltimore,MD",
+    "address": "400 E Pratt St [Inner Harbor], Baltimore,MD 21202, (443) 973-3630"
+  },
+  {
+    "lon": -77.146023,
+    "lat": 39.024161,
+    "location": "Shack Shack-Bethesda,MD",
+    "address": "7101 Democracy Blvd, Bethesda,MD 20817, (240) 226-7144"
+  },
+  {
+    "lon": -76.86137,
+    "lat": 39.215712,
+    "location": "Shake Shack-Columbia,MD",
+    "address": "10300 Little Patuxent Pkwy [ste 3040], Columbia,MD 21044, (443) 741-8308"
+  },
+  {
+    "lon": -77.233649,
+    "lat": 39.1229708,
+    "location": "Shake Shack-Gaithersburg,MD",
+    "address": "150 Kentlands Place, Gaithersburg,MD 20878, (240) 240-7344"
+  },
+  {
+    "lon": -77.01466,
+    "lat": 38.78584,
+    "location": "Shake Shack-Oxon Hill,MD",
+    "address": "101 MGM National Ave, Oxon Hill,MD 20745, (240) 672-0155"
+  },
+  {
+    "lon": -77.1584412,
+    "lat": 39.0404969,
+    "location": "Shake Shack-Potomac,MD",
+    "address": "7997 Tuckerman Lane, Potomac,MD 20854, (301) 679-6470"
+  },
+  {
+    "lon": -76.601771,
+    "lat": 39.401562,
+    "location": "Shake Shack-Towson,MD",
+    "address": "1 East Joppa Rd [ste 100], Towson,MD 21286, (410) 498-4790"
+  },
+  {
+    "lon": -83.698913,
+    "lat": 42.257075,
+    "location": "Shake Shack-Ann Arbor,MI",
+    "address": "3030 Washtenaw Ave [#107], Ann Arbor,MI 48104, none listed"
+  },
+  {
+    "lon": -83.04539,
+    "lat": 42.33098,
+    "location": "Shake Shack-Detroit,MI",
+    "address": "660 Woodward Ave [Downtown Detroit], Detroit,MI 48226, (313-672-0501"
+  },
+  {
+    "lon": -83.4322541,
+    "lat": 42.425436,
+    "location": "Shake Shack-Livonia,MI",
+    "address": "39300 W 7 Mile Rd, Livonia,MI 48152, (734) 339-2939"
+  },
+  {
+    "lon": -83.192648,
+    "lat": 42.681862,
+    "location": "Shake Shack-Rochester Hills,MI",
+    "address": "66 N Adams, Rochester Hills,MI 48309, (248) 873-4547"
+  },
+  {
+    "lon": -82.988628,
+    "lat": 42.6263186,
+    "location": "Shake Shack-Sterling Heights,MI",
+    "address": "13883 Lakeside Circle, Sterling Heights,MI 48313, (586) 544-4958"
+  },
+  {
+    "lon": -83.184123,
+    "lat": 42.562855,
+    "location": "Shake Shack-Troy,MI",
+    "address": "2800 W Big Beaver Rd [ste X337], Troy,MI 48084, (947) 209-4240"
+  },
+  {
+    "lon": -83.1639907,
+    "lat": 42.5621327,
+    "location": "Shake Shack-Troy,MI",
+    "address": "850 West Big Beaver Rd, Troy,MI 48084, (248) 817-1529"
+  },
+  {
+    "lon": -93.242645,
+    "lat": 44.8554524,
+    "location": "Shake Shack-Bloomington,MN",
+    "address": "332 North Garden [Mall of America], Bloomington,MN 55425, (952) 466-6056"
+  },
+  {
+    "lon": -93.326418,
+    "lat": 44.883428,
+    "location": "Shake Shack-Edina,MN",
+    "address": "6603 France Ave S, Edina,MN 55435, (612) 389-1151"
+  },
+  {
+    "lon": -93.437398,
+    "lat": 45.09372,
+    "location": "Shake Shack-Maple Grove,MN",
+    "address": "12351 Elm Creek Blvd N, Maple Grove,MN 55369, (763) 319-8570"
+  },
+  {
+    "lon": -93.1689203,
+    "lat": 45.0144137,
+    "location": "Shake Shack-Roseville,MN",
+    "address": "1630 County Rd B2 W, Roseville,MN 55113, (747) 271-2744"
+  },
+  {
+    "lon": -93.211102,
+    "lat": 44.88348,
+    "location": "Shake Shack-St Paul,MN",
+    "address": "4300 Glumack Dr, St Paul,MN 55111, (612) 726-5360"
+  },
+  {
+    "lon": -90.6026925,
+    "lat": 38.667861,
+    "location": "Shake Shack-Chesterfield,MO",
+    "address": "17312 Chesterfield Airport Rd, Chesterfield,MO 63005, (314) 347-4751"
+  },
+  {
+    "lon": -94.589725,
+    "lat": 39.042212,
+    "location": "Shake Shack-Kansas City,MO",
+    "address": "239 West 47th St, Kansas City,MO 64112, (816) 708-4030"
+  },
+  {
+    "lon": -94.416512,
+    "lat": 38.928562,
+    "location": "Shake Shack-Lee's Summit,MO",
+    "address": "2051 NW Lowenstein Dr, Lee's Summit,MO 64081, (816) 327-5395"
+  },
+  {
+    "lon": -90.353394,
+    "lat": 38.653947,
+    "location": "Shake Shack-St Louis,MO",
+    "address": "8885 Ladue Rd [Ladue Crossing-ste H], Saint Louis,MO 63124, (314) 582-6352"
+  },
+  {
+    "lon": -90.2619336,
+    "lat": 38.641399,
+    "location": "Shake Shack-St Louis,MO",
+    "address": "60 North Euclid, St Louis,MO 63108, (314) 627-5518"
+  },
+  {
+    "lon": -90.20285785,
+    "lat": 38.62709,
+    "location": "Shake Shack-St Louis,MO",
+    "address": "1401 Clark Ave [next to portal 4], St Louis,MO 63103, (none listed)"
+  },
+  {
+    "lon": -78.7774333,
+    "lat": 35.7390317,
+    "location": "Shake Shack-Cary,NC",
+    "address": "310 Colonades Way, Cary,NC 27518, (919) 230-9390"
+  },
+  {
+    "lon": -79.0263848,
+    "lat": 35.9354845,
+    "location": "Shake Shack-Chapel Hill,NC",
+    "address": "1800 East Franklin St, Chapel Hill,NC 27514, (984) 309-4312"
+  },
+  {
+    "lon": -80.942959,
+    "lat": 35.220619,
+    "location": "Shake Shack-Charlotte,NC",
+    "address": "5501 Josh Birmingham Pkwy [DE Concourse], Charlotte,NC 28208, (none listed)"
+  },
+  {
+    "lon": -80.861043,
+    "lat": 35.211083,
+    "location": "Shake Shack-Charlotte,NC",
+    "address": "1930 Camden Rd [ste 235], Charlotte,NC 28203, (704)386-6566"
+  },
+  {
+    "lon": -80.8492254,
+    "lat": 35.1722877,
+    "location": "Shake Shack-Charlotte,NC",
+    "address": "1605 East Woodlawn Rd, Charlotte,NC 28209, (980) 265-3188"
+  },
+  {
+    "lon": -80.806383,
+    "lat": 35.034124,
+    "location": "Shake Shack-Charlotte,NC",
+    "address": "9824 Rea Rd [ste A], Charlotte,NC 28277, (980) 221-1821"
+  },
+  {
+    "lon": -80.882875,
+    "lat": 35.443119,
+    "location": "Shake Shack-Huntersville,NC",
+    "address": "16633 Birkdale Commons Pkwy, Huntersville,NC 28078, (704) 396-8100"
+  },
+  {
+    "lon": -78.722052,
+    "lat": 35.803448,
+    "location": "Shake Shack-Raleigh,NC",
+    "address": "1400 Edwards Mill Rd, Raleigh,NC 27607, (919) 861-2300"
+  },
+  {
+    "lon": -71.224642,
+    "lat": 42.770957,
+    "location": "Shake Shack-Salem,NH",
+    "address": "100 Via Toscana [Tuscan Village], Salem,NH 03079, (603} 896-9132"
+  },
+  {
+    "lon": -74.6138674,
+    "lat": 40.583881,
+    "location": "Shake Shack-Bridgewater,NJ",
+    "address": "610 Commons Way [Ste 4320], Bridgewater,NJ 08807, (732) 347-8820"
+  },
+  {
+    "lon": -75.002616,
+    "lat": 39.885909,
+    "location": "Shake Shack-Cherry Hill,NJ",
+    "address": "700 New Jersey Turnpike [Walt Whitman TP], Cherry Hill,NJ 08034, (856) 382-9870"
+  },
+  {
+    "lon": -74.44455,
+    "lat": 40.41757,
+    "location": "Shake Shack-East Brunswick,NJ",
+    "address": "8n NJ Tpke [Joyce Kilmer SP], East Brunswick,NJ 08816, (none listed)"
+  },
+  {
+    "lon": -74.055474,
+    "lat": 40.287443,
+    "location": "Shake Shack-Eatontown,NJ",
+    "address": "180 NJ 35 South [space opo5], Eatontown,NJ 07724, (732) 876-3641"
+  },
+  {
+    "lon": -74.3324446,
+    "lat": 40.5448449,
+    "location": "Shake Shack-Edison,NJ",
+    "address": "1521A US Rt 1, Edison,NJ 08837, (732) 395-4376"
+  },
+  {
+    "lon": -74.0305788,
+    "lat": 40.7379131,
+    "location": "Shake Shack-Hoboken,NJ",
+    "address": "111 Washington St[ste 101], Hoboken,NJ 07030, (551) 277-1487"
+  },
+  {
+    "lon": -74.0379931,
+    "lat": 40.726806,
+    "location": "Shake Shack-Jersey City,NJ",
+    "address": "30 Mall Dr West, Jersey City,NJ 08837, (201) 256-0187"
+  },
+  {
+    "lon": -74.0429037,
+    "lat": 40.71919,
+    "location": "Shake Shack-Jersey City,NJ",
+    "address": "318 Grove St, Jersey City,NJ 07302, (201) 366-0690"
+  },
+  {
+    "lon": -74.6850223,
+    "lat": 40.2934452,
+    "location": "Shake Shack-Lawrence Township,NJ",
+    "address": "3303 Brunswick Pike, Lawrence Township,NJ 08648, (609) 512-5137"
+  },
+  {
+    "lon": -74.3407161,
+    "lat": 40.7981654,
+    "location": "Shake Shack-Livingston,NJ",
+    "address": "280 Eisenhower Pkwy, Livingston,NJ 07039, (973) 629-8329"
+  },
+  {
+    "lon": -74.9331096,
+    "lat": 39.8947443,
+    "location": "Shake Shack-Marlton,NJ",
+    "address": "321 Rt 70 West [Marlton Commons], Marlton,NJ 08053, (856) 334-3679"
+  },
+  {
+    "lon": -74.1823626,
+    "lat": 40.6876996,
+    "location": "Shake Shack-Newark,NJ",
+    "address": "3 Brewster St [Newark Liberty Int' Airport], Newark,NJ 07114, (none listed)"
+  },
+  {
+    "lon": -74.075367,
+    "lat": 40.917162,
+    "location": "Shake Shack-Paramus,NJ",
+    "address": "1 Garden State Plaza [Level 2] [near Macy's Court and the Carousel], Paramus,NJ 07652, (201) 576-8096"
+  },
+  {
+    "lon": -74.073769,
+    "lat": 40.953522,
+    "location": "Shake Shack-Paramus,NJ",
+    "address": "479 Route 17 South [Between Midland & Ridgewood Aves], Paramus,NJ 07652, (201) 241-2381"
+  },
+  {
+    "lon": -74.431131,
+    "lat": 40.874484,
+    "location": "Shake Shack-Parsippany,NJ",
+    "address": "70 Waterview Blvd, Parsippany,NJ 07054, (862) 286-2750"
+  },
+  {
+    "lon": -74.029785,
+    "lat": 40.822362,
+    "location": "Shack Shack-Ridgefiele,NJ",
+    "address": "116E NJ Tpke [Vince Lombardi SA], Ridgefield,NJ 07657"
+  },
+  {
+    "lon": -74.2525309,
+    "lat": 40.69892586,
+    "location": "Shake Shack-Union,NJ",
+    "address": "1 Vauxhall Rd, Union,NJ 07083, (none listed)"
+  },
+  {
+    "lon": -74.099092,
+    "lat": 40.198232,
+    "location": "Shake Shack-Wall Township,NJ",
+    "address": "Garden State Pkwy MM 100 [Monmouth Travel Plaza], Wall Township,NJ 07719, (none listed)"
+  },
+  {
+    "lon": -74.254462,
+    "lat": 40.88762,
+    "location": "Shake Shack-Wayne,NJ",
+    "address": "96 Willowbrook Blvd, Wayne,NJ 07470, (862) 684-8660"
+  },
+  {
+    "lon": -115.0855548,
+    "lat": 36.0216594,
+    "location": "Shake Shack-Henderson,NV",
+    "address": "2225 Village Walk Dr [ste 191], Henderson,NV 89052, (none listed)"
+  },
+  {
+    "lon": -115.2665405,
+    "lat": 36.1523819,
+    "location": "Shake Shack-Las Vegas,NV",
+    "address": "10975 Oval Park Dr [Dining Arroyo], Las Vegas,NV 89135, (702) 964-1025"
+  },
+  {
+    "lon": -115.1750488,
+    "lat": 36.1021042,
+    "location": "Shake Shack-Las Vegas,NV",
+    "address": "3790 S Las Vegas Blvd, Las Vegas,NV 89109, (725) 222-6730"
+  },
+  {
+    "lon": -115.1568023,
+    "lat": 36.1636349,
+    "location": "Shake Shack-Las Vegas,NV",
+    "address": "905 South Grand Central Pkwy [ste 1700], Las Vegas,NV 89106, (702) 570-1613"
+  },
+  {
+    "lon": -115.151737,
+    "lat": 36.083335,
+    "location": "Shake Shack-Las Vegas,NV",
+    "address": "McCarran International Airport [Termina 1/A & B Rotunda], Las Vegas,NV 89119, (702) 261-4324"
+  },
+  {
+    "lon": -115.1398296,
+    "lat": 36.1699412,
+    "location": "Shake Shack-Las Vegas,NV",
+    "address": "3790 S Las Vegas Blvd [T-Mobile Arena], Las Vegas,NV, (none listed)"
+  },
+  {
+    "lon": -73.830652,
+    "lat": 40.867191,
+    "location": "Shake Shack-Bronx,NY",
+    "address": "344 Baychester Ave, Bronx,NY 10475, (929) 392-1029"
+  },
+  {
+    "lon": -73.991875,
+    "lat": 40.701476,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "1 Old Fulton Street [Corner of Water Street], Brooklyn,NY 11201, (347) 435-2676"
+  },
+  {
+    "lon": -73.9529747,
+    "lat": 40.6803573,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "1190 Fulton St, Brooklyn,NY 11216, (586) 323-8145"
+  },
+  {
+    "lon": -73.9939523,
+    "lat": 40.7031423,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "2 Water St [old fulton and water st], Brooklyn,NY 11201, (347) 435-2676"
+  },
+  {
+    "lon": -73.988485,
+    "lat": 40.692049,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "409 Fulton Street [between Willoughby Street and Saratoga Race Course], Brooklyn,NY 11201, (718) 307-7590"
+  },
+  {
+    "lon": -73.9208363,
+    "lat": 40.6104056,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "5100 Kings Plaza, Brooklyn,NY 11234, (917) 590-7983"
+  },
+  {
+    "lon": -73.976714,
+    "lat": 40.682747,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "170 Flatbush Avenue, Brooklyn,NY 11217, (347) 442-7711"
+  },
+  {
+    "lon": -73.96064,
+    "lat": 40.71743,
+    "location": "Shake Shack-Brooklyn,NY",
+    "address": "160 Berry St, Brooklyn,NY 11249, (529) 427-0420"
+  },
+  {
+    "lon": -74.129982,
+    "lat": 41.3310814,
+    "location": "Shake Shack-Central Valley,NY",
+    "address": "199 Niagara, Central Valley,NY 10917, (845) 827-3140"
+  },
+  {
+    "lon": -73.8716385,
+    "lat": 40.7341598,
+    "location": "Shake Shack-Elmhurst,NY",
+    "address": "90-15 Queens Blvd, Elmhurst,NY 11373, (347) 225-0190"
+  },
+  {
+    "lon": -73.8439786,
+    "lat": 40.7198507,
+    "location": "Shake Shack-Forest Hills,NY",
+    "address": "71-24 Austin St, Forest Hills,NY 11375, (718) 928-3234"
+  },
+  {
+    "lon": -73.644938,
+    "lat": 40.737659,
+    "location": "Shake Shack-Garden City,NY",
+    "address": "860 Old Country Road [The Gallery at Westbury Plaza], Garden City,NY 11530, (516) 620-2880"
+  },
+  {
+    "lon": -73.789425,
+    "lat": 41.030232,
+    "location": "Shake Shack-Hartsdale,NY",
+    "address": "379 North Central Ave, Hartsdale,NY 10530, (914) 529-8801"
+  },
+  {
+    "lon": -73.79834,
+    "lat": 40.703606,
+    "location": "Shake Shack-Jamaica,NY",
+    "address": "160-16 Jamaica Ave, Jamaica,NY 11432, (718) 957-0744"
+  },
+  {
+    "lon": -73.1282695,
+    "lat": 40.870532,
+    "location": "Shake Shack-Lake Grove,NY",
+    "address": "2093 Smith Haven Plaza, Lake Grove,NY 11755, (631) 246-1096"
+  },
+  {
+    "lon": -73.413727,
+    "lat": 40.800357,
+    "location": "Shake Shack-Melville,NY",
+    "address": "849 Walt Whitman Rd, Melville,NY 11747, (631) 386-8017"
+  },
+  {
+    "lon": -74.012088,
+    "lat": 41.09742,
+    "location": "Shake Shack-Nanuet,NY",
+    "address": "4 West Rt 59 [Rockland Plaza], Nanuet,NY 10954, (845) 671-3380"
+  },
+  {
+    "lon": -73.6899678,
+    "lat": 40.7544205,
+    "location": "Shake Shack-New Hyde Park,NY",
+    "address": "1570 Union Turnpike, New Hyde Park,NY 11040, (516) 634-2010"
+  },
+  {
+    "lon": -73.935475,
+    "lat": 40.818313,
+    "location": "Shake Shack-New York,NY",
+    "address": "1 West 125th St, New York,NY 10027, (929) 472-7170"
+  },
+  {
+    "lon": -73.9852502,
+    "lat": 40.7551634,
+    "location": "Shake Shack-New York,NY",
+    "address": "120 West 42nd St [ste C], New York,NY 10036, (646) 517-6142"
+  },
+  {
+    "lon": -73.850981,
+    "lat": 40.753013,
+    "location": "Shake Shack-New York,NY",
+    "address": "12301 Roosevelt Ave [CITI field], New York,NY 11368, (none listed)"
+  },
+  {
+    "lon": -73.986687,
+    "lat": 40.719347,
+    "location": "Shake Shack-New York,NY",
+    "address": "131 Rivington St, New York,NY 10002, (332) 258-7883"
+  },
+  {
+    "lon": -73.9932872,
+    "lat": 40.755322,
+    "location": "Shake Shack-New York,NY",
+    "address": "1333 Broadway [Herald Square], New York,NY 10018, (646) 230-0696"
+  },
+  {
+    "lon": -73.954926,
+    "lat": 40.779013,
+    "location": "Shake Shack-New York,NY",
+    "address": "154 East 86th Street [mid-block between Lexington and 3rd Ave], New York,NY 10028, (646) 237-5035"
+  },
+  {
+    "lon": -73.982175,
+    "lat": 40.76329,
+    "location": "Shake Shack-New York,NY",
+    "address": "1700 Broadway, New York,NY 10019, (912) 942-6038"
+  },
+  {
+    "lon": -73.9810458,
+    "lat": 40.7045567,
+    "location": "Shake Shack-New York,NY",
+    "address": "20 Hudson Yards, New York,NY 10001, (646) 380-4944"
+  },
+  {
+    "lon": -73.988905,
+    "lat": 40.7316017,
+    "location": "Shake Shack-New York,NY",
+    "address": "20 Third Ave, New York,NY 10003, (646) 813-2189"
+  },
+  {
+    "lon": -74.0021019,
+    "lat": 40.7071498,
+    "location": "Shake Shack-New York,NY",
+    "address": "200 Broadway Level 2 [Fulton Center], New York 10038, (646) 374-3450"
+  },
+  {
+    "lon": -74.01477,
+    "lat": 40.715234,
+    "location": "Shake Shack-New York,NY",
+    "address": "215 Murray Street [between West St & North End Ave], New York,NY 10282, (646) 545-4600"
+  },
+  {
+    "lon": -74.00545,
+    "lat": 40.72899,
+    "location": "Shake Shack-New York,NY",
+    "address": "225 Varick St, New York,NY 10014, (646) 517-1541"
+  },
+  {
+    "lon": -73.98798,
+    "lat": 40.7408761,
+    "location": "Shake Shack-New York,NY",
+    "address": "23rd St and 24th St, New York,NY 10010, (212) 889-6600"
+  },
+  {
+    "lon": -73.9641322,
+    "lat": 40.8079565,
+    "location": "Shake Shack-New York,NY",
+    "address": "2957 Broadway, New York,NY 10025, (646) 383-5506"
+  },
+  {
+    "lon": -73.976507,
+    "lat": 40.780859,
+    "location": "Shake Shack-New York,NY",
+    "address": "366 Columbus Avenue [at West 77th St], New York,NY 10024, (646) 747-8770"
+  },
+  {
+    "lon": -73.9775864,
+    "lat": 40.7521313,
+    "location": "Shake Shack-New York,NY",
+    "address": "49 Grand Central Terminal [Lower Level Dining Concourse], New York,NY 10017, (646) 517-5804"
+  },
+  {
+    "lon": -74.0000046,
+    "lat": 40.75388,
+    "location": "Shake Shack-New York,NY",
+    "address": "500 W 33rd St, New York,NY 10001, (646) 380-4944"
+  },
+  {
+    "lon": -73.990579,
+    "lat": 40.729795,
+    "location": "Shake Shack-New York,NY",
+    "address": "51 Astor Place, New York,NY 10003, (646) 813-2189"
+  },
+  {
+    "lon": -73.97585,
+    "lat": 40.749379,
+    "location": "Shake Shack-New York,NY",
+    "address": "600 Third Avenue, New York,NY 10016, (646) 668-4880"
+  },
+  {
+    "lon": -73.9711148,
+    "lat": 40.7585387,
+    "location": "Shake Shack-New York,NY",
+    "address": "630 Lexington Ave, New York,NY 10022, (646) 741-6103"
+  },
+  {
+    "lon": -73.989147,
+    "lat": 40.758283,
+    "location": "Shake Shack-New York,NY",
+    "address": "691 8th Avenue [8th Ave & 44th St], New York,NY 10036, (646) 435-0135"
+  },
+  {
+    "lon": -74.0088855,
+    "lat": 40.7396039,
+    "location": "Shake Shack-New York,NY",
+    "address": "820 Washington St, New York,NY 10014, (332) 246-0272"
+  },
+  {
+    "lon": -73.97723,
+    "lat": 40.7527277,
+    "location": "Shake Shack-New York,NY",
+    "address": "89 E 42nd St [inside grand cnetral], New York,NY 10017, (646) 517-5804"
+  },
+  {
+    "lon": -73.7900085,
+    "lat": 40.6437111,
+    "location": "Shake Shack-New York,NY",
+    "address": "John F Kennedy International Airport [Delta Terminal 4 / Gate B23 & B37], New York,NY 11430, (718) 751-4760"
+  },
+  {
+    "lon": -73.9920578,
+    "lat": 40.7515373,
+    "location": "Shake Shack-New York,NY",
+    "address": "Penn Station Lower Concourse, New York,NY 10119, (646) 202-9715"
+  },
+  {
+    "lon": -73.9878616,
+    "lat": 40.7421646,
+    "location": "Shake Shack-New York,NY",
+    "address": "SE Corner of Madison Square Park [near Madison Ave and E 23rd St], New York,NY, (646) 747-2606"
+  },
+  {
+    "lon": -73.6391174,
+    "lat": 40.624597,
+    "location": "Shake Shack-Oceanside,NY",
+    "address": "3535 Long Beach Rd, Oceanside,NY 11572, (516) 842-7085"
+  },
+  {
+    "lon": -73.88675,
+    "lat": 40.76952,
+    "location": "Shake Shack-Queens,NY",
+    "address": "Laguardia Airport [Terminal B near Gate 42], Queens,NY 11371, none listed"
+  },
+  {
+    "lon": -73.748059,
+    "lat": 43.0705,
+    "location": "Shake Shack-Saratoga Springs,NY",
+    "address": "267 Union Avenue, Saratoga Springs,NY 12866, (none listed)"
+  },
+  {
+    "lon": -74.16608,
+    "lat": 40.58125,
+    "location": "Shake Shack-Staten Island,NY",
+    "address": "2655 Richmond Ave, Staten Island,NY 10314, (929) 529-0513"
+  },
+  {
+    "lon": -74.076516,
+    "lat": 40.643368,
+    "location": "Shake Shack-Staten Island,NY",
+    "address": "35 Richmond Terrace [ste 323], Staten Island,NY 10301, (929) 473-9131"
+  },
+  {
+    "lon": -73.759761,
+    "lat": 41.031445,
+    "location": "Shake Shack-White Plains,NY",
+    "address": "125 Westchester Ave, White Plains,NY 10601, (914) 387-0012"
+  },
+  {
+    "lon": -73.8550939,
+    "lat": 40.9285656,
+    "location": "Shake Shack-Yonkers,NY",
+    "address": "2090 Mall Walk, Yonkers,NY 10704, (914) 289-1301"
+  },
+  {
+    "lon": -73.8544953,
+    "lat": 40.9279449,
+    "location": "Shake Shack-Yonkers,NY",
+    "address": "8000 Mall Walk [space 2090], Yonkers,NY 10704, (914) 289-1301"
+  },
+  {
+    "lon": -81.6891563,
+    "lat": 41.5003246,
+    "location": "Shake Shack-Cleveland,OH",
+    "address": "1965 East 6th St, Cleveland,OH 44113, (216) 243-5023"
+  },
+  {
+    "lon": -81.83314,
+    "lat": 41.41054,
+    "location": "Shake Shack-Cleveland,OH",
+    "address": "5300 Riverside Dr [Cleveland Hopkins Inter Main Concourse B & C gates], Cleveland,OH 44135, none listed"
+  },
+  {
+    "lon": -81.68916,
+    "lat": 41.5001,
+    "location": "Shake Shack-Cleveland,OH",
+    "address": "601 Euclid Ave, Cleveland,OH 44114, (216) 243-5023"
+  },
+  {
+    "lon": -82.982057,
+    "lat": 40.145624,
+    "location": "Shake Shack-Columbus,OH",
+    "address": "1370 Polaris Pkwy, Columbus,OH 43240, (740) 276-7387"
+  },
+  {
+    "lon": -83.0898796,
+    "lat": 40.0965867,
+    "location": "Shake Shack-Columbus,OH",
+    "address": "3734 W Dublin Granville Rd, Columbus,OH 43235, (614) 696-5848"
+  },
+  {
+    "lon": -83.0039581,
+    "lat": 39.9788538,
+    "location": "Shake Shack-Columbus,OH",
+    "address": "740 N High St, Columbus,OH 43215, (614) 697-2029"
+  },
+  {
+    "lon": -82.91566,
+    "lat": 40.05197,
+    "location": "Shake Shack-Columbus,OH",
+    "address": "4005 The Strand West [Easton TC space 430], Columbus,OH 43229, (614) 407-7728"
+  },
+  {
+    "lon": -82.5040351,
+    "lat": 40.7585961,
+    "location": "Shake Shack-Orange Village,OH",
+    "address": "311 Park Ave [ste 121a], Orange Village,OH 44122, (441) 600-8689"
+  },
+  {
+    "lon": -81.9492954,
+    "lat": 41.4557011,
+    "location": "Shake Shack-Westlake,OH",
+    "address": "2209 Crocker Rd, Westlake,OH 44145, (440) 614-1173"
+  },
+  {
+    "lon": -122.803899,
+    "lat": 45.501412,
+    "location": "Shake Shack-Beaverton,OR",
+    "address": "2597 SW Cedar Hills Blvd [ste 100], Beaverton,OR 97005, (971) 204-8477"
+  },
+  {
+    "lon": -122.6814728,
+    "lat": 45.5226997,
+    "location": "Shake Shack-Portland,OR",
+    "address": "1016 W Burnside St, Portland,OR 97209, (619) 900-2008"
+  },
+  {
+    "lon": -122.752304,
+    "lat": 45.3954075,
+    "location": "Shake Shack-Tigard,OR",
+    "address": "7439 SW Bridgeport Rd, Tigard,OR 97224, (971) 979-1105"
+  },
+  {
+    "lon": -75.28952,
+    "lat": 40.008494,
+    "location": "Shake Shack-Ardmore,PA",
+    "address": "40 Coulter Ave [ste 130], Ardmore,PA 19003, (610) 215-9829"
+  },
+  {
+    "lon": -75.3932463,
+    "lat": 40.0854461,
+    "location": "Shake Shack-King of Prussia,PA",
+    "address": "160 North Gulph Road [Ste 233] [The Plaza at King of Prussia], King of Prussia,PA 19406, (267) 428-7560"
+  },
+  {
+    "lon": -75.3878215,
+    "lat": 40.0876763,
+    "location": "Shake Shack-King of Prussia,PA",
+    "address": "350 Mall Blvd [King of Prussia ste 3031], King of Prussia,PA 19406, (484) 679-8335"
+  },
+  {
+    "lon": -76.3378033,
+    "lat": 40.0600207,
+    "location": "Shack Shake-Lancaster,PA",
+    "address": "1100 Christopher Pl, Lancaster,PA 17601, (717) 527-3826"
+  },
+  {
+    "lon": -75.2413202,
+    "lat": 40.2377705,
+    "location": "Shack Shack-North Wales,PA",
+    "address": "28 Airport Square, North Wales,PA 19454, (267) 651-2113"
+  },
+  {
+    "lon": -75.187679,
+    "lat": 39.953739,
+    "location": "Shake Shack-Philadelphia,PA",
+    "address": "3200 Chestnut Street, Philadelphia,PA 19104, (267) 338-3464"
+  },
+  {
+    "lon": -75.173786,
+    "lat": 39.951257,
+    "location": "Shake Shack-Philadelphia,PA",
+    "address": "2000 Sansom Street [at 20th Street], Philadelphia,PA 19103, (215) 809-1742"
+  },
+  {
+    "lon": -75.171874,
+    "lat": 39.901096,
+    "location": "Shake Shack-Philadelphia,PA",
+    "address": "3601 S Broad St, Philadelphia,PA 19148, none listed"
+  },
+  {
+    "lon": -75.1665,
+    "lat": 39.906059,
+    "location": "Shake Shack-Philadelphia,PA",
+    "address": "1 Citizens Bank Way [Citizens Bank Park], Philadelphia,PA 19148, none listed"
+  },
+  {
+    "lon": -75.16006,
+    "lat": 39.95022,
+    "location": "Shake Shack-Philadelphia,PA",
+    "address": "105 South 12th St [unit 1-01], Philadelphia,PA 19107, (215) 709-2702"
+  },
+  {
+    "lon": -75.281993,
+    "lat": 40.115944,
+    "location": "Shake Shack-Plymouth Meeting,PA",
+    "address": "500 West Germantown Pike [ste 730], Plymouth Meeting,PA 19462, (610) 215-9809"
+  },
+  {
+    "lon": -75.342346,
+    "lat": 39.9154083,
+    "location": "Shake Shack-Springfield,PA",
+    "address": "950 Baltimore Pike, Springfield,PA 19064, (610) 600-6532"
+  },
+  {
+    "lon": -75.483485,
+    "lat": 40.628397,
+    "location": "Shake Shack-Whitehall,PA",
+    "address": "1457 MacArthur Rd, Whitehall,PA 18052, (570) 300-8694"
+  },
+  {
+    "lon": -71.457933,
+    "lat": 41.763937,
+    "location": "Shake Shack-Cranston,RI",
+    "address": "30 Hillside Rd [Garden City], Cranston,RI 02920, (401) 296-5350"
+  },
+  {
+    "lon": -71.40053,
+    "lat": 41.82848,
+    "location": "Shake Shack-Providence,RI",
+    "address": "249 Thayer St [1st Floor], Providence,RI 02906, (401) 214-1823"
+  },
+  {
+    "lon": -86.826338,
+    "lat": 35.936243,
+    "location": "Shake Shack-Franklin,TN",
+    "address": "5027 Aspen Grove Dr, Franklin,TN 37067, (615) 237-6411"
+  },
+  {
+    "lon": -86.8163247,
+    "lat": 36.1032997,
+    "location": "Shake Shack-Nashville,TN",
+    "address": "4031 Hillsboro Pike [ste 904], Nashville,TN 37215, (615) 610-6326"
+  },
+  {
+    "lon": -86.779136,
+    "lat": 36.161162,
+    "location": "Shake Shack-Nashville,TN",
+    "address": "5002 Broadway Place, Nashville,TN 37203, (615) 619-5331"
+  },
+  {
+    "lon": -86.6691776,
+    "lat": 36.130534,
+    "location": "Shake Shack-Nashville,TN",
+    "address": "BNA Airport 1 Terminal Dr [C/C Food Court], Nashville,TN 37214, (none listed)"
+  },
+  {
+    "lon": -97.761879,
+    "lat": 30.2555068,
+    "location": "Shake Shack-Austin,TX",
+    "address": "1100 South Lamar Blvd [corner of South Lamar & Treadwell], Austin,TX 78704, (512) 717-0430"
+  },
+  {
+    "lon": -97.7259341,
+    "lat": 30.3982995,
+    "location": "Shake Shack-Austin,TX",
+    "address": "11228 Domain Dr [The Dormain], Austin,TX 78759, (512) 717-0422"
+  },
+  {
+    "lon": -96.8038825,
+    "lat": 32.7932212,
+    "location": "Shake Shack-Dallas,TX",
+    "address": "2500 N Pearl St [The Crescent], Dallas,TX 75201, (214) 983-1023"
+  },
+  {
+    "lon": -96.816588,
+    "lat": 32.952789,
+    "location": "Shake Shack-Dallas,TX",
+    "address": "5290 Belt Line Rd [ste 112A], Dallas,TX 75254, (469( 501-5430"
+  },
+  {
+    "lon": -96.76856,
+    "lat": 32.853458,
+    "location": "Shake Shack-Dallas,TX",
+    "address": "5500 Greenville Ave [unit 505], Dallas,TX 75206, (469) 501-5031"
+  },
+  {
+    "lon": -96.80279,
+    "lat": 32.89577,
+    "location": "Shake Shack-Dallas,TX",
+    "address": "6025 Royal Lane [ste 305], Dallas,TX 75230, (469) 445-2240"
+  },
+  {
+    "lon": -96.7739298,
+    "lat": 32.868639,
+    "location": "Shake Shack-Dallas,TX",
+    "address": "8687 N Central Expwy, Dallas,TX 75225, (972) 348-0863"
+  },
+  {
+    "lon": -97.037679,
+    "lat": 32.855702,
+    "location": "Shake Shack-DFW Airport,TX",
+    "address": "2400 Aviation Dr [DFW Airport Terminal C near Gate C7], DFW Airport,TX 75261, none listed"
+  },
+  {
+    "lon": -97.34795,
+    "lat": 32.788,
+    "location": "Shake Shack-Fort Worth,TX",
+    "address": "122 E Exchange Ave [ste 160], Fort Worth,TX 76164, (817) 885-5420"
+  },
+  {
+    "lon": -97.3608357,
+    "lat": 32.7279743,
+    "location": "Shake Shack-Fort Worth,TX",
+    "address": "1601 S University Dr, Fort Worth,TX 76107, (817) 290-2249"
+  },
+  {
+    "lon": -95.39209,
+    "lat": 29.74496,
+    "location": "Shake Shack-Houston,TX",
+    "address": "1002 Westheimer Rd, Houston,TX 77006, (346) 299-6603"
+  },
+  {
+    "lon": -95.7063989,
+    "lat": 29.7857225,
+    "location": "Shake Shack-Houston,TX",
+    "address": "19300 Katy Fwy, Houston,TX 77084, (346) 527-0593"
+  },
+  {
+    "lon": -95.35662,
+    "lat": 29.75703,
+    "location": "Shake Shack-Houston,TX",
+    "address": "501 Crawford Miad Park, Houston,TX 77002, (none listed)"
+  },
+  {
+    "lon": -95.461341,
+    "lat": 29.740623,
+    "location": "Shake Shack-Houston,TX",
+    "address": "5015 Westheimer Rd [Houston Galleria ste A2411], Houston,TX 77056, (281) 213-0445"
+  },
+  {
+    "lon": -95.4183642,
+    "lat": 29.7156728,
+    "location": "Shake Shack-Houston,TX",
+    "address": "6205 Kirby Dr, Houston,TX 77005, (346) 998-2820"
+  },
+  {
+    "lon": -95.363379,
+    "lat": 29.759187,
+    "location": "Shake Shack-Houston,TX",
+    "address": "702 Main St, Houston,TX 77002, (281) 800-1450"
+  },
+  {
+    "lon": -96.9598767,
+    "lat": 32.9024399,
+    "location": "Shake Shack-Irving,TX",
+    "address": "6781 N MacArthur Blvd, Irvine,TX 75039, (469) 351-1002"
+  },
+  {
+    "lon": -96.9598483,
+    "lat": 32.9030437,
+    "location": "Shake Shack-Irving,TX",
+    "address": "7170 N State Hwy 161, Irving,TX 75039, (469) 351-1002"
+  },
+  {
+    "lon": -96.637799,
+    "lat": 33.2147679,
+    "location": "Shake Shack-McKinney,TX",
+    "address": "1727 N Central Expressway, McKinney,TX 75071, (469) 905-4927"
+  },
+  {
+    "lon": -96.7965589,
+    "lat": 33.0277088,
+    "location": "Shake Shack-Plano,TX",
+    "address": "5009 W Park Blvd, Plano,TX 75093, (469) 485-5784"
+  },
+  {
+    "lon": -96.8263688,
+    "lat": 33.0793376,
+    "location": "Shake Shack-Plano,TX",
+    "address": "7401 Windrose Ave [ste 150], Plano,TX 75024, (972) 665-7175"
+  },
+  {
+    "lon": -97.6900422,
+    "lat": 30.5210244,
+    "location": "Shake Shack-Round Rock,TX",
+    "address": "1402 N Interstate Hwy 35, Round Rock,TX 78681, (737) 738-5890"
+  },
+  {
+    "lon": -98.50089,
+    "lat": 29.51807,
+    "location": "Shake Shack-San Antonio,TX",
+    "address": "7427 San Pedro Ave [ste 107], San Antonio,TX 78216, (210) 277-4770"
+  },
+  {
+    "lon": -98.47187,
+    "lat": 29.4548,
+    "location": "Shake Shack-San Antonio,TX",
+    "address": "3003 Broadway St, San Antonio,TX 78209, (210) 469-3732"
+  },
+  {
+    "lon": -97.987019,
+    "lat": 29.825173,
+    "location": "Shake Shack-San Marcos,TX",
+    "address": "4025 IH 35, San Marcos,TX 78666, (737) 221-0528"
+  },
+  {
+    "lon": -97.12869,
+    "lat": 32.94183,
+    "location": "Shake Shack-Southlake,TX",
+    "address": "125 Central Ave, Southlake,TX 76092, (817) 809-8545"
+  },
+  {
+    "lon": -95.6192238,
+    "lat": 29.5960169,
+    "location": "Shake Shack-Sugar Land,TX",
+    "address": "2515 Town Center Blvd N, Sugar Land,TX 77479, (346) 521-2551"
+  },
+  {
+    "lon": -95.456957,
+    "lat": 30.164871,
+    "location": "Shake Shack-The Woodlands,TX",
+    "address": "1201 Lake Woodlands Dr [ste 3034], The Woodlands,TX 77382"
+  },
+  {
+    "lon": -111.88845,
+    "lat": 40.637505,
+    "location": "Shake Shack-Murray,UT",
+    "address": "6123 South State St [Fashion Place], Murray,UT 84107, (801) 474-7930"
+  },
+  {
+    "lon": -111.983788,
+    "lat": 41.187537,
+    "location": "Shake Shack-Ogden,UT",
+    "address": "4142 Riverdale Rd, Ogden,UT 84405, (385) 785-0011"
+  },
+  {
+    "lon": -111.982034,
+    "lat": 40.786898,
+    "location": "Shake Shack-Salt Lake City,UT",
+    "address": "776 N Terminal Dr [Airport], Salt Lake City,UT 84122, none listed"
+  },
+  {
+    "lon": -111.89129,
+    "lat": 40.55123,
+    "location": "Shake Shack-Sandy,UT",
+    "address": "11020 S State St [ste B], Sandy,UT 84070, (385) 276-3190"
+  },
+  {
+    "lon": -77.11097,
+    "lat": 38.88051,
+    "location": "Shake Shack-Arlington,VA",
+    "address": "4201 Wilson Blvd [ste 0180], Arlington,VA 22203, (571) 620-1323"
+  },
+  {
+    "lon": -77.0606308,
+    "lat": 38.8633499,
+    "location": "Shake Shack-Arlington,VA",
+    "address": "1100 South Hayes St [space H25], Arlington,VA 22202, (703) 454-0552"
+  },
+  {
+    "lon": -77.44325115,
+    "lat": 38.91088766,
+    "location": "Shake Shack-Chantilly,VA",
+    "address": "14390 Air and Space Museum Pkwy, Chantilly,VA 20151, (none listed)"
+  },
+  {
+    "lon": -77.2292888,
+    "lat": 38.871724,
+    "location": "Shake Shack-Fairfax,VA",
+    "address": "2911 District Ave, Fairfax,VA 22031, (571) 307-6701"
+  },
+  {
+    "lon": -77.2208203,
+    "lat": 38.9192632,
+    "location": "Shake Shack-McLean,VA",
+    "address": "7924U Tysons Corner Center [The Plaza at Tysons Corner Center], McLean,VA 22102, (571) 620-0383"
+  },
+  {
+    "lon": -77.4999954,
+    "lat": 37.5875692,
+    "location": "Shake Shack-Richmond,VA",
+    "address": "5400 West Broad St, Richmond,VA 23230. (804) 404-7459"
+  },
+  {
+    "lon": -76.13188,
+    "lat": 36.847375,
+    "location": "Shake Shack-Virginia Beach,VA",
+    "address": "296 Constitution Dr, Virginai Beach,VA 23462, (757) 427-4480"
+  },
+  {
+    "lon": -122.2006149,
+    "lat": 47.6739159,
+    "location": "Shake Shack-Kirkland,WA",
+    "address": "300 Peter Kirk Lane, Kirkland,WA 98033, (414) 509-1080"
+  },
+  {
+    "lon": -122.26951,
+    "lat": 47.829045,
+    "location": "Shake Shack-Lynnwood,WA",
+    "address": "18800 Alderwood Mall Pkwy, Lynwood,WA 98037, (425) 475-4793"
+  },
+  {
+    "lon": -122.33845,
+    "lat": 47.61706,
+    "location": "Shake Shack-Seattle,WA",
+    "address": "2115 Westlake Ave, Seattle,WA 98121, (206) 279-2313"
+  },
+  {
+    "lon": -122.2992555,
+    "lat": 47.6635113,
+    "location": "Shake Shack-Seattle,WA",
+    "address": "2580 NE University Village St, Seattle,WA 98105, (206) 487-1283"
+  },
+  {
+    "lon": -122.257964,
+    "lat": 47.4588849,
+    "location": "Shake Shack-Seattle,WA",
+    "address": "2600 Southcenter Mall, Seattle,WA 98188, (206) 776-9880"
+  },
+  {
+    "lon": -88.1672904,
+    "lat": 43.0369277,
+    "location": "Shake Shack-Brookfield,WI",
+    "address": "585 N Barker Rd, Brookfield,WI 53005, (262) 648-3675"
+  },
+  {
+    "lon": -89.4524733,
+    "lat": 43.0718917,
+    "location": "Shake Shack-Madison,WI",
+    "address": "558 N Midvale Blvd, Madison,WI 53705, (608) 867-2103"
+  },
+  {
+    "lon": -87.9085632,
+    "lat": 43.0337898,
+    "location": "Shake Shack-Milwaukee,WI",
+    "address": "220 East Buffalo St [ste 110], Milwaukee,WI 53202, (414) 509-1080"
+  }
+]

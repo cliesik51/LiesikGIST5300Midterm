@@ -1,0 +1,5018 @@
+[
+  {
+    "lon": -85.361445,
+    "lat": 31.214419,
+    "location": "Checkers-Dothan,AL",
+    "address": "1111 Ross Clark Circle, Dothan,AL 36301|(334) 671-5545"
+  },
+  {
+    "lon": -85.402859,
+    "lat": 31.191029,
+    "location": "Checkers-Dothan,AL",
+    "address": "2204 Ross Clark Circle, Dothan,AL 36301|(334) 671-8333"
+  },
+  {
+    "lon": -85.427573,
+    "lat": 31.251645,
+    "location": "Checkers-Dothan,AL",
+    "address": "3107 Montgomery Hwy, Dothan,AL 36303|(334) 671-2368"
+  },
+  {
+    "lon": -86.627624,
+    "lat": 34.735048,
+    "location": "Checkers-Huntsville,AL",
+    "address": "4000 University Drive, Huntsville,AL 35816|(256) 837-4670"
+  },
+  {
+    "lon": -88.088936,
+    "lat": 30.630311,
+    "location": "Checkers-Mobile,AL",
+    "address": "1965 Dauphin Island Pkwy, Mobile,AL 36605|(251) 478-3534"
+  },
+  {
+    "lon": -88.093065,
+    "lat": 30.676462,
+    "location": "Checkers-Mobile,AL",
+    "address": "2213 Airport Blvd, Mobile,AL 36606|(251) 479-9968"
+  },
+  {
+    "lon": -88.083391,
+    "lat": 30.718027,
+    "location": "Checkers-Mobile,AL",
+    "address": "2300 St Stephens, Mobile,AL 36617|(251) 452-3730"
+  },
+  {
+    "lon": -88.225477,
+    "lat": 30.685147,
+    "location": "Checkers-Mobile,AL",
+    "address": "312 Schillinger Rd S, Mobile,AL 36608|(251) 633-8154"
+  },
+  {
+    "lon": -88.12016,
+    "lat": 30.689525,
+    "location": "Checkers-Mobile,AL",
+    "address": "3206 Dauphin Street, Mobile,AL 36606|(251) 450-0380"
+  },
+  {
+    "lon": -88.191421,
+    "lat": 30.678772,
+    "location": "Checkers-Mobile,AL",
+    "address": "6404 Airport Blvd, Mobile,AL 36608|(251) 342-6462"
+  },
+  {
+    "lon": -88.054711,
+    "lat": 30.688418,
+    "location": "Checkers-Mobile,AL",
+    "address": "8 N Broad, Mobile,AL 36602|(251) 432-5176"
+  },
+  {
+    "lon": -86.269156,
+    "lat": 32.418436,
+    "location": "Checkers-Montgomery,AL",
+    "address": "1955 Coliseum Blvd, Montgomery,AL 36110|(334) 523-1029"
+  },
+  {
+    "lon": -86.261165,
+    "lat": 32.326564,
+    "location": "Checkers-Montgomery,AL",
+    "address": "2380 E South Blvd, Montgomery,AL 36116|(334) 593-1669"
+  },
+  {
+    "lon": -87.611476,
+    "lat": 33.236916,
+    "location": "Checkers-Northport,AL",
+    "address": "5550 McFarland Blvd, Northport,AL 35473|(205) 764-9581"
+  },
+  {
+    "lon": -85.405488,
+    "lat": 32.637971,
+    "location": "Checkers-Opelika,AL",
+    "address": "2009 Pepperell Parkway, Opelika,AL 36801|(334) 745-7733"
+  },
+  {
+    "lon": -85.642528,
+    "lat": 31.439588,
+    "location": "Checkers-Ozark,AL",
+    "address": "1090 US Hwy 231 South, Ozark,AL 36360|(334) 774-2807"
+  },
+  {
+    "lon": -87.525373,
+    "lat": 33.169019,
+    "location": "Checkers-Tuscaloosa,AL",
+    "address": "4300 McFarland Blvd, Tuscaloosa,AL 35404|(205) 750-8767"
+  },
+  {
+    "lon": -87.54235,
+    "lat": 33.198696,
+    "location": "Checkers-Tuscaloosa,AL",
+    "address": "521 15th Street, Tuscaloosa,AL 35401|(205) 345-4608"
+  },
+  {
+    "lon": -90.668352,
+    "lat": 35.827368,
+    "location": "Checkers-Jonesboro,AR",
+    "address": "1498 Red Wolf Blvd, Jonesboro,AR 72401|(870) 520-5084"
+  },
+  {
+    "lon": -90.677843,
+    "lat": 35.804493,
+    "location": "Checkers-Jonesboro,AR",
+    "address": "3224 S Caraway Rd, Jonesboro,AR 72404|(870) 935-8200"
+  },
+  {
+    "lon": -90.505395,
+    "lat": 36.053873,
+    "location": "Checkers-Paragould,AR",
+    "address": "304 Linwood Dr, Paragould,AR 72450|(870) 215-0969"
+  },
+  {
+    "lon": -119.11005,
+    "lat": 35.387883,
+    "location": "Checkers-Bakersfield,CA",
+    "address": "3009 Calloway Dr, Bakersfield,CA 93312|(661) 829-1657"
+  },
+  {
+    "lon": -76.972269,
+    "lat": 38.917461,
+    "location": "Checkers-Washington,DC",
+    "address": "2300 New York Ave NE, Washington,DC 20002|(202) 269-9377"
+  },
+  {
+    "lon": -75.58174,
+    "lat": 39.69115,
+    "location": "Checkers-New Castle,DE",
+    "address": "1503 N Dupont Hwy, New Castle,DE 19720|(302) 328-5269"
+  },
+  {
+    "lon": -75.57186,
+    "lat": 39.74911,
+    "location": "Checkers-Wilmington,DE",
+    "address": "1901 West 4th St, Wilmington,DE 19805|(302) 256-0316"
+  },
+  {
+    "lon": -75.520481,
+    "lat": 39.761478,
+    "location": "Checkers-Wilmington,DE",
+    "address": "4301 N Market St, Wilmington,DE 19802|(302) 764-9043"
+  },
+  {
+    "lon": -81.398776,
+    "lat": 28.661988,
+    "location": "Checkers-Altamonte Springs,FL",
+    "address": "431 State Road 436 W, Altamonte Springs,FL 32714|(407) 862-9214"
+  },
+  {
+    "lon": -81.5039,
+    "lat": 28.673128,
+    "location": "Checkers-Apopka,FL",
+    "address": "355 E Main Street, Apopka,FL 32703|(407) 884-4844"
+  },
+  {
+    "lon": -81.5143029,
+    "lat": 27.5999063,
+    "location": "Checkers-Avon Park,FL",
+    "address": "382 US 27, Avon Park,FL 33825|(863) 452-6444"
+  },
+  {
+    "lon": -81.843607,
+    "lat": 27.910154,
+    "location": "Checkers-Bartow,FL",
+    "address": "1595 N Broadway Ave, Bartow,FL 33830|(863) 533-2700"
+  },
+  {
+    "lon": -82.057809,
+    "lat": 29.059737,
+    "location": "Checkers-Belleview,FL",
+    "address": "5497 SE Abshier Blvd, Belleview,FL 34420|(352) 307-3131"
+  },
+  {
+    "lon": -80.078594,
+    "lat": 26.528948,
+    "location": "Checkers-Boynton Beach,FL",
+    "address": "755 W Boynton Beach Blvd, Boynton Beach,FL 33426|(561) 735-9090"
+  },
+  {
+    "lon": -82.613142,
+    "lat": 27.462594,
+    "location": "Checkers-Bradenton,FL",
+    "address": "5140 Cortez Road W, Bradenton,FL 34210|(941) 798-3585"
+  },
+  {
+    "lon": -82.546687,
+    "lat": 27.448933,
+    "location": "Checkers-Bradenton,FL",
+    "address": "5220 15th St East, Bradenton,FL 34203|(941) 753-0373"
+  },
+  {
+    "lon": -82.306993,
+    "lat": 27.937828,
+    "location": "Checkers-Brandon,FL",
+    "address": "1520 W Brandon Blvd, Brandon,FL 33511|(813) 689-7275"
+  },
+  {
+    "lon": -82.400041,
+    "lat": 28.546903,
+    "location": "Checkers-Brooksville,FL",
+    "address": "852 S Broad Street, Brooksville,FL 34601|(352) 799-6923"
+  },
+  {
+    "lon": -82.787309,
+    "lat": 27.939378,
+    "location": "Checkers-Clearwater,FL",
+    "address": "1595 Missouri Ave, Clearwater,FL 33756|(727) 446-3089"
+  },
+  {
+    "lon": -82.709091,
+    "lat": 27.98141,
+    "location": "Checkers-Clearwater,FL",
+    "address": "1610 McMullen Booth Road, Clearwater,FL 33759|(727) 799-7715"
+  },
+  {
+    "lon": -82.775411,
+    "lat": 27.988998,
+    "location": "Checkers-Clearwater,FL",
+    "address": "1877 Highland Ave N, Clearwater,FL 33755|(727) 446-8195"
+  },
+  {
+    "lon": -82.754659,
+    "lat": 27.916611,
+    "location": "Checkers-Clearwater,FL",
+    "address": "3150 East Bay Dr, Clearwater,FL 33771|(727) 535-2350"
+  },
+  {
+    "lon": -82.700731,
+    "lat": 27.894028,
+    "location": "Checkers-Clearwater,FL",
+    "address": "4909 Ulmerton Rd, Clearwater,FL 33760|(727) 572-4451"
+  },
+  {
+    "lon": -80.258839,
+    "lat": 26.272571,
+    "location": "Checkers-Coral Springs,FL",
+    "address": "9935 W Sample Rd, Coral Springs,FL 33065|(954) 344-2612"
+  },
+  {
+    "lon": -82.187363,
+    "lat": 28.340853,
+    "location": "Checkers-Dade City,FL",
+    "address": "12600 US 301, Dade City,FL 33525|(352) 567-9717"
+  },
+  {
+    "lon": -81.0323,
+    "lat": 29.173839,
+    "location": "Checkers-Daytona Beach,FL",
+    "address": "1174 Beville Road, Daytona Beach,FL 32114|(386) 258-3901"
+  },
+  {
+    "lon": -81.076917,
+    "lat": 29.186443,
+    "location": "Checkers-Daytona Beach,FL",
+    "address": "2210 International Speedway Blvd, Daytona Beach,FL 32114|(386) 252-1895"
+  },
+  {
+    "lon": -81.028035,
+    "lat": 29.208701,
+    "location": "Checkers-Daytona Beach,FL",
+    "address": "575 W International Speedway Blvd, Daytona Beach,FL 32114|(386) 253-7816"
+  },
+  {
+    "lon": -81.048591,
+    "lat": 29.222054,
+    "location": "Checkers-Daytona Beach,FL",
+    "address": "898 Nova Road, Daytona Beach,FL 32117|(386) 255-1613"
+  },
+  {
+    "lon": -80.127947,
+    "lat": 26.318049,
+    "location": "Checkers-Deerfield Beach,FL",
+    "address": "1799 W Hillsboro Blvd, Deerfield Beach,FL 33422|(954) 426-5560"
+  },
+  {
+    "lon": -81.303357,
+    "lat": 29.026949,
+    "location": "Checkers-DeLand,FL",
+    "address": "133 S Woodland Blvd., DeLand,FL 32720|(386) 943-9653"
+  },
+  {
+    "lon": -80.077683,
+    "lat": 26.461558,
+    "location": "Checkers-Delray Beach,FL",
+    "address": "450 W Atlantic Ave, Delray Beach,FL 33444|(561) 278-9939"
+  },
+  {
+    "lon": -81.245184,
+    "lat": 28.905099,
+    "location": "Checkers-Deltona,FL",
+    "address": "1537 Saxon Blvd, Deltona,FL 32725|(386) 516-8787"
+  },
+  {
+    "lon": -81.3476148,
+    "lat": 28.652627,
+    "location": "Checkers-Fern Park,FL",
+    "address": "7551 S 17/92 Hwy, Fern Park,FL 32730|(407) 462-3306"
+  },
+  {
+    "lon": -80.17815,
+    "lat": 26.121624,
+    "location": "Checkers-Ft Lauderdale,FL",
+    "address": "2701 W Broward Blvd, Ft Lauderdale,FL 33312|(954) 583-5062"
+  },
+  {
+    "lon": -80.140295,
+    "lat": 26.136856,
+    "location": "Checkers-Ft Lauderdale,FL",
+    "address": "400 E Sunrise Blvd, Ft Lauderdale,FL 33304|(954) 767-8947"
+  },
+  {
+    "lon": -82.339174,
+    "lat": 29.678467,
+    "location": "Checkers-Gainesville,FL",
+    "address": "2826 NW 13th Street, Gainesville,FL 32609|(352) 378-5092"
+  },
+  {
+    "lon": -82.371457,
+    "lat": 29.652168,
+    "location": "Checkers-Gainesville,FL",
+    "address": "3325 W University Avenue, Gainesville,FL 32607|(352) 373-8520"
+  },
+  {
+    "lon": -82.334223,
+    "lat": 29.652078,
+    "location": "Checkers-Gainesville,FL",
+    "address": "912 W University Avenue, Gainesville,FL 32601|(352) 373-2069"
+  },
+  {
+    "lon": -81.639808,
+    "lat": 28.125321,
+    "location": "Checkers-Haines City,FL",
+    "address": "36114 Hwy 27, Haines City,FL 33844|(863) 421-6512"
+  },
+  {
+    "lon": -80.306681,
+    "lat": 25.942292,
+    "location": "Checkers-Hialeah,FL",
+    "address": "6692 NW 186th Street, Hialeah,FL 33015|(305) 825-0108"
+  },
+  {
+    "lon": -80.266456,
+    "lat": 25.86703,
+    "location": "Checkers-Hialeah,FL",
+    "address": "820 E 49th Street, Hialeah,FL 33013|(305) 685-3999"
+  },
+  {
+    "lon": -80.346247,
+    "lat": 25.884055,
+    "location": "Checkers-Hialeah Gardens,FL",
+    "address": "9190 NW 122nd St, Hialeah Gardens,FL 33018|(813) 283-7000"
+  },
+  {
+    "lon": -82.740486,
+    "lat": 28.180649,
+    "location": "Checkers-Holiday,FL",
+    "address": "1501 US Highway 19, Holiday,FL 34691|(727) 938-1842"
+  },
+  {
+    "lon": -80.211139,
+    "lat": 26.010117,
+    "location": "Checkers-Hollywood,FL",
+    "address": "6171 Hollywood Blvd, Hollywood,FL 33024|(954) 966-9573"
+  },
+  {
+    "lon": -80.472511,
+    "lat": 25.477142,
+    "location": "Checkers-Homestead,FL",
+    "address": "236 NE 8th Street, Homestead,FL 33030|(305) 242-9330"
+  },
+  {
+    "lon": -82.665374,
+    "lat": 28.330998,
+    "location": "Checkers-Hudson,FL",
+    "address": "9014 SR 52, Hudson,FL 34667|(727) 868-4181"
+  },
+  {
+    "lon": -82.335627,
+    "lat": 28.835986,
+    "location": "Checkers-Inverness,FL",
+    "address": "510 W Main, Inverness,FL 34450|(352) 637-9669"
+  },
+  {
+    "lon": -81.526424,
+    "lat": 30.287008,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "11361 Beach Blvd, Jacksonville,FL 32246|(904) 645-5438"
+  },
+  {
+    "lon": -81.680508,
+    "lat": 30.342705,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "1526 Kings Road, Jacksonville,FL 32209|(904) 791-1100"
+  },
+  {
+    "lon": -81.604292,
+    "lat": 30.276213,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "5927 University Blvd, Jacksonville,FL 32216|(904) 730-3063"
+  },
+  {
+    "lon": -81.765301,
+    "lat": 30.24808,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "7214 103rd St, Jacksonville,FL 32210|(904) 323-3435"
+  },
+  {
+    "lon": -81.578877,
+    "lat": 30.313422,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "7504 Atlantic Blvd, Jacksonville,FL 32211|(904) 720-5487"
+  },
+  {
+    "lon": -81.679358,
+    "lat": 30.391146,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "7809 Lem Turner Highway, Jacksonville,FL 32208|(904) 765-0076"
+  },
+  {
+    "lon": -81.661097,
+    "lat": 30.429917,
+    "location": "Checkers-Jacksonville,FL",
+    "address": "930 Dunn Avenue, Jacksonville,FL 32218|(904) 696-7777"
+  },
+  {
+    "lon": -81.366157,
+    "lat": 28.345327,
+    "location": "Checkers-Kissimmee,FL",
+    "address": "1939 Osceola Pkwy, Kissimmee,FL 34743|(407) 344-9107"
+  },
+  {
+    "lon": -81.516454,
+    "lat": 28.332452,
+    "location": "Checkers-Kissimmee,FL",
+    "address": "5780 Irlo Bronson Highway, Kissimmee,FL 34746|(407) 396-0069"
+  },
+  {
+    "lon": -80.057569,
+    "lat": 26.609452,
+    "location": "Checkers-Lake Worth,FL",
+    "address": "524 S Dixie Hwy, Lake Worth,FL 33460|(561) 582-2100"
+  },
+  {
+    "lon": -80.113321,
+    "lat": 26.571312,
+    "location": "Checkers-Lake Worth,FL",
+    "address": "7050 S Military Trail, Lake Worth,FL 33463|(561) 965-2876"
+  },
+  {
+    "lon": -81.957037,
+    "lat": 28.010472,
+    "location": "Checkers-Lakeland,FL",
+    "address": "2919 S Florida Ave, Lakeland,FL 33803|(863) 682-3193"
+  },
+  {
+    "lon": -81.973492,
+    "lat": 28.130137,
+    "location": "Checkers-Lakeland,FL",
+    "address": "6785 US Hwy 98 N, Lakeland,FL 33809|(863) 858-3449"
+  },
+  {
+    "lon": -81.945332,
+    "lat": 28.05501,
+    "location": "Checkers-Lakeland,FL",
+    "address": "991 E Memorial Blvd., Lakeland,FL 33801|(863) 603-9224"
+  },
+  {
+    "lon": -80.222774,
+    "lat": 26.164662,
+    "location": "Checkers-Lauderhill,FL",
+    "address": "5400 W Oakland Park Blvd., Lauderhill,FL 33313|(954) 735-7004"
+  },
+  {
+    "lon": -80.251957,
+    "lat": 26.193078,
+    "location": "Checkers-Lauderhill,FL",
+    "address": "5590 N University Dr, Lauderhill,FL 33319|(954) 746-7222"
+  },
+  {
+    "lon": -81.89682,
+    "lat": 28.84323,
+    "location": "Checkers-Leesburg,FL",
+    "address": "2508 Citrus Blvd, Leesburg,FL 34748|(352) 728-1333"
+  },
+  {
+    "lon": -80.20465,
+    "lat": 26.227867,
+    "location": "Checkers-Margate,FL",
+    "address": "225 S SR 7, Margate,FL 33068|(954) 972-1755"
+  },
+  {
+    "lon": -80.671816,
+    "lat": 28.14875,
+    "location": "Checkers-Melbourne,FL",
+    "address": "2505 N Wickham Rd, Melbourne,FL 32935|(321) 242-9902"
+  },
+  {
+    "lon": -80.69991,
+    "lat": 28.3654,
+    "location": "Checkers-Merritt Island,FL",
+    "address": "520 N Courtenay Pkwy, Merritt Island,FL 32953|(321) 459-1199"
+  },
+  {
+    "lon": -80.367573,
+    "lat": 25.732432,
+    "location": "Checkers-Miami,FL",
+    "address": "10695 Bird Rd, Miami,FL 33165|(305) 220-2823"
+  },
+  {
+    "lon": -80.334643,
+    "lat": 25.642534,
+    "location": "Checkers-Miami,FL",
+    "address": "13625 South Dixie Hwy, Miami,FL 33177|(305) 378-6611"
+  },
+  {
+    "lon": -80.189012,
+    "lat": 25.790936,
+    "location": "Checkers-Miami,FL",
+    "address": "1650 Biscayne Blvd, Miami,FL 33132|(305) 579-2117"
+  },
+  {
+    "lon": -80.347139,
+    "lat": 25.614011,
+    "location": "Checkers-Miami,FL",
+    "address": "16790 S Dixie Hwy, Miami,FL 33157|(305) 238-2254"
+  },
+  {
+    "lon": -80.225672,
+    "lat": 25.809302,
+    "location": "Checkers-Miami,FL",
+    "address": "1782 NW 36th St, Miami,FL 33142|(786) 310-7194"
+  },
+  {
+    "lon": -80.205171,
+    "lat": 25.940694,
+    "location": "Checkers-Miami,FL",
+    "address": "18100 NW 2nd Ave, Miami,FL 33179|(305) 654-8554"
+  },
+  {
+    "lon": -80.240585,
+    "lat": 25.82394,
+    "location": "Checkers-Miami,FL",
+    "address": "2695 NW 54th Street, Miami,FL 33142|(305) 638-8487"
+  },
+  {
+    "lon": -80.263984,
+    "lat": 25.776466,
+    "location": "Checkers-Miami,FL",
+    "address": "450 NW 42nd Avenue, Miami,FL 33126|(305) 529-9002"
+  },
+  {
+    "lon": -80.414984,
+    "lat": 25.714208,
+    "location": "Checkers-Miami,FL",
+    "address": "5605 SW 137th Avenue, Miami,FL 33183|(305) 386-0059"
+  },
+  {
+    "lon": -80.20922,
+    "lat": 25.84857,
+    "location": "Checkers-Miami,FL",
+    "address": "8080 NW 7th Ave, Miami,FL 33150|(305) 693-2512"
+  },
+  {
+    "lon": -80.244549,
+    "lat": 25.941048,
+    "location": "Checkers-Miami Gardens,FL",
+    "address": "2645 NW 183rd Street, Miami Gardens,FL 33056|(305) 624-2205"
+  },
+  {
+    "lon": -80.277087,
+    "lat": 25.980735,
+    "location": "Checkers-Miramar,FL",
+    "address": "9901 Miramar Parkway, Miramar,FL 33025|(954) 430-3432"
+  },
+  {
+    "lon": -80.211255,
+    "lat": 25.89816,
+    "location": "Checkers-N Miami,FL",
+    "address": "13495 NW 7th Avenue, N Miami,FL 33168|(305) 687-5775"
+  },
+  {
+    "lon": -80.163911,
+    "lat": 25.925854,
+    "location": "Checkers-N Miami Beach,FL",
+    "address": "1800 163rd Street, N Miami Beach,FL 33162|(305) 949-9212"
+  },
+  {
+    "lon": -82.692072,
+    "lat": 28.217218,
+    "location": "Checkers-New Port Richey,FL",
+    "address": "7415 State Road 54, New Port Richey,FL 34653|(727) 372-8047"
+  },
+  {
+    "lon": -80.138651,
+    "lat": 26.166555,
+    "location": "Checkers-Oakland Park,FL",
+    "address": "590 E Oakland Park Blvd, Oakland Park,FL 33334|(754) 247-3699"
+  },
+  {
+    "lon": -82.122696,
+    "lat": 29.187018,
+    "location": "Checkers-Ocala,FL",
+    "address": "1239 E Silver Springs Blvd, Ocala,FL 34470|(352) 351-1199"
+  },
+  {
+    "lon": -82.169079,
+    "lat": 29.165912,
+    "location": "Checkers-Ocala,FL",
+    "address": "2701 SW College Road, Ocala,FL 34474|(352) 237-0071"
+  },
+  {
+    "lon": -81.299143,
+    "lat": 28.931526,
+    "location": "Checkers-Orange City,FL",
+    "address": "1625 S Volusia Ave, Orange City,FL 32763|(386) 878-7204"
+  },
+  {
+    "lon": -81.772901,
+    "lat": 30.139105,
+    "location": "Checkers-Orange Park,FL",
+    "address": "934 Blanding Blvd, Orange Park,FL 32065|(904) 375-0687"
+  },
+  {
+    "lon": -81.20688,
+    "lat": 28.566716,
+    "location": "Checkers-Orlando,FL",
+    "address": "11816 E Colonial Drive, Orlando,FL 32826|(407) 381-4710"
+  },
+  {
+    "lon": -81.413176,
+    "lat": 28.552706,
+    "location": "Checkers-Orlando,FL",
+    "address": "2750 W Colonial Drive, Orlando,FL 32804|(407) 295-0807"
+  },
+  {
+    "lon": -81.396906,
+    "lat": 28.504402,
+    "location": "Checkers-Orlando,FL",
+    "address": "3800 S Orange Blossom Trail, Orlando,FL 32839|(407) 317-9003"
+  },
+  {
+    "lon": -81.330789,
+    "lat": 28.524203,
+    "location": "Checkers-Orlando,FL",
+    "address": "4400 Curry-Ford Road, Orlando,FL 32812|(407) 281-6803"
+  },
+  {
+    "lon": -81.310022,
+    "lat": 28.48337,
+    "location": "Checkers-Orlando,FL",
+    "address": "5503-A S Semoran Blvd, Orlando,FL 32822|(407) 273-2201"
+  },
+  {
+    "lon": -81.469713,
+    "lat": 28.552131,
+    "location": "Checkers-Orlando,FL",
+    "address": "6371 W Colonial Drive, Orlando,FL 32818|(407) 294-0288"
+  },
+  {
+    "lon": -81.471562,
+    "lat": 28.449855,
+    "location": "Checkers-Orlando,FL",
+    "address": "6908 Sand Lake Road, Orlando,FL 32819|(407) 248-9052"
+  },
+  {
+    "lon": -81.398007,
+    "lat": 28.457991,
+    "location": "Checkers-Orlando,FL",
+    "address": "7415 South Orange Blossom Trail, Orlando,FL 32809|(407) 579-5217"
+  },
+  {
+    "lon": -81.284587,
+    "lat": 28.568202,
+    "location": "Checkers-Orlando,FL",
+    "address": "7604 E Colonial Drive, Orlando,FL 32807|(407) 384-0210"
+  },
+  {
+    "lon": -81.673787,
+    "lat": 29.641016,
+    "location": "Checkers-Palatka,FL",
+    "address": "101 Highlawn Ave, Palatka,FL 32177|(386) 385-3776"
+  },
+  {
+    "lon": -80.074127,
+    "lat": 26.803382,
+    "location": "Checkers-Palm Beach Gardens,FL",
+    "address": "3568 North Lake Blvd, Palm Beach Gardens,FL 33403|(561) 593-3022"
+  },
+  {
+    "lon": -81.215656,
+    "lat": 29.55788,
+    "location": "Checkers-Palm Coast,FL",
+    "address": "16 Old Kings Rd N, Palm Coast,FL 32137|(386) 585-4623"
+  },
+  {
+    "lon": -82.572947,
+    "lat": 27.521305,
+    "location": "Checkers-Palmetto,FL",
+    "address": "1001 8th Ave W, Palmetto,FL 34220|(941) 723-9231"
+  },
+  {
+    "lon": -85.802017,
+    "lat": 30.180252,
+    "location": "Checkers-Panama City,FL",
+    "address": "9958 Hutchinson Blvd, Panama City,FL 32407|(850) 775-4932"
+  },
+  {
+    "lon": -80.1834,
+    "lat": 25.98416,
+    "location": "Checkers-Pembroke Park,FL",
+    "address": "4000 W Hallandale Beach Blvd, Pembroke Park,FL 33023|(954) 391-7213"
+  },
+  {
+    "lon": -80.257687,
+    "lat": 26.009521,
+    "location": "Checkers-Pembroke Pines,FL",
+    "address": "8579 Pines Blvd, Pembroke Pines,FL 33024|(954) 278-8610"
+  },
+  {
+    "lon": -82.724181,
+    "lat": 27.83941,
+    "location": "Checkers-Pinellas Park,FL",
+    "address": "6401 Park Boulevard North, Pinellas Park,FL 33781|(727) 554-2024"
+  },
+  {
+    "lon": -82.126961,
+    "lat": 27.98332,
+    "location": "Checkers-Plant City,FL",
+    "address": "2405 Jim Redmond Pkwy, Plant City,FL 33566|(813) 759-0151"
+  },
+  {
+    "lon": -80.201611,
+    "lat": 26.107162,
+    "location": "Checkers-Plantation,FL",
+    "address": "1149 S SR 7, Plantation,FL 33317|(954) 321-6690"
+  },
+  {
+    "lon": -80.156571,
+    "lat": 26.212673,
+    "location": "Checkers-Pompano Beach,FL",
+    "address": "1401 SW 26th Ave, Pompano Beach,FL 33069|(813) 283-7000"
+  },
+  {
+    "lon": -80.13355,
+    "lat": 26.273015,
+    "location": "Checkers-Pompano Beach,FL",
+    "address": "3541 NW 8th Ave, Pompano Beach,FL 33064|(954) 786-3298"
+  },
+  {
+    "lon": -82.134522,
+    "lat": 27.00705,
+    "location": "Checkers-Port Charlotte,FL",
+    "address": "1793 Tamiami Trail, Port Charlotte,FL 33948|(941) 255-0768"
+  },
+  {
+    "lon": -82.716338,
+    "lat": 28.281881,
+    "location": "Checkers-Port Richey,FL",
+    "address": "8602 US Highway 19, Port Richey,FL 34668|(727) 849-1467"
+  },
+  {
+    "lon": -80.290453,
+    "lat": 27.273617,
+    "location": "Checkers-Port St Lucie,FL",
+    "address": "10461 S US Hwy 1, Port St Lucie,FL 34952|(772) 337-5493"
+  },
+  {
+    "lon": -80.388376,
+    "lat": 27.261716,
+    "location": "Checkers-Port St Lucie,FL",
+    "address": "1298 SW Gatlin Blvd, Port St Lucie,FL 34953|(772) 879-5763"
+  },
+  {
+    "lon": -82.373051,
+    "lat": 27.712951,
+    "location": "Checkers-Ruskin,FL",
+    "address": "3854 Sun City Center, Ruskin,FL 33573|(813) 633-8555"
+  },
+  {
+    "lon": -81.272882,
+    "lat": 28.798205,
+    "location": "Checkers-Sanford,FL",
+    "address": "1501 S French Avenue, Sanford,FL 32771|(407) 330-3952"
+  },
+  {
+    "lon": -82.528056,
+    "lat": 27.335597,
+    "location": "Checkers-Sarasota,FL",
+    "address": "2101 Ringling Blvd, Sarasota,FL 34236|(941) 955-9896"
+  },
+  {
+    "lon": -82.505629,
+    "lat": 27.38849,
+    "location": "Checkers-Sarasota,FL",
+    "address": "8537 N Lockwood Ridge Rd, Sarasota,FL 34243|(941) 351-0350"
+  },
+  {
+    "lon": -82.27252,
+    "lat": 27.984663,
+    "location": "Checkers-Seffner,FL",
+    "address": "603 Martin Luther King Blvd, Seffner,FL 33584|(813) 681-1923"
+  },
+  {
+    "lon": -82.541229,
+    "lat": 28.463583,
+    "location": "Checkers-Spring Hill,FL",
+    "address": "2137 Mariner Blvd, Spring Hill,FL 34608|(352) 600-8970"
+  },
+  {
+    "lon": -82.598831,
+    "lat": 28.490864,
+    "location": "Checkers-Spring Hill,FL",
+    "address": "4232 Commercial Way, Spring Hill,FL 34606|(352) 556-3685"
+  },
+  {
+    "lon": -81.257119,
+    "lat": 28.245925,
+    "location": "Checkers-St Cloud,FL",
+    "address": "3554 US Highway 192, St Cloud,FL 34769|(407) 957-8670"
+  },
+  {
+    "lon": -82.679351,
+    "lat": 27.770022,
+    "location": "Checkers-St Petersburg,FL",
+    "address": "100 34th Street S, St Petersburg,FL 33711|(727) 327-2196"
+  },
+  {
+    "lon": -82.679441,
+    "lat": 27.803868,
+    "location": "Checkers-St Petersburg,FL",
+    "address": "3501 34th Street N, St Petersburg,FL 33713|(727) 258-7980"
+  },
+  {
+    "lon": -82.72855,
+    "lat": 27.805704,
+    "location": "Checkers-St Petersburg,FL",
+    "address": "3775 66th Street N, St Petersburg,FL 33710|(727) 302-0393"
+  },
+  {
+    "lon": -82.646897,
+    "lat": 27.828508,
+    "location": "Checkers-St Petersburg,FL",
+    "address": "6200 9th Street North, St Petersburg,FL 33702|(727) 914-6833"
+  },
+  {
+    "lon": -80.2242799,
+    "lat": 27.162712,
+    "location": "Checkers-Stuart,FL",
+    "address": "3483 SE Federal Hwy, Stuart,FL 34997|(772) 288-2006"
+  },
+  {
+    "lon": -84.258786,
+    "lat": 30.43553,
+    "location": "Checkers-Tallahassee,FL",
+    "address": "1377 Apalachee Parkway, Tallahassee,FL 32301|(850) 877-1780"
+  },
+  {
+    "lon": -84.224674,
+    "lat": 30.460941,
+    "location": "Checkers-Tallahassee,FL",
+    "address": "3111 Mahan Dr, Tallahassee,FL 32308|(850) 878-8705"
+  },
+  {
+    "lon": -84.301866,
+    "lat": 30.434937,
+    "location": "Checkers-Tallahassee,FL",
+    "address": "802 Lake Bradford Rd, Tallahassee,FL 32304|(850) 580-4079"
+  },
+  {
+    "lon": -82.459991,
+    "lat": 28.025328,
+    "location": "Checkers-Tampa,FL",
+    "address": "107 W Waters Ave, Tampa,FL 33604|(813) 931-8449"
+  },
+  {
+    "lon": -82.441597,
+    "lat": 28.054382,
+    "location": "Checkers-Tampa,FL",
+    "address": "1509 E Fowler Ave, Tampa,FL 33612|(813) 971-9765"
+  },
+  {
+    "lon": -82.501592,
+    "lat": 28.093954,
+    "location": "Checkers-Tampa,FL",
+    "address": "15515 N Dale Mabry Hwy, Tampa,FL 33618|(813) 962-6456"
+  },
+  {
+    "lon": -82.441795,
+    "lat": 27.996082,
+    "location": "Checkers-Tampa,FL",
+    "address": "1615 E Hillsborough Ave, Tampa,FL 33610|(813) 999-1081"
+  },
+  {
+    "lon": -82.430956,
+    "lat": 28.080468,
+    "location": "Checkers-Tampa,FL",
+    "address": "2598 Bearss Avenue East, Tampa,FL 33613|(813) 971-9792"
+  },
+  {
+    "lon": -82.42819,
+    "lat": 28.068202,
+    "location": "Checkers-Tampa,FL",
+    "address": "2701 E Fletcher Ave, Tampa,FL 33612|(813) 615-1550"
+  },
+  {
+    "lon": -82.490804,
+    "lat": 27.981322,
+    "location": "Checkers-Tampa,FL",
+    "address": "2820 W Martin Luther King, Tampa,FL 33607|(813) 872-0780"
+  },
+  {
+    "lon": -82.451227,
+    "lat": 27.970962,
+    "location": "Checkers-Tampa,FL",
+    "address": "3002 N Nebraska Ave, Tampa,FL 33603|(813) 221-4839"
+  },
+  {
+    "lon": -82.402613,
+    "lat": 27.961654,
+    "location": "Checkers-Tampa,FL",
+    "address": "4959 E Broadway, Tampa,FL 33605|(813) 247-1015"
+  },
+  {
+    "lon": -82.564661,
+    "lat": 27.996667,
+    "location": "Checkers-Tampa,FL",
+    "address": "7545 W Hillsborough Avenue, Tampa,FL 33615|(813) 515-7413"
+  },
+  {
+    "lon": -81.724176,
+    "lat": 28.817957,
+    "location": "Checkers-Tavares,FL",
+    "address": "480 E Burleigh Blvd, Tavares,FL 32778|(352) 742-8244"
+  },
+  {
+    "lon": -82.393477,
+    "lat": 28.029009,
+    "location": "Checkers-Temple Terrace,FL",
+    "address": "8800 N 56th Street, Temple Terrace,FL 33617|(813) 985-2526"
+  },
+  {
+    "lon": -82.422913,
+    "lat": 27.071328,
+    "location": "Checkers-Venice,FL",
+    "address": "1721 Tamiami Trail, Venice,FL 34293|(941) 497-5445"
+  },
+  {
+    "lon": -80.389239,
+    "lat": 27.628762,
+    "location": "Checkers-Vero Beach,FL",
+    "address": "1495 US Highway 1, Vero Beach,FL 32960|(772) 778-4308"
+  },
+  {
+    "lon": -80.247339,
+    "lat": 26.672062,
+    "location": "Checkers-Wellington,FL",
+    "address": "12790 W Forest Hills Blvd, Wellington,FL 33414|(561) 798-2747"
+  },
+  {
+    "lon": -80.112425,
+    "lat": 26.644174,
+    "location": "Checkers-West Palm Beach,FL",
+    "address": "2270 S Military Trail, West Palm Beach,FL 33415|(561) 967-4433"
+  },
+  {
+    "lon": -80.091163,
+    "lat": 26.7066,
+    "location": "Checkers-West Palm Beach,FL",
+    "address": "2529 Okeechobee Blvd, West Palm Beach,FL 33409|(561) 697-8508"
+  },
+  {
+    "lon": -81.583074,
+    "lat": 28.551412,
+    "location": "Checkers-Winter Garden,FL",
+    "address": "13495 W Colonial Drive, Winter Garden,FL 34787|(407) 654-1988"
+  },
+  {
+    "lon": -81.718036,
+    "lat": 28.003792,
+    "location": "Checkers-Winter Haven,FL",
+    "address": "604 Cypress Gardens Blvd, Winter Haven,FL 33880|(863) 299-8593"
+  },
+  {
+    "lon": -81.73749,
+    "lat": 28.0437,
+    "location": "Checkers-Winter Haven,FL",
+    "address": "940 Havendale Blvd, Winter Haven,FL 33881|(863) 294-7686"
+  },
+  {
+    "lon": -82.1855228,
+    "lat": 28.2077902,
+    "location": "Checkers-Zephyrhills,FL",
+    "address": "3505 Gall Blvd, Zephyrhills,FL 33542|(813) 779-2885"
+  },
+  {
+    "lon": -84.176241,
+    "lat": 31.57588,
+    "location": "Checkers-Albany,GA",
+    "address": "110 South Slappey Blvd, Albany,GA 31701|(229) 883-3131"
+  },
+  {
+    "lon": -84.222862,
+    "lat": 31.61897,
+    "location": "Checkers-Albany,GA",
+    "address": "2703 Dawson Rd, Albany,GA 31707|(229) 920-3775"
+  },
+  {
+    "lon": -83.409458,
+    "lat": 33.949825,
+    "location": "Checkers-Athens,GA",
+    "address": "2198 W Broad Street, Athens,GA 30606|(706) 395-6254"
+  },
+  {
+    "lon": -84.382732,
+    "lat": 33.757499,
+    "location": "Checkers-Atlanta,GA",
+    "address": "120 Piedmont Ave NE, Atlanta,GA 30303|(678) 732-9187"
+  },
+  {
+    "lon": -84.434167,
+    "lat": 33.737422,
+    "location": "Checkers-Atlanta,GA",
+    "address": "1449 Donnelly Ave SW, Atlanta,GA 30310|(404) 755-9986"
+  },
+  {
+    "lon": -84.396,
+    "lat": 33.681118,
+    "location": "Checkers-Atlanta,GA",
+    "address": "211 Cleveland Ave SW, Atlanta,GA 30315|(404) 761-0201"
+  },
+  {
+    "lon": -84.473394,
+    "lat": 33.776138,
+    "location": "Checkers-Atlanta,GA",
+    "address": "2641 Donald Lee Hollowell NW, Atlanta,GA 30318|(404) 794-2800"
+  },
+  {
+    "lon": -84.489054,
+    "lat": 33.68973,
+    "location": "Checkers-Atlanta,GA",
+    "address": "2841 Greenbriar Parkway, Atlanta,GA 30331|(404) 349-2688"
+  },
+  {
+    "lon": -84.504144,
+    "lat": 33.758558,
+    "location": "Checkers-Atlanta,GA",
+    "address": "3566 Martin Luther King Dr, Atlanta,GA 30331|(404) 691-0809"
+  },
+  {
+    "lon": -84.349201,
+    "lat": 33.742613,
+    "location": "Checkers-Atlanta,GA",
+    "address": "420 Moreland Ave SE, Atlanta,GA 30316|(404) 627-7338"
+  },
+  {
+    "lon": -81.995897,
+    "lat": 33.475558,
+    "location": "Checkers-Augusta,GA",
+    "address": "1720 Walton Way, Augusta,GA 30904|(706) 496-2602"
+  },
+  {
+    "lon": -82.092336,
+    "lat": 33.507091,
+    "location": "Checkers-Augusta,GA",
+    "address": "228 Bobby Jones Expressway, Augusta,GA 30907|(706) 855-8444"
+  },
+  {
+    "lon": -82.021263,
+    "lat": 33.441232,
+    "location": "Checkers-Augusta,GA",
+    "address": "2611 Deans Bridge Road, Augusta,GA 30906|(706) 793-8708"
+  },
+  {
+    "lon": -82.022597,
+    "lat": 33.418601,
+    "location": "Checkers-Augusta,GA",
+    "address": "2901 Peach Orchard Road, Augusta,GA 30906|(706) 793-9631"
+  },
+  {
+    "lon": -82.04999,
+    "lat": 33.513037,
+    "location": "Checkers-Augusta,GA",
+    "address": "3050 Washington Road, Augusta,GA 30907|(762) 333-8507"
+  },
+  {
+    "lon": -82.078699,
+    "lat": 33.467739,
+    "location": "Checkers-Augusta,GA",
+    "address": "3429 Wrightsboro Road, Augusta,GA 30909|(706) 737-6850"
+  },
+  {
+    "lon": -84.303011,
+    "lat": 34.886417,
+    "location": "Checkers-Blue Ridge,GA",
+    "address": "6 Windy Ridge Circle, Blue Ridge,GA 30513|(706) 632-2054"
+  },
+  {
+    "lon": -81.481875,
+    "lat": 31.210795,
+    "location": "Checkers-Brunswick,GA",
+    "address": "5599 Altama Ave, Brunswich,GA 31525|(none listed)"
+  },
+  {
+    "lon": -84.926658,
+    "lat": 34.474843,
+    "location": "Checkers-Calhoun,GA",
+    "address": "560 Highway 53 E, Calhoun,GA 30701|(706) 602-9377"
+  },
+  {
+    "lon": -84.790616,
+    "lat": 34.196848,
+    "location": "Checkers-Cartersville,GA",
+    "address": "901 Joe Frank Harris Pkwy, Cartersville,GA 30120|(770) 387-0050"
+  },
+  {
+    "lon": -85.250316,
+    "lat": 34.024352,
+    "location": "Checkers-Cedartown,GA",
+    "address": "703 North Main Street, Cedartown,GA 30125|(770) 749-1577"
+  },
+  {
+    "lon": -83.401006,
+    "lat": 34.875611,
+    "location": "Checkers-Clayton,GA",
+    "address": "12 Bo James Street, Clayton,GA 30525|(706) 782-4411"
+  },
+  {
+    "lon": -84.472568,
+    "lat": 33.614177,
+    "location": "Checkers-College Park,GA",
+    "address": "5175 Old National Hwy, College Park,GA 30349|(404) 209-8394"
+  },
+  {
+    "lon": -84.436049,
+    "lat": 33.60851,
+    "location": "Checkers-College Park,GA",
+    "address": "5391 Riverdale Blvd, College Park,GA 30349|(770) 997-9898"
+  },
+  {
+    "lon": -84.955557,
+    "lat": 32.471873,
+    "location": "Checkers-Columbus,GA",
+    "address": "2453 Wynnton Road, Columbus,GA 31906|(706) 507-1412"
+  },
+  {
+    "lon": -84.947854,
+    "lat": 32.424661,
+    "location": "Checkers-Columbus,GA",
+    "address": "3474 Victory Drive, Columbus,GA 31903|(706) 687-8005"
+  },
+  {
+    "lon": -83.998883,
+    "lat": 33.659837,
+    "location": "Checkers-Conyers,GA",
+    "address": "1436 Highway 138, Conyers,GA 30013|(770) 760-9768"
+  },
+  {
+    "lon": -83.863692,
+    "lat": 33.602651,
+    "location": "Checkers-Covington,GA",
+    "address": "3194 US Hwy 278 NW, Covington,GA 30016|(678) 342-2102"
+  },
+  {
+    "lon": -84.962161,
+    "lat": 34.797889,
+    "location": "Checkers-Dalton,GA",
+    "address": "1300 Cleveland Hwy, Dalton,GA 30720|(706) 277-0087"
+  },
+  {
+    "lon": -84.985837,
+    "lat": 34.763772,
+    "location": "Checkers-Dalton,GA",
+    "address": "502 Liberty Square Drive, Dalton,GA 30720|(706) 277-5151"
+  },
+  {
+    "lon": -84.996514,
+    "lat": 34.790625,
+    "location": "Checkers-Dalton,GA",
+    "address": "883 Shugart Road, Dalton,GA 30720|(706) 259-7747"
+  },
+  {
+    "lon": -84.27371,
+    "lat": 33.81003,
+    "location": "Checkers-Decatur,GA",
+    "address": "2148 Lawrenceville Hwy, Decatur,GA 30033|(404) 205-5151"
+  },
+  {
+    "lon": -84.215331,
+    "lat": 33.718191,
+    "location": "Checkers-Decatur,GA",
+    "address": "2388 Wesley Chapel Road, Decatur,GA 30035|(770) 593-2232"
+  },
+  {
+    "lon": -84.271702,
+    "lat": 33.705974,
+    "location": "Checkers-Decatur,GA",
+    "address": "2854 Candler Rd, Decatur,GA 30034|(404) 241-3014"
+  },
+  {
+    "lon": -84.269042,
+    "lat": 33.754053,
+    "location": "Checkers-Decatur,GA",
+    "address": "3519 Memorial Dr, Decatur,GA 30032|(404) 288-1206"
+  },
+  {
+    "lon": -84.251603,
+    "lat": 33.737915,
+    "location": "Checkers-Decatur,GA",
+    "address": "4063 Glenwood Ave, Decatur,GA 30032|(404) 286-4034"
+  },
+  {
+    "lon": -84.266718,
+    "lat": 33.90908,
+    "location": "Checkers-Doraville,GA",
+    "address": "5801 Buford Highway, Doraville,GA 30340|(678) 547-0036"
+  },
+  {
+    "lon": -82.85052,
+    "lat": 31.49532,
+    "location": "Checkers-Douglas,GA",
+    "address": "1100 South Peterson Ave, Douglas,GA 51533|(912) 292-9039"
+  },
+  {
+    "lon": -84.73054,
+    "lat": 33.751172,
+    "location": "Checkers-Douglasville,GA",
+    "address": "6033 Fairburn Rd, Douglasville,GA 30134|(707) 947-9646"
+  },
+  {
+    "lon": -84.137437,
+    "lat": 33.962493,
+    "location": "Checkers-Duluth,GA",
+    "address": "2336 Pleasant Hill Road, Duluth,GA 30096|(770) 476-8808"
+  },
+  {
+    "lon": -84.49289,
+    "lat": 33.6542,
+    "location": "Checkers-East Point,GA",
+    "address": "3169 Camp Creek Pkwy, East Point,GA 30344|(404) 669-9101"
+  },
+  {
+    "lon": -84.454047,
+    "lat": 33.457141,
+    "location": "Checkers-Fayetteville,GA",
+    "address": "460 Glynn Street N, Fayetteville,GA 30214|(770) 460-0660"
+  },
+  {
+    "lon": -84.35141,
+    "lat": 33.619566,
+    "location": "Checkers-Forest Park,GA",
+    "address": "4948 Jonesboro Rd, Forest Park,GA 30297|(404) 362-0890"
+  },
+  {
+    "lon": -84.273934,
+    "lat": 33.247326,
+    "location": "Checkers-Griffin,GA",
+    "address": "721 W Taylor Street, Griffin,GA 30223|(706) 671-2231"
+  },
+  {
+    "lon": -82.064755,
+    "lat": 33.386971,
+    "location": "Checkers-Hephzibah,GA",
+    "address": "3554 Windsor Springs Road, Hephzibah,GA 30815|(706) 771-9715"
+  },
+  {
+    "lon": -81.599754,
+    "lat": 31.842759,
+    "location": "Checkers-Hinesville,GA",
+    "address": "147 General Screven, Hinesville,GA 31313|(912) 877-4406"
+  },
+  {
+    "lon": -84.759661,
+    "lat": 33.893241,
+    "location": "Checkers-Hiram,GA",
+    "address": "4113 Jimmy Lee Smith Parkway, Hiram,GA 30141|(770) 943-6474"
+  },
+  {
+    "lon": -84.336955,
+    "lat": 33.471106,
+    "location": "Checkers-Jonesboro,GA",
+    "address": "10457 Tara Blvd, Jonesboro,GA 30236|(470) 278-2667"
+  },
+  {
+    "lon": -84.376807,
+    "lat": 33.581721,
+    "location": "Checkers-Jonesboro,GA",
+    "address": "6339 Tara Blvd, Jonesboro,GA 30236|(770) 603-1072"
+  },
+  {
+    "lon": -84.364471,
+    "lat": 33.537765,
+    "location": "Checkers-Jonesboro,GA",
+    "address": "788 A Spur 138, Jonesboro,GA 30236|(770) 478-4411"
+  },
+  {
+    "lon": -83.984404,
+    "lat": 33.987508,
+    "location": "Checkers-Lawrenceville,GA",
+    "address": "919 Buford Drive, Lawrenceville,GA 30043|(678) 376-0305"
+  },
+  {
+    "lon": -84.606789,
+    "lat": 33.780248,
+    "location": "Checkers-Lithia Springs,GA",
+    "address": "896 Thornton Rd, Lithia Springs,GA 30122|(678) 593-6668"
+  },
+  {
+    "lon": -84.169168,
+    "lat": 33.706765,
+    "location": "Checkers-Lithonia,GA",
+    "address": "2775 Panola Rd, Lithonia,GA 30058|(770) 593-3111"
+  },
+  {
+    "lon": -83.662937,
+    "lat": 32.811426,
+    "location": "Checkers-Macon,GA",
+    "address": "2790 Pio Nono Avenue, Macon,GA 31206|(478) 784-0032"
+  },
+  {
+    "lon": -83.689989,
+    "lat": 32.820642,
+    "location": "Checkers-Macon,GA",
+    "address": "3409 Mercer University Drive, Macon,GA 31204|(478) 755-9272"
+  },
+  {
+    "lon": -83.63015,
+    "lat": 32.843525,
+    "location": "Checkers-Macon,GA",
+    "address": "91 Spring Street, Macon,GA 31201|(478) 742-1902"
+  },
+  {
+    "lon": -84.596997,
+    "lat": 33.862029,
+    "location": "Checkers-Marietta,GA",
+    "address": "3745 Austell Road, Marietta,GA 30060|(770) 431-8111"
+  },
+  {
+    "lon": -84.520238,
+    "lat": 33.950215,
+    "location": "Checkers-Marietta,GA",
+    "address": "41 Cobb Parkway SE, Marietta,GA 30060|(770) 429-8398"
+  },
+  {
+    "lon": -84.144244,
+    "lat": 33.427256,
+    "location": "Checkers-McDonough,GA",
+    "address": "729 Highway 42 South, McDonough,GA 30253|(770) 898-3663"
+  },
+  {
+    "lon": -83.740694,
+    "lat": 33.797441,
+    "location": "Checkers-Monroe,GA",
+    "address": "215 B Hwy 138, Monroe,GA 30655|(770) 207-6389"
+  },
+  {
+    "lon": -84.164138,
+    "lat": 33.913904,
+    "location": "Checkers-Norcross,GA",
+    "address": "1220 Tech Dr, Norcross,GA 30093|(770) 864-9061"
+  },
+  {
+    "lon": -84.205024,
+    "lat": 33.900913,
+    "location": "Checkers-Norcross,GA",
+    "address": "5260 Jimmy Carter Blvd, Norcross,GA 30093|(770) 416-6840"
+  },
+  {
+    "lon": -84.412505,
+    "lat": 33.573081,
+    "location": "Checkers-Riverdale,GA",
+    "address": "6660 Highway 85, Riverdale,GA 30274|(770) 997-2214"
+  },
+  {
+    "lon": -85.164515,
+    "lat": 34.257243,
+    "location": "Checkers-Rome,GA",
+    "address": "900 N Broad Street, Rome,GA 30161|(706) 290-1070"
+  },
+  {
+    "lon": -81.112909,
+    "lat": 32.02953,
+    "location": "Checkers-Savannah,GA",
+    "address": "100 W Derenne Avenue, Savannah,GA 31405|(912) 354-4939"
+  },
+  {
+    "lon": -81.063464,
+    "lat": 32.043548,
+    "location": "Checkers-Savannah,GA",
+    "address": "2510 Skidaway Road, Savannah,GA 31404|(912) 236-8481"
+  },
+  {
+    "lon": -81.113319,
+    "lat": 32.00392,
+    "location": "Checkers-Savannah,GA",
+    "address": "301 Mall Boulevard, Savannah,GA 31406|(912) 354-8030"
+  },
+  {
+    "lon": -84.478281,
+    "lat": 33.893043,
+    "location": "Checkers-Smyrna,GA",
+    "address": "2410 S Cobb Pkwy, Smyrna,GA 30080|(770) 436-2455"
+  },
+  {
+    "lon": -84.014587,
+    "lat": 33.871871,
+    "location": "Checkers-Snellville,GA",
+    "address": "1947 Scenic Highway, Snellville,GA 30078|(770) 736-0036"
+  },
+  {
+    "lon": -81.7800481,
+    "lat": 32.4555742,
+    "location": "Checkers-Statesboro,GA",
+    "address": "75 Northside Dr East, Statesboro,GA 30458|(912) 243-9099"
+  },
+  {
+    "lon": -84.261211,
+    "lat": 33.553518,
+    "location": "Checkers-Stockbridge,GA",
+    "address": "70 Hwy 138, Stockbridge,GA 30281|(770) 507-4309"
+  },
+  {
+    "lon": -84.194095,
+    "lat": 33.802145,
+    "location": "Checkers-Stone Mountain,GA",
+    "address": "6000 Memorial Drive, Stone Mountain,GA 30083|(404) 294-8075"
+  },
+  {
+    "lon": -84.046811,
+    "lat": 34.028473,
+    "location": "Checkers-Suwanee,GA",
+    "address": "2930 Lawrenceville-Suwanee Road, Sawanee,GA 30024|(770) 932-0404"
+  },
+  {
+    "lon": -82.502994,
+    "lat": 33.505551,
+    "location": "Checkers-Thomson,GA",
+    "address": "1807 Washington Road, Thomson,GA 30824|(706) 595-3311"
+  },
+  {
+    "lon": -83.527085,
+    "lat": 31.45571,
+    "location": "Checkers-Tifton,GA",
+    "address": "112 S Virginia Ave, Tifton,GA 31794|(229) 386-5852"
+  },
+  {
+    "lon": -84.244377,
+    "lat": 33.84695,
+    "location": "Checkers-Tucker,GA",
+    "address": "4270 La Vista Road, Tucker,GA 30084|(770) 491-1461"
+  },
+  {
+    "lon": -84.187436,
+    "lat": 33.867278,
+    "location": "Checkers-Tucker,GA",
+    "address": "6344 Lawrenceville Hwy, Tucker,GA 30084|(678) 937-9320"
+  },
+  {
+    "lon": -83.281506,
+    "lat": 30.858549,
+    "location": "Checkers-Valdosta,GA",
+    "address": "2129 N Ashley Street, Valdosta,GA 31602|(229) 249-9044"
+  },
+  {
+    "lon": -82.402571,
+    "lat": 32.212987,
+    "location": "Checkers-Vidalia,GA",
+    "address": "907 East 1st Street, Vidalia,GA 30474|(912) 538-1005"
+  },
+  {
+    "lon": -83.641528,
+    "lat": 32.619752,
+    "location": "Checkers-Warner Robins,GA",
+    "address": "120 N Houston Road, Warner Robins,GA 31093|(478) 929-9777"
+  },
+  {
+    "lon": -82.331751,
+    "lat": 31.202639,
+    "location": "Checkers-Waycross,GA",
+    "address": "1918 Memorial Drive, Waycross,GA 31501|(912) 284-1066"
+  },
+  {
+    "lon": -84.530438,
+    "lat": 34.085908,
+    "location": "Checkers-Woodstock,GA",
+    "address": "9500 Highway 92, Woodstock,GA 30188|(770) 516-1595"
+  },
+  {
+    "lon": -90.550817,
+    "lat": 41.538332,
+    "location": "Checkers-Davenport,IA",
+    "address": "1721 E Locust, Davenport,IA 52803|(563) 322-1367"
+  },
+  {
+    "lon": -90.610648,
+    "lat": 41.560193,
+    "location": "Checkers-Davenport,IA",
+    "address": "2310 W Kimberly Rd, Davenport,IA 52806|(563) 388-6082"
+  },
+  {
+    "lon": -88.06908,
+    "lat": 41.70906,
+    "location": "Checkers-Bolingbrook,IL",
+    "address": "439 N Bolingbrook Rd, Bolingbrook,IL 60440|(630) 226-1223"
+  },
+  {
+    "lon": -87.62017,
+    "lat": 41.72148,
+    "location": "Checkers-Chicago,IL",
+    "address": "107 E 95th St, Chicago,IL 60619|(773) 541-6444"
+  },
+  {
+    "lon": -87.642114,
+    "lat": 41.686,
+    "location": "Checkers-Chicago,IL",
+    "address": "11449 S Halsted St, Chicago,IL 60628|(773) 264-7422"
+  },
+  {
+    "lon": -87.720581,
+    "lat": 41.8662827,
+    "location": "Checkers-Chicago,IL",
+    "address": "3808 W Roosevelt Rd, Chicago,IL 60624|(773) 826-9506"
+  },
+  {
+    "lon": -87.73457,
+    "lat": 41.90978,
+    "location": "Checkers-Chicago,IL",
+    "address": "4320 W North Ave, Chicago,IL 60639|(773) 384-7729"
+  },
+  {
+    "lon": -87.630499,
+    "lat": 41.794861,
+    "location": "Checkers-Chicago,IL",
+    "address": "5451 S Wentworth Avenue, Chicago,IL 60609|(773) 268-5145"
+  },
+  {
+    "lon": -87.66389,
+    "lat": 41.77926,
+    "location": "Checkers-Chicago,IL",
+    "address": "6301 Ashland  Ave, Chicago,IL 60636|(312) 813-6149"
+  },
+  {
+    "lon": -87.6442337,
+    "lat": 41.7722244,
+    "location": "Checkers-Chicago,IL",
+    "address": "6705 Halstead St, Chicago,IL 60621|(773) 488-8997"
+  },
+  {
+    "lon": -87.585188,
+    "lat": 41.736249,
+    "location": "Checkers-Chicago,IL",
+    "address": "8705 S Stoney Island, Chicago,IL 60617|(773) 437-3945"
+  },
+  {
+    "lon": -87.734238,
+    "lat": 41.648237,
+    "location": "Checkers-Crestwood,IL",
+    "address": "4700 135th St, Crestwood,IL 60418|(630) 334-9351"
+  },
+  {
+    "lon": -87.674869,
+    "lat": 41.623476,
+    "location": "Checkers-Dixmoor,IL",
+    "address": "14655 S Western Ave, Dixmoor,IL 60426|(708) 629-0691"
+  },
+  {
+    "lon": -87.5917753,
+    "lat": 41.6226348,
+    "location": "Checkers-Dolton,IL",
+    "address": "1008 E Sibley Blvd, Dolton,IL 60419|(708) 880-1323"
+  },
+  {
+    "lon": -90.449113,
+    "lat": 41.489909,
+    "location": "Checkers-East Moline,IL",
+    "address": "565 42nd Avenue, East Moline,IL 61244|(309) 752-1800"
+  },
+  {
+    "lon": -88.266466,
+    "lat": 42.05791,
+    "location": "Checkers-Elgin,IL",
+    "address": "1137 Dundee Ave, Elgin,IL 60120|(224) 769-7109"
+  },
+  {
+    "lon": -87.684315,
+    "lat": 41.721281,
+    "location": "Checkers-Evergreen Park,IL",
+    "address": "2500 West 95th St, Evergreen Park,IL 60805|(708) 595-7807"
+  },
+  {
+    "lon": -88.1259,
+    "lat": 41.52293,
+    "location": "Checkers-Joliet,IL",
+    "address": "1805 W Jefferson St, Joliet,IL 60435|(815) 630-4482"
+  },
+  {
+    "lon": -87.55828,
+    "lat": 41.57341,
+    "location": "Checkers-Lansing,IL",
+    "address": "17701 S Torrence Ave, Lansing,IL 60438|(708) 251-8130"
+  },
+  {
+    "lon": -88.804307,
+    "lat": 40.64382,
+    "location": "Checkers-Lexington,IL",
+    "address": "1740 PJ Keller Hwy, Lexington,IL 61753|(309) 365-3010"
+  },
+  {
+    "lon": -90.558793,
+    "lat": 41.493402,
+    "location": "Checkers-Rock Island,IL",
+    "address": "2929 18th Avenue, Rock Island,IL 61201|(309) 786-7200"
+  },
+  {
+    "lon": -87.598563,
+    "lat": 41.600818,
+    "location": "Checkers-South Holland,IL",
+    "address": "730 E 162nd Street, South Holland,IL 60473|(708) 333-2611"
+  },
+  {
+    "lon": -87.876883,
+    "lat": 42.34874,
+    "location": "Checkers-Waukegan,IL",
+    "address": "3035 Belvidere Rd, Waukegan,IL 60085|(847) 672-9478"
+  },
+  {
+    "lon": -87.336525,
+    "lat": 41.552875,
+    "location": "Checkers-Gary,IN",
+    "address": "3600 Broadway, Gary,IN 46408|(219) 884-7025"
+  },
+  {
+    "lon": -92.44714,
+    "lat": 31.278647,
+    "location": "Checkers-Alexandria,LA",
+    "address": "3434 Lee Street, Alexandria,LA 71302|(318) 767-2128"
+  },
+  {
+    "lon": -91.026078,
+    "lat": 30.541671,
+    "location": "Checkers-Baton Rouge,LA",
+    "address": "10200 Sullivan Rd, Baton Rouge,LA 70818|(225) 221-1550"
+  },
+  {
+    "lon": -91.052753,
+    "lat": 30.410621,
+    "location": "Checkers-Baton Rouge,LA",
+    "address": "11650 Coursey Blvd, Baton Rouge,LA 70816|(225) 930-5810"
+  },
+  {
+    "lon": -91.155683,
+    "lat": 30.491391,
+    "location": "Checkers-Baton Rouge,LA",
+    "address": "4536 Plank Rd, Baton Rouge,LA 70805|(225) 256-4001"
+  },
+  {
+    "lon": -91.142156,
+    "lat": 30.430959,
+    "location": "Checkers-Baton Rouge,LA",
+    "address": "4637 Florida Blvd, Baton Rouge,LA 70806|(225) 256-4784"
+  },
+  {
+    "lon": -91.911514,
+    "lat": 30.289606,
+    "location": "Checkers-Breaux Bridge,LA",
+    "address": "1928 Rees St, Breaux Bridge,LA 70517|(337) 442-1999"
+  },
+  {
+    "lon": -90.950929,
+    "lat": 30.209517,
+    "location": "Checkers-Gonzales,LA",
+    "address": "2687 S Cabela's Pkwy, Gonzales,LA 70737|(225) 647-1003"
+  },
+  {
+    "lon": -92.015314,
+    "lat": 30.244942,
+    "location": "Checkers-Lafayette,LA",
+    "address": "113 W Willow Street, Lafayette,LA 70506|(337) 269-0646"
+  },
+  {
+    "lon": -92.050286,
+    "lat": 30.212413,
+    "location": "Checkers-Lafayette,LA",
+    "address": "2448 W Congress Street, Lafayette,LA 70503|(337) 269-1748"
+  },
+  {
+    "lon": -92.050333,
+    "lat": 30.158106,
+    "location": "Checkers-Lafayette,LA",
+    "address": "4414 Ambassador Caffery, Lafayette,LA 70508|(337) 989-0083"
+  },
+  {
+    "lon": -93.25205,
+    "lat": 30.16839,
+    "location": "Checkers-Lake Charles,LA",
+    "address": "2001 Country Club Rd, Lake Charles,LA 70605|(337) 475-2310"
+  },
+  {
+    "lon": -93.1798,
+    "lat": 30.22758,
+    "location": "Checkers-Lake Charles,LA",
+    "address": "2601 Broad Street, Lake Charles,LA 70601|(337) 436-2901"
+  },
+  {
+    "lon": -93.214868,
+    "lat": 30.198288,
+    "location": "Checkers-Lake Charles,LA",
+    "address": "521 E Prien Lake Road, Lake Charles,LA 70601|(337) 433-5030"
+  },
+  {
+    "lon": -92.083916,
+    "lat": 32.484172,
+    "location": "Checkers-Monroe,LA",
+    "address": "2000 Martin Luther King Jr Dr, Monroe,LA 71202|(318) 737-7241"
+  },
+  {
+    "lon": -92.06972,
+    "lat": 32.526597,
+    "location": "Checkers-Monroe,LA",
+    "address": "4320 Desiard St, Monroe,LA 71203|(318) 509-8125"
+  },
+  {
+    "lon": -93.098664,
+    "lat": 31.77159,
+    "location": "Checkers-Natchitoches,LA",
+    "address": "1420 Texas St, Natchitoches,LA 71457|(318) 352-4380"
+  },
+  {
+    "lon": -91.81937,
+    "lat": 29.984811,
+    "location": "Checkers-New Iberia,LA",
+    "address": "1100 Admiral Doyle, New Iberia,LA 70560|(337) 365-1009"
+  },
+  {
+    "lon": -93.783931,
+    "lat": 32.558581,
+    "location": "Checkers-Shreveport,LA",
+    "address": "3077 North Market St, Shreveport,LA 71107|(318) 222-8080"
+  },
+  {
+    "lon": -93.797342,
+    "lat": 32.456939,
+    "location": "Checkers-Shreveport,LA",
+    "address": "5755 Jewella Ave, Shreveport,LA 71109|(318) 621-8880"
+  },
+  {
+    "lon": -93.376209,
+    "lat": 30.219234,
+    "location": "Checkers-Sulphur,LA",
+    "address": "2044 S Ruth Street, Sulphur,LA 70663|(337) 527-0170"
+  },
+  {
+    "lon": -93.325741,
+    "lat": 30.220888,
+    "location": "Checkers-Sulphur,LA",
+    "address": "226 Cities Service S Hwy, Sulphur,LA 70663|(337) 287-4113"
+  },
+  {
+    "lon": -76.809203,
+    "lat": 39.442235,
+    "location": "Checkers-Baltimore,MD",
+    "address": "11700 Reistertown Rd, Baltimore,MD 21136|(443) 360-0431"
+  },
+  {
+    "lon": -76.548327,
+    "lat": 39.399997,
+    "location": "Checkers-Baltimore,MD",
+    "address": "1915 East Joppa Dr, Baltimore,MD 21234|(410) 663-5798"
+  },
+  {
+    "lon": -76.653531,
+    "lat": 39.284533,
+    "location": "Checkers-Baltimore,MD",
+    "address": "2351 Frederick Ave, Baltimore,MD 21223|(410) 233-9100"
+  },
+  {
+    "lon": -76.548454,
+    "lat": 39.322988,
+    "location": "Checkers-Baltimore,MD",
+    "address": "5300 Moravia Rd, Baltomore,MD 21206|(410) 488-5318"
+  },
+  {
+    "lon": -76.480062,
+    "lat": 39.336738,
+    "location": "Checkers-Baltimore,MD",
+    "address": "6210 Rossville Blvd, Baltimore,MD 21237|(410) 391-5100"
+  },
+  {
+    "lon": -76.680932,
+    "lat": 39.344137,
+    "location": "Checkers-Baltimore,MD",
+    "address": "6660 Reistertown Rd, Baltimore,MD 21215|(410) 358-3405"
+  },
+  {
+    "lon": -76.507711,
+    "lat": 39.296012,
+    "location": "Checkers-Baltimore,MD",
+    "address": "7925 Eastern Ave, Baltimore,MD 21224|(410) 288-6681"
+  },
+  {
+    "lon": -76.910873,
+    "lat": 38.997664,
+    "location": "Checkers-Berwyn Heights,MD",
+    "address": "6051 Greenbelt Road, Berwyn Heights,MD 20740|(301) 982-9449"
+  },
+  {
+    "lon": -76.935202,
+    "lat": 38.939394,
+    "location": "Checkers-Bladensburg,MD",
+    "address": "4850 Annapolis Road, Bladensburg,MD 20710|(301) 779-6343"
+  },
+  {
+    "lon": -76.876129,
+    "lat": 38.671415,
+    "location": "Checkers-Brandywine,MD",
+    "address": "7511 Clymer Dr, Brandywine,MD 20613|(301) 782-7338"
+  },
+  {
+    "lon": -76.500669,
+    "lat": 38.293577,
+    "location": "Checkers-California,MD",
+    "address": "45500 Miramar Way, California,MD 20619|(301) 737-4000"
+  },
+  {
+    "lon": -76.889645,
+    "lat": 38.819118,
+    "location": "Checkers-Camp Springs,MD",
+    "address": "4827 Allentown Road, Camp Springs,MD 20746|(301) 736-4179"
+  },
+  {
+    "lon": -76.852493,
+    "lat": 38.890671,
+    "location": "Checkers-Capitol Heights,MD",
+    "address": "9005 Central Avenue, Capitol Heights,MD 20743|(301) 808-6226"
+  },
+  {
+    "lon": -76.732393,
+    "lat": 39.287726,
+    "location": "Checkers-Catonsville,MD",
+    "address": "5705 Baltimore National Pike, Catonsville,MD 21228|(410) 744-5528"
+  },
+  {
+    "lon": -76.882236,
+    "lat": 38.76954,
+    "location": "Checkers-Clinton,MD",
+    "address": "8815 Woodyard Road, Clinton,MD 20735|(301) 856-5445"
+  },
+  {
+    "lon": -76.696245,
+    "lat": 39.016869,
+    "location": "Checkers-Crofton,MD",
+    "address": "1645 Crofton Centre, Crofton,MD 21114|(410) 721-8657"
+  },
+  {
+    "lon": -76.896668,
+    "lat": 38.853193,
+    "location": "Checkers-District Heights,MD",
+    "address": "6401 Marlboro Pike, District Heights,MD 20747|(301) 420-6452"
+  },
+  {
+    "lon": -76.31481,
+    "lat": 39.435395,
+    "location": "Checkers-Edgewood,MD",
+    "address": "1926 Pulaski Hwy, Edgewood,MD 21040|(410) 676-8011"
+  },
+  {
+    "lon": -76.837309,
+    "lat": 39.277668,
+    "location": "Checkers-Ellicott City,MD",
+    "address": "9447 Baltimore National Pike, Ellicott City,MD 21042|(410) 480-0945"
+  },
+  {
+    "lon": -77.409396,
+    "lat": 39.392086,
+    "location": "Checkers-Frederick,MD",
+    "address": "5731 Buckeystown Pike, Frederick,MD 21701|(301) 682-9731"
+  },
+  {
+    "lon": -77.179145,
+    "lat": 39.121085,
+    "location": "Checkers-Gaithersburg,MD",
+    "address": "16171 Shady Grove Road, Gaithersburg,MD 20877|(301) 519-2480"
+  },
+  {
+    "lon": -77.16143,
+    "lat": 39.160361,
+    "location": "Checkers-Gaithersburg,MD",
+    "address": "8019 Snouffer School Rd, Gaithersburg,MD 20879|(240) 477-5319"
+  },
+  {
+    "lon": -76.613852,
+    "lat": 39.186101,
+    "location": "Checkers-Glen Burnie,MD",
+    "address": "1417 N Crain Hwy, Glen Burnie,MD 21061|(410) 761-3830"
+  },
+  {
+    "lon": -77.691629,
+    "lat": 39.615298,
+    "location": "Checkers-Hagerstown,MD",
+    "address": "1720 Dual Hwy, Hagerstown,MD 21740|(301) 519-2480"
+  },
+  {
+    "lon": -76.967766,
+    "lat": 38.949257,
+    "location": "Checkers-Hyattsville,MD",
+    "address": "3032 Queen's Chapel Road, Hyattsville,MD 20782|(301) 209-0398"
+  },
+  {
+    "lon": -76.88841,
+    "lat": 38.926575,
+    "location": "Checkers-Landover,MD",
+    "address": "7415 Landover Road, Landover,MD 20785|(301) 583-0760"
+  },
+  {
+    "lon": -76.460933,
+    "lat": 38.26243,
+    "location": "Checkers-Lexington Park,MD",
+    "address": "21656 Great Mills Rd, Lexington Park,MD 20653|(301) 866-1888"
+  },
+  {
+    "lon": -76.643996,
+    "lat": 39.215299,
+    "location": "Checkers-Linthicum,MD",
+    "address": "6899 Baltimore-Annapolis Blvd, Linthicum,MD 21090|(410) 789-5326"
+  },
+  {
+    "lon": -76.941656,
+    "lat": 38.830316,
+    "location": "Checkers-Marlow Heights,MD",
+    "address": "4335 St Barnabas Road, Marlow Heights,MD 20748|(301) 423-9312"
+  },
+  {
+    "lon": -76.977904,
+    "lat": 38.804708,
+    "location": "Checkers-Oxon Hill,MD",
+    "address": "6041 Oxon Hill Road, Oxon Hill,MD 20745|(301) 749-8031"
+  },
+  {
+    "lon": -76.776982,
+    "lat": 39.360737,
+    "location": "Checkers-Randallstown,MD",
+    "address": "8538 Liberty Rd, Randallstown,MD 21133|(410) 521-2850"
+  },
+  {
+    "lon": -75.600605,
+    "lat": 38.355107,
+    "location": "Checkers-Salisbury,MD",
+    "address": "754 S Salisbury Blvd, Salisbury,MD 21801|(443) 944-8114"
+  },
+  {
+    "lon": -76.909944,
+    "lat": 38.625883,
+    "location": "Checkers-Waldorf,MD",
+    "address": "3002 Leonard Town Road, Waldorf,MD 20601|(301) 645-7820"
+  },
+  {
+    "lon": -85.226208,
+    "lat": 42.29739,
+    "location": "Checkers-Battle Creek,MI",
+    "address": "1600 W Columbia Ave, Battle Creek,MI 49015|(269) 964-4340"
+  },
+  {
+    "lon": -83.026934,
+    "lat": 42.469533,
+    "location": "Checkers-Center Line,MI",
+    "address": "23815 Van Dyke Avenue, Center Line,MI 48015|(586) 754-6444"
+  },
+  {
+    "lon": -83.165423,
+    "lat": 42.531327,
+    "location": "Checkers-Clawson,MI",
+    "address": "201 Crooks Road, Clawson,MI 48017|(248) 435-0355"
+  },
+  {
+    "lon": -82.87073,
+    "lat": 42.55631,
+    "location": "Checkers-Clinton Township,MI",
+    "address": "35105 Harper Rd, Clinton Township,MI 48035|(586) 421-5499"
+  },
+  {
+    "lon": -83.270749,
+    "lat": 42.27476,
+    "location": "Checkers-Dearborn Heights,MI",
+    "address": "4850 S Telegraph Road, Dearborn Heights,MI 48125|(313) 291-1260"
+  },
+  {
+    "lon": -83.274667,
+    "lat": 42.356077,
+    "location": "Checkers-Dearborn Heights,MI",
+    "address": "8675 N Telegraph, Dearborn Heights,MI 48127|(313) 563-1699"
+  },
+  {
+    "lon": -83.168765,
+    "lat": 42.431232,
+    "location": "Checkers-Detroit,MI",
+    "address": "10711 W 7 Mile Rd, Detroit,MI 48221|(313) 341-2445"
+  },
+  {
+    "lon": -83.197571,
+    "lat": 42.373234,
+    "location": "Checkers-Detroit,MI",
+    "address": "11641 Greenfield Road, Detroit,MI 48227|(313) 653-3103"
+  },
+  {
+    "lon": -82.969728,
+    "lat": 42.449368,
+    "location": "Checkers-Detroit,MI",
+    "address": "14858 E 8 Mile Rd, Detroit,MI 48205"
+  },
+  {
+    "lon": -82.94238,
+    "lat": 42.41264,
+    "location": "Checkers-Detroit,MI",
+    "address": "16511 Harper Ave, Detroit,MI 48224|(313) 647-4262"
+  },
+  {
+    "lon": -83.215771,
+    "lat": 42.3997,
+    "location": "Checkers-Detroit,MI",
+    "address": "17620 Grand River Ave, Detroit,MI 48227|(313) 270-2199"
+  },
+  {
+    "lon": -83.238298,
+    "lat": 42.443779,
+    "location": "Checkers-Detroit,MI",
+    "address": "19801 West 8 Mile Road, Detroit,MI 48219|(313) 362-2555"
+  },
+  {
+    "lon": -83.064573,
+    "lat": 42.447252,
+    "location": "Checkers-Detroit,MI",
+    "address": "4030 East 8 Mile Road, Detroit,MI 48234|(313) 893-6150"
+  },
+  {
+    "lon": -83.10654,
+    "lat": 42.316155,
+    "location": "Checkers-Detroit,MI",
+    "address": "6060 West Vernor Hwy, Detroit,MI 48209|(313) 749-7580"
+  },
+  {
+    "lon": -82.944555,
+    "lat": 42.5267,
+    "location": "Checkers-Fraser,MI",
+    "address": "31331 Groesbeck Highway, Fraser,MI 48026|(586) 293-1045"
+  },
+  {
+    "lon": -83.349789,
+    "lat": 42.324893,
+    "location": "Checkers-Garden City,MI",
+    "address": "31335 Ford Rd, Garden City,MI 48135|(734) 743-3120"
+  },
+  {
+    "lon": -85.64161,
+    "lat": 42.970023,
+    "location": "Checkers-Grand Rapids,MI",
+    "address": "1131 Michigan Street, Grand Rapids,MI 49503|(616) 458-9191"
+  },
+  {
+    "lon": -85.654622,
+    "lat": 42.912838,
+    "location": "Checkers-Grand Rapids,MI",
+    "address": "461 28th Street, Grand Rapids,MI 49507|(616) 452-9191"
+  },
+  {
+    "lon": -83.054115,
+    "lat": 42.391195,
+    "location": "Checkers-Hamtramack,MI",
+    "address": "8917 Joseph Campau, Hamtramack,MI 48212|(313) 875-5904"
+  },
+  {
+    "lon": -83.102745,
+    "lat": 42.461414,
+    "location": "Checkers-Hazel Park,MI",
+    "address": "300 E 9 Mile Road, Hazel Park,MI 48030|(248) 542-5607"
+  },
+  {
+    "lon": -86.083084,
+    "lat": 42.79043,
+    "location": "Checkers-Holland,MI",
+    "address": "554 8th Ave, Holland,MI 49423|(616) 546-9199"
+  },
+  {
+    "lon": -85.648277,
+    "lat": 42.276217,
+    "location": "Checkers-Kalamazoo,MI",
+    "address": "1560 S Drake Rd, Kalamazoo,MI 49006|(269) 544-0554"
+  },
+  {
+    "lon": -85.575175,
+    "lat": 42.294695,
+    "location": "Checkers-Kalamazoo,MI",
+    "address": "575 E Michigan Ave, Kalamazoo,MI 49007|(269) 343-6995"
+  },
+  {
+    "lon": -83.244483,
+    "lat": 42.759902,
+    "location": "Checkers-Lake Orion,MI",
+    "address": "1476 S Lapeer Rd, Lake Orion,MI 48312|(248) 693-3198"
+  },
+  {
+    "lon": -83.321674,
+    "lat": 43.038888,
+    "location": "Checkers-Lapeer,MI",
+    "address": "880 S Main Street, Lapeer,MI 48446|(810) 664-3511"
+  },
+  {
+    "lon": -83.194861,
+    "lat": 42.251671,
+    "location": "Checkers-Lincoln Park,MI",
+    "address": "2250 Dix Road, Lincoln Park,MI 48146|(313) 383-9206"
+  },
+  {
+    "lon": -83.090951,
+    "lat": 42.505073,
+    "location": "Checkers-Madison Heights,MI",
+    "address": "1450 E 12 Mile Road, Madison Heights,MI 48071|(248) 546-5103"
+  },
+  {
+    "lon": -83.409564,
+    "lat": 41.932924,
+    "location": "Checkers-Monroe,MI",
+    "address": "808 N Telegraph Road, Monroe,MI 48162|(734) 457-5468"
+  },
+  {
+    "lon": -86.20944,
+    "lat": 43.220402,
+    "location": "Checkers-Muskegon,MI",
+    "address": "1785 Creston Street, Muskegon,MI 49442|(231) 773-6540"
+  },
+  {
+    "lon": -83.279146,
+    "lat": 42.654445,
+    "location": "Checkers-Pontiac,MI",
+    "address": "780 N Perry St, Pontiac,MI 48342|(248) 338-7720"
+  },
+  {
+    "lon": -83.313465,
+    "lat": 42.369995,
+    "location": "Checkers-Redford,MI",
+    "address": "11610 Inkster Road, Redford,MI 48239|(313) 937-1667"
+  },
+  {
+    "lon": -83.297632,
+    "lat": 42.432778,
+    "location": "Checkers-Redford Township,MI",
+    "address": "25800 Grand River, Redford Township,MI 48240|(313) 535-8674"
+  },
+  {
+    "lon": -83.32775,
+    "lat": 42.238044,
+    "location": "Checkers-Romulus,MI",
+    "address": "9247 Middlebelt Road, Romulus,MI 48174|(734) 946-5838"
+  },
+  {
+    "lon": -82.946728,
+    "lat": 42.481419,
+    "location": "Checkers-Roseville,MI",
+    "address": "25260 Gratiot Ave, Roseville,MI 48066|(586) 775-4610"
+  },
+  {
+    "lon": -82.933863,
+    "lat": 42.501822,
+    "location": "Checkers-Roseville,MI",
+    "address": "27951 Gratiot Ave, Roseville,MI 48066|(586) 774-5078"
+  },
+  {
+    "lon": -83.2991,
+    "lat": 42.196589,
+    "location": "Checkers-Taylor,MI",
+    "address": "26715 Eureka Road, Taylor,MI 48180|(734) 941-4778"
+  },
+  {
+    "lon": -83.3722877,
+    "lat": 42.6535833,
+    "location": "Checkers-Waterford,MI",
+    "address": "4349 Highland Rd, Waterford,MI 48328|(248) 499-8623"
+  },
+  {
+    "lon": -83.389179,
+    "lat": 42.323777,
+    "location": "Checkers-Westland,MI",
+    "address": "2220 Wayne Road, Westland,MI 48185|(734) 326-5740"
+  },
+  {
+    "lon": -83.2259753,
+    "lat": 42.132416,
+    "location": "Checkers-Woodhaven,MI",
+    "address": "24300 Allen Rd, Woodhaven,MI 48183|(734) 675-2955"
+  },
+  {
+    "lon": -83.180471,
+    "lat": 42.210392,
+    "location": "Checkers-Wyandotte,MI",
+    "address": "2291 Fort Street, Wyandotte,MI 48192|(734) 282-3341"
+  },
+  {
+    "lon": -85.69849,
+    "lat": 42.913418,
+    "location": "Checkers-Wyoming,MI",
+    "address": "1325 28th St SW, Wyoming,MI 49509|(616) 719-0765"
+  },
+  {
+    "lon": -88.561783,
+    "lat": 34.672173,
+    "location": "Checkers-Booneville,MS",
+    "address": "901 N 2nd St, Booneville,MS 38829|(662) 340-1048"
+  },
+  {
+    "lon": -88.514383,
+    "lat": 34.920367,
+    "location": "Checkers-Corinth,MS",
+    "address": "806 Hwy 72 (Lee Hwy), Corinth,MS 38834|(662) 331-5100"
+  },
+  {
+    "lon": -89.030208,
+    "lat": 30.397963,
+    "location": "Checkers-Gulfport,MS",
+    "address": "1123 E Pass Road, Gulfport,MS 39507|(228) 897-9010"
+  },
+  {
+    "lon": -89.331462,
+    "lat": 31.324674,
+    "location": "Checkers-Hattiesburg,MS",
+    "address": "2806 Hardy Street, Hattiesburg,MS 39401|(601) 261-9931"
+  },
+  {
+    "lon": -88.988085,
+    "lat": 33.895404,
+    "location": "Checkers-Houston,MS",
+    "address": "730 E Madison St, Houston,MS 38851|(662) 567-5422"
+  },
+  {
+    "lon": -89.14911,
+    "lat": 31.712191,
+    "location": "Checkers-Laurel,MS",
+    "address": "1925 Highway 15 North, Laurel,MS 39440|(601) 425-1380"
+  },
+  {
+    "lon": -88.781496,
+    "lat": 30.412419,
+    "location": "Checkers-Ocean Springs,MS",
+    "address": "3154 Bienville Blvd, Ocean Springs,MS 39564|(228) 872-7998"
+  },
+  {
+    "lon": -89.557443,
+    "lat": 34.364141,
+    "location": "Checkers-Oxford,MS",
+    "address": "1927 Jackson Ave West, Oxford,MS 38655|(662) 380-5154"
+  },
+  {
+    "lon": -88.52511,
+    "lat": 30.379542,
+    "location": "Checkers-Pascagoula,MS",
+    "address": "3413 Denny Avenue, Pascagoula,MS 39581|(228) 769-6966"
+  },
+  {
+    "lon": -89.0198113,
+    "lat": 34.2659908,
+    "location": "Checkers-Pontotoc,MS",
+    "address": "327 Hwy 15 North, Pontotoc,MS 38863|(662) 200-2704"
+  },
+  {
+    "lon": -88.950629,
+    "lat": 34.721398,
+    "location": "Checkers-Ripley,MS",
+    "address": "825 City Avenue South, Ripley,MS 38663|(662) 993-8222"
+  },
+  {
+    "lon": -90.006574,
+    "lat": 34.991864,
+    "location": "Checkers-Southhaven,MS",
+    "address": "938 W Stateline Road, Southhaven,MS 38671|(662) 393-0241"
+  },
+  {
+    "lon": -90.315129,
+    "lat": 34.819353,
+    "location": "Checkers-Tunica Resorts,MS",
+    "address": "6804 Casino Strip Blvd, Tunica Resorts,MS 38664|(662) 357-9776"
+  },
+  {
+    "lon": -88.717037,
+    "lat": 34.249459,
+    "location": "Checkers-Tupelo,MS",
+    "address": "509 South Gloster St, Tupelo,MS 38801|(662) 260-5071"
+  },
+  {
+    "lon": -88.658522,
+    "lat": 33.604018,
+    "location": "Checkers-West Point,MS",
+    "address": "6720 Hwy 45 Alt South, West Point,MS 39773|(662) 391-2904"
+  },
+  {
+    "lon": -78.903203,
+    "lat": 35.968558,
+    "location": "Checkers-Durham,NC",
+    "address": "2520 Fayettevillle,St, Durham,NC 27707|(919) 908-9792"
+  },
+  {
+    "lon": -77.370301,
+    "lat": 35.586071,
+    "location": "Checkers-Greenville,NC",
+    "address": "703 SE Greenville Blvd, Greenville,NC 27858|(252) 321-6779"
+  },
+  {
+    "lon": -81.335638,
+    "lat": 35.750321,
+    "location": "Checkers-Hickory,NC",
+    "address": "1304 2nd St NE, Hickory,NC 28601|(828) 327-5611"
+  },
+  {
+    "lon": -77.415293,
+    "lat": 34.761008,
+    "location": "Checkers-Jacksonville,NC",
+    "address": "643 N Marine Blvd, Jacksonville,NC 28540|(910) 346-8197"
+  },
+  {
+    "lon": -79.000258,
+    "lat": 34.652219,
+    "location": "Checkers-Lomberton,NC",
+    "address": "4370 Fayetteville Rd, Lumberton,NC 28358|(910) 370-0158"
+  },
+  {
+    "lon": -81.524336,
+    "lat": 35.273783,
+    "location": "Checkers-Shelby,NC",
+    "address": "938 Grove St, Shelby,NC 28152|(704) 600-6284"
+  },
+  {
+    "lon": -78.326085,
+    "lat": 35.505359,
+    "location": "Checkers-Smithfield,NC",
+    "address": "1691 E Market St, Smithfield,NC 27577|(919) 989-2007"
+  },
+  {
+    "lon": -78.9723417,
+    "lat": 35.1664888,
+    "location": "Checkers-Spring Lake,NC",
+    "address": "143 S Bragg Blvd, Spring Lake,NC 28390|(910) 346-1134"
+  },
+  {
+    "lon": -77.923609,
+    "lat": 34.225423,
+    "location": "Checkers-Wilmington,NC",
+    "address": "1901 Oleander Dr, Wilmington,NC 28401|(910) 251-7856"
+  },
+  {
+    "lon": -77.87547,
+    "lat": 34.24391,
+    "location": "Checkers-Wilmington,NC",
+    "address": "5226 Sigmon Rd, Wilmington,NC 28403|(910) 392-8299"
+  },
+  {
+    "lon": -74.840243,
+    "lat": 40.050535,
+    "location": "Checkers-Burlington,NJ",
+    "address": "2105 Burlington-Mt Holly Rd, Burlington,NJ 08016|(856) 239-2611"
+  },
+  {
+    "lon": -75.097336,
+    "lat": 39.907771,
+    "location": "Checkers-Camden,NJ",
+    "address": "2881 Mount Ephraim Ave, Camden,NJ 08104|(856) 962-6965"
+  },
+  {
+    "lon": -74.216548,
+    "lat": 40.755968,
+    "location": "Checkers-East Orange,NJ",
+    "address": "360 Central Avenue, East Orange,NJ 07018|(201) 677-7575"
+  },
+  {
+    "lon": -75.11463,
+    "lat": 39.720071,
+    "location": "Checkers-Glassboro,NJ",
+    "address": "701 North Delsea Drive, Glassboro,NJ 08028|(856) 881-2906"
+  },
+  {
+    "lon": -74.250372,
+    "lat": 40.187374,
+    "location": "Checkers-Howell Township,NJ",
+    "address": "1992 Rt 9 & West Farms Rd, Howell Township,NJ 07731|(732) 462-9820"
+  },
+  {
+    "lon": -74.082225,
+    "lat": 40.721241,
+    "location": "Checkers-Jersey City,NJ",
+    "address": "823 Communipaw Avenue, Jersey City,NJ 07304|(201) 413-5458"
+  },
+  {
+    "lon": -74.251898,
+    "lat": 40.617272,
+    "location": "Checkers-Linden,NJ",
+    "address": "901 W Edgar Road, Linden,NJ 07036|(908) 474-0363"
+  },
+  {
+    "lon": -74.188459,
+    "lat": 40.745182,
+    "location": "Checkers-Newark,NJ",
+    "address": "111 Hartford Street, Newark,NJ 07103|(973) 622-1961"
+  },
+  {
+    "lon": -74.180507,
+    "lat": 40.923867,
+    "location": "Checkers-Paterson,NJ",
+    "address": "220 W Broadway, Paterson,NJ 07522|(973) 389-1850"
+  },
+  {
+    "lon": -74.166605,
+    "lat": 40.915188,
+    "location": "Checkers-Paterson,NJ",
+    "address": "283 Market Street, Paterson,NJ 07501|(201) 357-0102"
+  },
+  {
+    "lon": -75.075583,
+    "lat": 39.937512,
+    "location": "Checkers-Pennsauken Township,NJ",
+    "address": "6720 South Crescent Blvd, Pennsauken Township,NY 08109|(856) 382-7917"
+  },
+  {
+    "lon": -74.18892,
+    "lat": 39.96386,
+    "location": "Checkers-Toms River,NJ",
+    "address": "140 Rt 37 West, Toms River,NJ 08753|(732) 736-8200"
+  },
+  {
+    "lon": -73.427037,
+    "lat": 40.701848,
+    "location": "Checkers-Amityville,NY",
+    "address": "800 Broadway, Amityville,NY 11701|(631) 842-2732"
+  },
+  {
+    "lon": -73.607779,
+    "lat": 40.6657,
+    "location": "Checkers-Baldwin,NY",
+    "address": "1840 Grand Ave, Baldwin,NY 11510|(516) 868-4546"
+  },
+  {
+    "lon": -73.246141,
+    "lat": 40.779083,
+    "location": "Checkers-Brentwood,NY",
+    "address": "1825 Brentwood Road, Brentwood,NY 11717|(631) 231-8090"
+  },
+  {
+    "lon": -73.922857,
+    "lat": 40.835792,
+    "location": "Checkers-Bronx,NY",
+    "address": "1203 Jerome Ave, Bronx,NY 10452|(917) 891-6060"
+  },
+  {
+    "lon": -73.918799,
+    "lat": 40.825694,
+    "location": "Checkers-Bronx,NY",
+    "address": "260 East 161st Street, Bronx,NY 10451|(718) 585-7777"
+  },
+  {
+    "lon": -73.891485,
+    "lat": 40.861774,
+    "location": "Checkers-Bronx,NY",
+    "address": "379 E Fordham Rd, Bronx,NY 10458|(347) 271-9238"
+  },
+  {
+    "lon": -73.863411,
+    "lat": 40.8764561,
+    "location": "Checkers-Bronx,NY",
+    "address": "771 E Gunn Hill Rd, Bronx,NY 10467|(718) 881-1179"
+  },
+  {
+    "lon": -73.936201,
+    "lat": 40.696861,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "1130 Myrtle Ave, Brooklyn,NY 11206|(347) 789-4250"
+  },
+  {
+    "lon": -73.86676,
+    "lat": 40.67856,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "1146 Liberty Ave, Brooklyn,NY 11208|(347) 533-7800"
+  },
+  {
+    "lon": -73.914791,
+    "lat": 40.685383,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "1611 Broadway, Brooklyn,NY 11207|(718) 443-6160"
+  },
+  {
+    "lon": -73.96295,
+    "lat": 40.64966,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "1801 Church Ave, Brooklyn,NY 11226|(347) 955-4360"
+  },
+  {
+    "lon": -73.958699,
+    "lat": 40.708701,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "277 Broadway, Brooklyn,NY 11211|(718) 387-7900"
+  },
+  {
+    "lon": -73.9607543,
+    "lat": 40.6633348,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "43 Empire Blvd, Brooklyn,NY 11225|(718) 287-1400"
+  },
+  {
+    "lon": -73.890263,
+    "lat": 40.658191,
+    "location": "Checkers-Brooklyn,NY",
+    "address": "797 Pennsylvania Ave, Brooklyn,NY 11207|(917) 983-9000"
+  },
+  {
+    "lon": -78.878211,
+    "lat": 42.9517409,
+    "location": "Checkers-Buffalo,NY",
+    "address": "1969 Elmwood Ave, Buffalo,NY 14207|(716) 262-2047"
+  },
+  {
+    "lon": -78.813302,
+    "lat": 42.927871,
+    "location": "Checkers-Buffalo,NY",
+    "address": "2665 Bailey Ave, Buffalo,NY 14215|(716) 262-2216"
+  },
+  {
+    "lon": -73.203485,
+    "lat": 40.790328,
+    "location": "Checkers-Central Islip,NY",
+    "address": "7 W Suffolk Avenue, Central Islip,NY 11722|(631) 582-5219"
+  },
+  {
+    "lon": -78.75264,
+    "lat": 42.88154,
+    "location": "Checkers-Cheektowaga,NY",
+    "address": "2563 Union Rd, Cheektowaga,NY 14227|(716) 262-2165"
+  },
+  {
+    "lon": -73.5565733,
+    "lat": 40.724982,
+    "location": "Checkers-East Meadow,NY",
+    "address": "2148 Hempstead Turnpike, East Meadow,NY 11554|(516) 542-6180"
+  },
+  {
+    "lon": -73.86559,
+    "lat": 40.736946,
+    "location": "Checkers-Elmhurst,NY",
+    "address": "9505 57th Ave, Elmhurst,NY 11368|(718) 663-1951"
+  },
+  {
+    "lon": -73.707063,
+    "lat": 40.708042,
+    "location": "Checkers-Elmont,NY",
+    "address": "600 Hempstead Turnpike, Elmont,NY 11003|(516) 326-6859"
+  },
+  {
+    "lon": -73.615729,
+    "lat": 40.709671,
+    "location": "Checkers-Hempstead,NY",
+    "address": "461 Fulton Avenue, Hempstead,NY 11550|(516) 565-2906"
+  },
+  {
+    "lon": -73.412186,
+    "lat": 40.840809,
+    "location": "Checkers-Huntington Station,NY",
+    "address": "1680 New York Ave, Huntington Station,NY 11746|(631) 923-1660"
+  },
+  {
+    "lon": -73.77627,
+    "lat": 40.674178,
+    "location": "Checkers-Jamaica,NY",
+    "address": "133-18 Guy Brewer Blvd, Jamaica,NY 11433|(718) 413-5599"
+  },
+  {
+    "lon": -73.7813478,
+    "lat": 40.7132321,
+    "location": "Checkers-Jamaica,NY",
+    "address": "181-30 Hillside Ave, Jamaica,NY 11432|(929) 335-0272"
+  },
+  {
+    "lon": -73.807578,
+    "lat": 40.714827,
+    "location": "Checkers-Jamaica,NY",
+    "address": "8345 Parsons Blvd, Jamaica,NY 11432|(718) 291-4738"
+  },
+  {
+    "lon": -73.102488,
+    "lat": 40.827273,
+    "location": "Checkers-Lake Ronkonkoma,NY",
+    "address": "258 Portion Road, Lake Ronkonkoma,NY 11779|(631) 585-0093"
+  },
+  {
+    "lon": -73.376312,
+    "lat": 40.702849,
+    "location": "Checkers-Lindenhurst,NY",
+    "address": "136 Sunrise Hwy, Lindenhurst,NY 11757|(631) 956-1831"
+  },
+  {
+    "lon": -73.939674,
+    "lat": 40.750107,
+    "location": "Checkers-Long Island City,NY",
+    "address": "2712 Queens Plaza South, Long Island City,NY 11101|(718) 392-4252"
+  },
+  {
+    "lon": -73.95295,
+    "lat": 40.81059,
+    "location": "Checkers-New York,NY",
+    "address": "291 St Nicholas Ave, New York,NY 10027|(645) 833-7302"
+  },
+  {
+    "lon": -73.917871,
+    "lat": 40.815765,
+    "location": "Checkers-New York,NY",
+    "address": "530 Willis Ave, New York,NY 10455|(347) 862-0367"
+  },
+  {
+    "lon": -73.944828,
+    "lat": 40.823894,
+    "location": "Checkers-New York,NY",
+    "address": "695 Saint Nicholas Ave, New York,NY 10031|(212) 234-7067"
+  },
+  {
+    "lon": -74.006749,
+    "lat": 40.714392,
+    "location": "Checkers-New York,NY",
+    "address": "77 Chambers Street, New York,NY 10007|(212) 587-8888"
+  },
+  {
+    "lon": -73.9445993,
+    "lat": 40.807465,
+    "location": "Checkers-New York,NY",
+    "address": "79 W 125th St, New York,NY 10027|(212) 837-1500"
+  },
+  {
+    "lon": -73.823241,
+    "lat": 40.686577,
+    "location": "Checkers-Richmond Hill,NY",
+    "address": "120-06 Liberty Ave, Richmond Hill-,NY 11419|(718) 848-4400"
+  },
+  {
+    "lon": -73.734532,
+    "lat": 40.665199,
+    "location": "Checkers-Rosedale Village,NY",
+    "address": "139-33 245th St, Rosedale Village,NY 11422|(347) 426-9878"
+  },
+  {
+    "lon": -73.052117,
+    "lat": 40.863208,
+    "location": "Checkers-Selden,NY",
+    "address": "1115 Middle Country Road, Selden,NY 11784|(631) 698-7228"
+  },
+  {
+    "lon": -73.7693246,
+    "lat": 40.6836686,
+    "location": "Checkers-St Albans,NY",
+    "address": "122-21 Merrick Blvd, St Albans,NY 11434|(718) 712-2420"
+  },
+  {
+    "lon": -74.164972,
+    "lat": 40.62707,
+    "location": "Checkers-Staten Island,NY",
+    "address": "2270 Forest Ave, Staten Island,NY 10301|(none listed)"
+  },
+  {
+    "lon": -78.822675,
+    "lat": 43.019009,
+    "location": "Checkers-Tonawanda,NY",
+    "address": "2374 Niagara Falls Blvd, Tonawanda,NY 14150|(716) 262-2046"
+  },
+  {
+    "lon": -73.574792,
+    "lat": 40.750412,
+    "location": "Checkers-Westbury,NY",
+    "address": "635 Old Country Road, Westbury,NY 11590|(516) 333-7992"
+  },
+  {
+    "lon": -76.7188405,
+    "lat": 40.0778245,
+    "location": "Checkers-Manchester,PA",
+    "address": "4315 N George St, Manchester,PA 17345|(717) 978-5371"
+  },
+  {
+    "lon": -75.181219,
+    "lat": 39.918037,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "2008 Oregon Avenue, Philadelphia,PA 19145|(215) 334-8802"
+  },
+  {
+    "lon": -75.136427,
+    "lat": 39.991594,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "232-50 W Lehigh Avenue, Philadelphia,PA 19133|(215) 427-9660"
+  },
+  {
+    "lon": -75.17426,
+    "lat": 40.00733,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "2729 W Hunting Park Ave, Philadelphia,PA 19129|(215) 223-1619"
+  },
+  {
+    "lon": -75.099042,
+    "lat": 39.992348,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "3500 Aramingo Ave, Philadelphia,PA 19134|(215) 288-9100"
+  },
+  {
+    "lon": -75.218127,
+    "lat": 39.972856,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "4813-23 Lancaster Avenue, Philadelphia,PA 19131|(215) 879-6220"
+  },
+  {
+    "lon": -75.084994,
+    "lat": 40.030551,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "5427 Oxford Avenue, Philadelphia,PA 19124|(215) 537-8030"
+  },
+  {
+    "lon": -75.239115,
+    "lat": 39.946097,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "5726-46 Baltimore Avenue, Philadelphia,PA 19143|(215) 476-8025"
+  },
+  {
+    "lon": -75.163544,
+    "lat": 40.058475,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "7115 Stenton Avenue, Philadelphia,PA 19138|(215) 276-4344"
+  },
+  {
+    "lon": -75.046241,
+    "lat": 40.056627,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "8001 Roosevelt Blvd, Philadelphia,PA 19132|(215) 338-9810"
+  },
+  {
+    "lon": -75.03235,
+    "lat": 40.07525,
+    "location": "Checkers-Philadelphia,PA",
+    "address": "9173 Roosevelt Boulevard, Philadelphia,PA 19114|(215) 856-3861"
+  },
+  {
+    "lon": -80.011165,
+    "lat": 32.899952,
+    "location": "Checkers-Charleston,SC",
+    "address": "1846 Remount Rd, Charleston,SC 29406|(843) 740-9165"
+  },
+  {
+    "lon": -79.765326,
+    "lat": 34.172501,
+    "location": "Checkers-Florence,SC",
+    "address": "1245 S Irby St, Florence,SC 29505|(843) 629-8480"
+  },
+  {
+    "lon": -79.80975,
+    "lat": 34.18694,
+    "location": "Checkers-Florence,SC",
+    "address": "2110 W Palmetto St, Florence,SC 29501|(843) 292-0100"
+  },
+  {
+    "lon": -81.938294,
+    "lat": 33.570586,
+    "location": "Checkers-North Augusta,SC",
+    "address": "1029 Edgefield Rd, North Augusta,SC 29860|(803) 441-6441"
+  },
+  {
+    "lon": -80.006596,
+    "lat": 32.853912,
+    "location": "Checkers-North Charleston,SC",
+    "address": "4299 Dorchester Rd, North Charleston,SC 29405|(843) 744-4469"
+  },
+  {
+    "lon": -80.170133,
+    "lat": 33.026557,
+    "location": "Checkers-Summerville,SC",
+    "address": "601 N Main St, Summerville,SC 29483|(843) 695-1436"
+  },
+  {
+    "lon": -84.874549,
+    "lat": 35.184286,
+    "location": "Checkers-Cleveland,TN",
+    "address": "920 25th Street NW, Cleveland,TN 37311|(423) 473-0293"
+  },
+  {
+    "lon": -85.236559,
+    "lat": 34.995645,
+    "location": "Checkers-East Ridge,TN",
+    "address": "4348 Ringgold Rd, East Ridge,TN 37142|(423) 622-7120"
+  },
+  {
+    "lon": -86.6999753,
+    "lat": 36.2987485,
+    "location": "Checkers-Goodlettsville,TN",
+    "address": "930 Rivergate Parkway, Goodlettsville,TN 37072|(615) 448-6837"
+  },
+  {
+    "lon": -88.8499,
+    "lat": 35.661062,
+    "location": "Checkers-Jackson,TN",
+    "address": "620 Carriage House Dr, Jackson,TN 38305|(731) 300-3900"
+  },
+  {
+    "lon": -83.906887,
+    "lat": 35.936924,
+    "location": "Checkers-Knoxville,TN",
+    "address": "4100 Chapman Hwy, Knoxville,TN 37920|(865) 415-2753"
+  },
+  {
+    "lon": -83.608007,
+    "lat": 35.977984,
+    "location": "Checkers-Kodak,TN",
+    "address": "3423 Windfield Dunn Pkwy, Kodak,TN 37764|(865) 465-7811"
+  },
+  {
+    "lon": -86.584021,
+    "lat": 36.022107,
+    "location": "Checkers-La Vergne,TN",
+    "address": "5062 Murfreesboro Pike, La Vergne,TN 37086|(615) 280-1545"
+  },
+  {
+    "lon": -89.906138,
+    "lat": 35.064393,
+    "location": "Checkers-Memphis,TN",
+    "address": "3091 S Perkins Rd, Memphis,TN 38118|(901) 529-7543"
+  },
+  {
+    "lon": -89.916291,
+    "lat": 35.213977,
+    "location": "Checkers-Memphis,TN",
+    "address": "3240 Austin Peay Highway, Memphis,TN 38128|(901) 384-9271"
+  },
+  {
+    "lon": -90.02506,
+    "lat": 35.050255,
+    "location": "Checkers-Memphis,TN",
+    "address": "3605 Elvis Presley Blvd, Memphis,TN 38116|(901) 332-0143"
+  },
+  {
+    "lon": -89.940595,
+    "lat": 35.064713,
+    "location": "Checkers-Memphis,TN",
+    "address": "3680 Lamar Ave, Memphis,TN 38118|(901) 433-9480"
+  },
+  {
+    "lon": -89.93184,
+    "lat": 35.107193,
+    "location": "Checkers-Memphis,TN",
+    "address": "3935 Park Ave, Memphis,TN 38111|(901) 323-0107"
+  },
+  {
+    "lon": -90.047277,
+    "lat": 35.124418,
+    "location": "Checkers-Memphis,TN",
+    "address": "434 E Eh Crump Blvd, Memphis,TN 38126|(901) 774-4812"
+  },
+  {
+    "lon": -89.794806,
+    "lat": 35.141542,
+    "location": "Checkers-Memphis,TN",
+    "address": "600 N Germantown Pkwy, Memphis,TN 38018|(901) 654-3082"
+  },
+  {
+    "lon": -89.863924,
+    "lat": 35.072603,
+    "location": "Checkers-Memphis,TN",
+    "address": "6000 Mount Moriah Road, Memphis,TN 38115|(901) 797-8455"
+  },
+  {
+    "lon": -90.021046,
+    "lat": 35.129084,
+    "location": "Checkers-Memphis,TN",
+    "address": "631 S Bellevue, Memphis,TN 38104|(901) 722-9090"
+  },
+  {
+    "lon": -89.829999,
+    "lat": 35.022354,
+    "location": "Checkers-Memphis,TN",
+    "address": "6990 E Shelby Dr, Memphis,TN 38125|(901) 410-8242"
+  },
+  {
+    "lon": -89.797978,
+    "lat": 35.04846,
+    "location": "Checkers-Memphis,TN",
+    "address": "7938 Winchester Rd, Memphis,TN 38125|(901) 590-0412"
+  },
+  {
+    "lon": -90.032823,
+    "lat": 35.145548,
+    "location": "Checkers-Memphis,TN",
+    "address": "844 Poplar Avenue, Memphis,TN 38105|(901) 529-8446"
+  },
+  {
+    "lon": -86.40277,
+    "lat": 35.854736,
+    "location": "Checkers-Murfreesboro,TN",
+    "address": "829 NW Broad Street, Murfreesboro,TN 37129|(615) 893-1217"
+  },
+  {
+    "lon": -86.738497,
+    "lat": 36.203658,
+    "location": "Checkers-Nashville,TN",
+    "address": "3001 Gallatin Road, Nashville,TN 37216|(615) 228-6584"
+  },
+  {
+    "lon": -86.83231,
+    "lat": 36.19481,
+    "location": "Checkers-Nashville,TN",
+    "address": "3232 Clarksville Pike, Nashville,TN 37218|(615) 942-7394"
+  },
+  {
+    "lon": -86.49653,
+    "lat": 35.96275,
+    "location": "Checkers-Smyrna,TN",
+    "address": "1098 Sgt Asbury Hawn Way, Smyrna,TN 37167|(615) 223-9326"
+  },
+  {
+    "lon": -95.944298,
+    "lat": 30.587871,
+    "location": "Checkers-Anderson,TX",
+    "address": "8457 State Hwy 90 N, Anderson,TX 77830|(936) 510-8024"
+  },
+  {
+    "lon": -94.863545,
+    "lat": 29.824365,
+    "location": "Checkers-Baytown,TX",
+    "address": "16160 Interstate 10 E, Baytown,TX 77523|(346) 241-0040"
+  },
+  {
+    "lon": -94.142809,
+    "lat": 30.119329,
+    "location": "Checkers-Beaumont,TX",
+    "address": "4215 E Lucas Dr, Beaumont,TX 77708|(409) 333-1465"
+  },
+  {
+    "lon": -94.129787,
+    "lat": 30.085436,
+    "location": "Checkers-Beaumont,TX",
+    "address": "490 N 11th St, Beaumont,TX 77702|(409) 833-6365"
+  },
+  {
+    "lon": -95.986056,
+    "lat": 31.257724,
+    "location": "Checkers-Centerville,TX",
+    "address": "950 W St Mary's St, Centerville,TX 75833|(903) 536-1170"
+  },
+  {
+    "lon": -95.0778241,
+    "lat": 29.9494373,
+    "location": "Checkers-Crosby,TX",
+    "address": "18703 Fm 2100 Rd [ste A], Crosby,TX 77532|(281) 462-7753"
+  },
+  {
+    "lon": -94.966201,
+    "lat": 29.98679,
+    "location": "Checkers-Dayton,TX",
+    "address": "9645 US Hwy 90, Dayton,TX 77535|(936) 258-6774"
+  },
+  {
+    "lon": -94.5907443,
+    "lat": 30.0275008,
+    "location": "Checkers-Devers,TX",
+    "address": "210 Hwy 90, Devers,TX 77538|(936) 549-7008"
+  },
+  {
+    "lon": -96.177185,
+    "lat": 31.711981,
+    "location": "Checkers-Fairfield,TX",
+    "address": "500 I-45 South, Fairfield,TX 75840|(903) 915-4794"
+  },
+  {
+    "lon": -95.990857,
+    "lat": 30.079097,
+    "location": "Checkers-Hempstead,TX",
+    "address": "418 University Dr, Hempstead,TX 77445|(281) 254-8613"
+  },
+  {
+    "lon": -95.199802,
+    "lat": 29.883715,
+    "location": "Checkers-Houston,TX",
+    "address": "11611 East Sam Houston Pkwy N, Houston,TX 77044|(281) 416-5021"
+  },
+  {
+    "lon": -95.419518,
+    "lat": 29.973885,
+    "location": "Checkers-Houston,TX",
+    "address": "121 Remington Valley Dr, Houston,TX 77073|(281) 982-3259"
+  },
+  {
+    "lon": -95.6229926,
+    "lat": 29.6886165,
+    "location": "Checkers-Houston,TX",
+    "address": "13600 Beechnut St, Houston,TX 77083|(281) 506-8585"
+  },
+  {
+    "lon": -95.434692,
+    "lat": 29.995922,
+    "location": "Checkers-Houston,TX",
+    "address": "15710 Ella Blvd, Houston,TX 77090|(832) 286-4506"
+  },
+  {
+    "lon": -95.285567,
+    "lat": 29.967434,
+    "location": "Checkers-Houston,TX",
+    "address": "17155 Eastex Freeway Service Rd, Houston,TX 77396|(832) 644-5763"
+  },
+  {
+    "lon": -95.68772,
+    "lat": 29.812009,
+    "location": "Checkers-Houston,TX",
+    "address": "2925 Barker Cypress St, Houston,TX 77084|(281) 676-8881"
+  },
+  {
+    "lon": -95.49854,
+    "lat": 29.93645,
+    "location": "Checkers-Houston,TX",
+    "address": "4919 North Sam Houston Pkwy W, Houston,TX 77086|(832) 666-5000"
+  },
+  {
+    "lon": -95.300493,
+    "lat": 29.891667,
+    "location": "Checkers-Houston,TX",
+    "address": "6001 Mount Houston Rd, Houston,TX 77050|(281) 416-4100"
+  },
+  {
+    "lon": -95.212168,
+    "lat": 29.935391,
+    "location": "Checkers-Humble,TX",
+    "address": "11863 N Sam Houston Pkwy E, Humble,TX 77346|(346) 219-2644"
+  },
+  {
+    "lon": -95.868372,
+    "lat": 29.785532,
+    "location": "Checkers-Katy,TX",
+    "address": "29625 Hwy Blvd, Katy,TX 77494|(281) 574-6696"
+  },
+  {
+    "lon": -95.79547,
+    "lat": 29.77367,
+    "location": "Checkers-Katy,TX",
+    "address": "600 Katy Fort Bend Rd, Katy,TX 77494|(281) 394-9723"
+  },
+  {
+    "lon": -94.741395,
+    "lat": 30.247589,
+    "location": "Checkers-Moss Hill,TX",
+    "address": "35 Hwy 105, Moss Hill,TX 77575|(936) 298-1344"
+  },
+  {
+    "lon": -95.233003,
+    "lat": 30.119998,
+    "location": "Checkers-Porter,TX",
+    "address": "22510 US Hwy 59, Porter,TX 77365|(281) 577-8101"
+  },
+  {
+    "lon": -95.68078,
+    "lat": 29.676112,
+    "location": "Checkers-Richmond,TX",
+    "address": "16805 Bissonnet St, Richmond,TX 7407|(281) 903-7754"
+  },
+  {
+    "lon": -95.1411,
+    "lat": 30.26893,
+    "location": "Checkers-Splendora,TX",
+    "address": "12050 US Hwy 59, Splendora,TX 77328|(281) 806-7731"
+  },
+  {
+    "lon": -95.875706,
+    "lat": 30.045598,
+    "location": "Checkers-Waller,TX",
+    "address": "35515 US 290 Bus, Waller,TX 77484|(936) 372-8026"
+  },
+  {
+    "lon": -95.111525,
+    "lat": 29.543469,
+    "location": "Checkers-Webster,TX",
+    "address": "601 E Nasa Pkwy, Webster,TX 77598|(346) 230-7190"
+  },
+  {
+    "lon": -77.525687,
+    "lat": 38.291646,
+    "location": "Checkers-Fredericksburg,VA",
+    "address": "3901 Plank Rd, Fredericksburg,VA 22407|(540) 785-2118"
+  },
+  {
+    "lon": -77.636909,
+    "lat": 38.812385,
+    "location": "Checkers-Haymarket,VA",
+    "address": "6530 Trading Square [Walmart], Haymarket,VA 20169|(703) 754-6241"
+  },
+  {
+    "lon": -77.515163,
+    "lat": 38.791907,
+    "location": "Checkers-Manassas,VA",
+    "address": "7550 Broken Branch Ln, Manassas,VA 20109|(703) 335-0084"
+  },
+  {
+    "lon": -77.45084,
+    "lat": 38.750123,
+    "location": "Checkers-Manassas,VA",
+    "address": "9540 Liberia Ave, Mansssas,VA 20110|(571) 229-9436"
+  },
+  {
+    "lon": -78.14709,
+    "lat": 39.18633,
+    "location": "Checkers-Winchester,VA",
+    "address": "826 Berryville Ave, Winchester,VA 22602|(540) 722-2001"
+  },
+  {
+    "lon": -77.274409,
+    "lat": 38.631183,
+    "location": "Checkers-Woodbridge,VA",
+    "address": "1920 Daniel Stuart Square, Woodbridge,VA 22191|(703) 492-6663"
+  },
+  {
+    "lon": -78.21106,
+    "lat": 37.978921,
+    "location": "Checkers-Zion Crossroads,VA",
+    "address": "65 Market St, Zion Crossroads,VA 22942|(434) 373-7802"
+  },
+  {
+    "lon": -87.927039,
+    "lat": 43.060393,
+    "location": "Checkers-Milwaukee,WI",
+    "address": "1205 W North Ave, Milwaukee,WI 53205|(414) 263-1717"
+  },
+  {
+    "lon": -87.956605,
+    "lat": 43.074571,
+    "location": "Checkers-Milwaukee,WI",
+    "address": "3431 W Fond du Lac Ave, Milwaukee,WI 53210|(414) 444-6774"
+  },
+  {
+    "lon": -88.00626,
+    "lat": 43.089849,
+    "location": "Checkers-Milwaukee,WI",
+    "address": "7525 W Capitol Dr, Milwaukee,WI 53216|(414) 536-5550"
+  },
+  {
+    "lon": -89.817177,
+    "lat": 44.377923,
+    "location": "Checkers-Wisconsin Rapids,WI",
+    "address": "1840 8th St South, Wisconsin Rapids,WI 54494|(715) 421-5140"
+  },
+  {
+    "lon": -81.834799,
+    "lat": 38.43738,
+    "location": "Checkers-Nitro,WV",
+    "address": "4110 1st Ave, Nitro,WV 25143|(304) 755-3505"
+  },
+  {
+    "lon": -86.963364,
+    "lat": 33.40354,
+    "location": "Rally's-Bessemer,AL",
+    "address": "1601 9th Avenue North, Bessemer,AL 35202|(205) 424-3226"
+  },
+  {
+    "lon": -86.883096,
+    "lat": 33.47048,
+    "location": "Rally's-Birmingham,AL",
+    "address": "1420 31st Street SW, Birmingham,AL 35221|(205) 929-0570"
+  },
+  {
+    "lon": -86.777817,
+    "lat": 33.527748,
+    "location": "Rally's-Birmingham,AL",
+    "address": "4030 First Avenue, Birmingham,AL 35212|(205) 592-8305"
+  },
+  {
+    "lon": -86.842404,
+    "lat": 33.499304,
+    "location": "Rally's-Birmingham,AL",
+    "address": "636 Lomb Avenue Southeast, Birmingham,AL 35211|(205) 785-1819"
+  },
+  {
+    "lon": -86.683486,
+    "lat": 33.649559,
+    "location": "Rally's-Center Point,AL",
+    "address": "2400 Center Point Parkway, Center Point,AL 35125|(205) 856-9011"
+  },
+  {
+    "lon": -87.279462,
+    "lat": 33.849227,
+    "location": "Rally's-Jasper,AL",
+    "address": "402 Highway 78W, Jasper,AL 35501|(205) 387-0069"
+  },
+  {
+    "lon": -86.912034,
+    "lat": 33.463747,
+    "location": "Rally's-Midfield,AL",
+    "address": "86 Weibel Drive, Midfield,AL 35228|(205) 925-9007"
+  },
+  {
+    "lon": -92.431039,
+    "lat": 35.091709,
+    "location": "Rally's-Conway,AR",
+    "address": "420 Oak St, Conway,AR 72032|(501) 327-2600"
+  },
+  {
+    "lon": -92.106609,
+    "lat": 34.886079,
+    "location": "Rally's-Jacksonville,AR",
+    "address": "2211 North First St, Jacksonville,AR 72076|(501) 982-2024"
+  },
+  {
+    "lon": -92.333411,
+    "lat": 34.741101,
+    "location": "Rally's-Little Rock,AR",
+    "address": "5400 West 12th St, Little Rock,AR 72204|(501) 661-0550"
+  },
+  {
+    "lon": -92.3434,
+    "lat": 34.669101,
+    "location": "Rally's-Little Rock,AR",
+    "address": "5921 Base Line, Little Rock,AR 72209|(501) 562-5880"
+  },
+  {
+    "lon": -92.2767487,
+    "lat": 34.7423019,
+    "location": "Rally's-Little Rock,AR",
+    "address": "712 Broadway, Little Rock,AR 72201|(501) 374-5444"
+  },
+  {
+    "lon": -92.213913,
+    "lat": 34.789101,
+    "location": "Rally's-North Little Rock,AR",
+    "address": "4550 E McCain Blvd, North Little Rock,AR 72117|(501) 955-3877"
+  },
+  {
+    "lon": -92.026041,
+    "lat": 34.201838,
+    "location": "Rally's-Pine Bluff,AR",
+    "address": "2301 West 28th St, Pine Bluff,AR 71603|(870) 534-6766"
+  },
+  {
+    "lon": -92.043531,
+    "lat": 34.233047,
+    "location": "Rally's-Pine Bluff,AR",
+    "address": "403 North Blake St, Pine Bluff,AR 71601|(870) 534-3022"
+  },
+  {
+    "lon": -111.838764,
+    "lat": 33.451441,
+    "location": "Rally's-Mesa,AZ",
+    "address": "343 West McKellips Rd, Mesa,AZ 85201|(480) 461-9676"
+  },
+  {
+    "lon": -111.735947,
+    "lat": 33.423203,
+    "location": "Rally's-Mesa,AZ",
+    "address": "403 N Greenfield Rd, Mesa,AZ 85205|(480) 590-7149"
+  },
+  {
+    "lon": -112.090808,
+    "lat": 33.509144,
+    "location": "Rally's-Phoeniz,AZ",
+    "address": "1345 West Camelback Rd, Phoenix,AZ 85013|(602) 265-3387"
+  },
+  {
+    "lon": -112.101406,
+    "lat": 33.55242,
+    "location": "Rally's-Phoeniz,AZ",
+    "address": "1935 W Northern Ave, Phoenix,AZ 85021|(623) 401-9330"
+  },
+  {
+    "lon": -112.081838,
+    "lat": 33.639619,
+    "location": "Rally's-Phoeniz,AZ",
+    "address": "617 West Bell Rd, Phoenix,AZ 85023|(602) 942-2930"
+  },
+  {
+    "lon": -112.226714,
+    "lat": 33.480384,
+    "location": "Rally's-Phoeniz,AZ",
+    "address": "7890 W Thomas Rd, Phoenix,AZ 85033|(623) 249-6615"
+  },
+  {
+    "lon": -111.961162,
+    "lat": 33.421948,
+    "location": "Rally's-Tempe,AZ",
+    "address": "1410 West University, Tempe,AZ 85281|(480) 966-9019"
+  },
+  {
+    "lon": -114.624624,
+    "lat": 32.684394,
+    "location": "Rally's-Yuma,AZ",
+    "address": "2380 S 4th Ave, Yuma,AZ 85364|(928) 782-7380"
+  },
+  {
+    "lon": -117.993925,
+    "lat": 33.83236,
+    "location": "Rally's-Anaheim,CA",
+    "address": "105 North Beach Blvd, Anaheim,CA 92801|(714) 995-0907"
+  },
+  {
+    "lon": -117.960715,
+    "lat": 34.091873,
+    "location": "Rally's-Baldwin Park,CA",
+    "address": "4345 Maine Ave, Baldwin Park,CA 91706|(626) 426-4004"
+  },
+  {
+    "lon": -115.544368,
+    "lat": 32.978265,
+    "location": "Rally's-Brawley,CA",
+    "address": "240 West Main, Brawley,CA 92227|(760) 351-1120"
+  },
+  {
+    "lon": -115.496045,
+    "lat": 32.693465,
+    "location": "Rally's-Calexico,CA",
+    "address": "200 E Cole Rd, Calexico,CA 92231|(760) 357-8205"
+  },
+  {
+    "lon": -115.495644,
+    "lat": 32.665296,
+    "location": "Rally's-Calexico,CA",
+    "address": "232 First St, Calexico,CA 92231|(760) 357-5528"
+  },
+  {
+    "lon": -117.0706148,
+    "lat": 32.6166654,
+    "location": "Rally's-Chula Vista,CA",
+    "address": "1004 3rd Avenue, Chula Vista,CA 91911|(619) 476-8780"
+  },
+  {
+    "lon": -121.290715,
+    "lat": 38.71022,
+    "location": "Rally's-Citrus Heights,CA",
+    "address": "7911 Auburn Blvd, Citrus Heights,CA 95610|(916) 560-9690"
+  },
+  {
+    "lon": -119.716206,
+    "lat": 36.793603,
+    "location": "Rally's-Clovis,CA",
+    "address": "280 W Ashlan Ave, Clovis,CA 93612|(559) 291-1276"
+  },
+  {
+    "lon": -116.938602,
+    "lat": 32.794623,
+    "location": "Rally's-El Cajon,CA",
+    "address": "1261 East Main Street, El Cajon,CA 92021|(619) 444-3496"
+  },
+  {
+    "lon": -115.570291,
+    "lat": 32.809556,
+    "location": "Rally's-El Centro,CA",
+    "address": "1820 North Imperial Ave, El Centro,CA 92243|(760) 482-5428"
+  },
+  {
+    "lon": -117.067389,
+    "lat": 33.129997,
+    "location": "Rally's-Escondido,CA",
+    "address": "1157 East Valley Parkway, Escondido,CA 92025|(760) 432-0323"
+  },
+  {
+    "lon": -119.771384,
+    "lat": 36.823364,
+    "location": "Rally's-Fresno,CA",
+    "address": "1034 E Bullard Ave, Fresno,CA 93710|(559) 261-9472"
+  },
+  {
+    "lon": -119.830974,
+    "lat": 36.757014,
+    "location": "Rally's-Fresno,CA",
+    "address": "1135 N Parkway, Fresno,CA 93710|(559) 266-1730"
+  },
+  {
+    "lon": -119.798625,
+    "lat": 36.731737,
+    "location": "Rally's-Fresno,CA",
+    "address": "1345 Fresno St, Fresno,CA 93706|(559) 264-2262"
+  },
+  {
+    "lon": -119.863098,
+    "lat": 36.808778,
+    "location": "Rally's-Fresno,CA",
+    "address": "4020 West Shaw Avenue, Fresno,CA 93704|(559) 271-2986"
+  },
+  {
+    "lon": -119.734931,
+    "lat": 36.735552,
+    "location": "Rally's-Fresno,CA",
+    "address": "4818 E Kings Canyon Rd, Fresno,CA 93727|(559) 456-0271"
+  },
+  {
+    "lon": -117.947365,
+    "lat": 33.802826,
+    "location": "Rally's-Garden Grove,CA",
+    "address": "10642 Katella Ave, Garden Grove,CA 92804|(657) 220-4299"
+  },
+  {
+    "lon": -118.326003,
+    "lat": 33.901582,
+    "location": "Rally's-Gardena,CA",
+    "address": "14306 Crenshaw Blvd, Gardena,CA 90249|(310) 527-2238"
+  },
+  {
+    "lon": -119.673205,
+    "lat": 36.328904,
+    "location": "Rally's-Hanford,CA",
+    "address": "1706 W Lacy Ave, Hanford,CA 93230|(559) 583-1907"
+  },
+  {
+    "lon": -118.352078,
+    "lat": 33.915844,
+    "location": "Rally's-Hawthorne,CA",
+    "address": "12812 S Hawthorne Blvd, Hawthorne,CA 90250|(310) 219-0013"
+  },
+  {
+    "lon": -118.20919,
+    "lat": 33.972272,
+    "location": "Rally's-Huntington Park,CA",
+    "address": "3234 East Florence, Huntington Park,CA 90255|(323) 581-3763"
+  },
+  {
+    "lon": -118.326267,
+    "lat": 33.960553,
+    "location": "Rally's-Inglewood,CA",
+    "address": "8500 Crenshaw, Inglewood,CA 90305|(323) 753-5033"
+  },
+  {
+    "lon": -117.037946,
+    "lat": 32.768402,
+    "location": "Rally's-La Mesa,CA",
+    "address": "7393 El Cajon Blvd, La Mesa,CA 91942|(619) 439-7201"
+  },
+  {
+    "lon": -118.167409,
+    "lat": 33.790165,
+    "location": "Rally's-Long Beach,CA",
+    "address": "2001 E Pacific Coast Hwy, Long Beach,CA 90804|(562) 434-1490"
+  },
+  {
+    "lon": -118.151625,
+    "lat": 33.874355,
+    "location": "Rally's-Long Beach,CA",
+    "address": "3490 East Artesia, Long Beach,CA 90805|(562) 422-3228"
+  },
+  {
+    "lon": -118.373316,
+    "lat": 33.97666,
+    "location": "Rally's-Los Angeles,CA",
+    "address": "3650 MLK Blvd [Baldwin Hills - Food Court], Los Angeles,CA 90008|(323) 299-8510"
+  },
+  {
+    "lon": -118.265636,
+    "lat": 33.974366,
+    "location": "Rally's-Los Angeles,CA",
+    "address": "7207 S Avalon, Los Angeles,CA 90003|(323) 751-5839"
+  },
+  {
+    "lon": -120.83625,
+    "lat": 37.057257,
+    "location": "Rally's-Los Banos,CA",
+    "address": "1330 E Pacheco Blvd, Los Banos,CA 93635|(209) 826-1946"
+  },
+  {
+    "lon": -120.085241,
+    "lat": 36.974269,
+    "location": "Rally's-Madera,CA",
+    "address": "2310 West Cleveland, Madera,CA 93637|(559) 666-2137"
+  },
+  {
+    "lon": -117.18188,
+    "lat": 33.935731,
+    "location": "Rally's-Moreno Valley,CA",
+    "address": "12721 Moreno Beach Dr, Moreno Valley,CA 92555|(951) 485-4452"
+  },
+  {
+    "lon": -118.082222,
+    "lat": 33.916661,
+    "location": "Rally's-Norwalk,CA",
+    "address": "11750 Imperial Highway, Norwalk,CA 90650|(310) 807-0036"
+  },
+  {
+    "lon": -119.044996,
+    "lat": 36.080753,
+    "location": "Rally's-Porterville,CA",
+    "address": "1230 W Henderson Ave, Porterville,CA 93257|(209) 782-4687"
+  },
+  {
+    "lon": -117.370768,
+    "lat": 34.09655,
+    "location": "Rally's-Rialto,CA",
+    "address": "300 South Riverside Ave, Rialto,CA 92376|(909) 873-5449"
+  },
+  {
+    "lon": -117.362089,
+    "lat": 34.107221,
+    "location": "Rally's-Rialto,CA",
+    "address": "466 E Foothills Blvd, Rialto,CA 92376|(909) 961-2320"
+  },
+  {
+    "lon": -121.433711,
+    "lat": 38.499349,
+    "location": "Rally's-Sacramento,CA",
+    "address": "6051 Florin Rd, Sacramento,CA 95823|(916) 603-8928"
+  },
+  {
+    "lon": -117.279227,
+    "lat": 34.120152,
+    "location": "Rally's-San Bernardino,CA",
+    "address": "1150 N Waterman Ave, San Bernardino,CA 92410|(909) 763-3900"
+  },
+  {
+    "lon": -117.314093,
+    "lat": 34.092402,
+    "location": "Rally's-San Bernardino,CA",
+    "address": "494 South Mount Vernon CA, San Bernardino,CA 92410|(909) 381-9655"
+  },
+  {
+    "lon": -117.099674,
+    "lat": 32.583505,
+    "location": "Rally's-San Diego,CA",
+    "address": "1545 Palm Avenue, San Diego,CA 92154|(619) 429-3139"
+  },
+  {
+    "lon": -117.116368,
+    "lat": 32.805362,
+    "location": "Rally's-San Diego,CA",
+    "address": "3382 Murphy Canyon Rd, San Diego,CA 92123|(858) 277-2559"
+  },
+  {
+    "lon": -117.129246,
+    "lat": 32.69639,
+    "location": "Rally's-San Diego,CA",
+    "address": "931 S 30th Street, San Diego,CA 92113|(619) 546-8595"
+  },
+  {
+    "lon": -117.011759,
+    "lat": 32.714379,
+    "location": "Rally's-Spring Valley,CA",
+    "address": "8667 Jamacha Road, Spring Valley,CA 91977|(619) 464-3223"
+  },
+  {
+    "lon": -117.633221,
+    "lat": 34.107382,
+    "location": "Rally's-Upland,CA",
+    "address": "1317 E Foothill Blvd, Upland,CA 91786|(909) 931-9286"
+  },
+  {
+    "lon": -90.172666,
+    "lat": 38.922352,
+    "location": "Rally's-Alton,IL",
+    "address": "199 South Center Drive, Alton,IL 62002|(618) 465-0654"
+  },
+  {
+    "lon": -89.984299,
+    "lat": 38.502284,
+    "location": "Rally's-Belleville,IL",
+    "address": "1105 South Illinois Street, Belleville,IL 62220|(618) 236-2003"
+  },
+  {
+    "lon": -90.024021,
+    "lat": 38.540957,
+    "location": "Rally's-Belleville,IL",
+    "address": "4527 W Main, Belleville,IL 62223|(618) 277-9075"
+  },
+  {
+    "lon": -90.06085,
+    "lat": 38.901328,
+    "location": "Rally's-Bethalto,IL",
+    "address": "167 East McArthur Drive, Bethalto,IL 62010|(618) 258-1811"
+  },
+  {
+    "lon": -90.166636,
+    "lat": 38.554373,
+    "location": "Rally's-Cahokia,IL",
+    "address": "1600 Camp Jackson Road, Cahokia,IL 62206|(618) 337-1464"
+  },
+  {
+    "lon": -90.142106,
+    "lat": 38.703124,
+    "location": "Rally's-Granite City,IL",
+    "address": "2220 Madison Avenue, Granite City,IL 62040|(618) 877-4616"
+  },
+  {
+    "lon": -89.646526,
+    "lat": 39.787106,
+    "location": "Rally's-Springfield,IL",
+    "address": "710 S Grand Ave E, Springfield,IL 62703|(217) 744-0324"
+  },
+  {
+    "lon": -85.706901,
+    "lat": 40.106896,
+    "location": "Rally's-Anderson,IN",
+    "address": "2110 SR 9 South, Anderson,IN 46016|(765) 643-2464"
+  },
+  {
+    "lon": -86.533652,
+    "lat": 39.160364,
+    "location": "Rally's-Bloomington,IN",
+    "address": "550 South Walnut Street, Bloomington,IN 47401|(812) 333-5671"
+  },
+  {
+    "lon": -86.013451,
+    "lat": 40.123615,
+    "location": "Rally's-Cicero,IN",
+    "address": "1010 S Peru Street, Cicero,IN 46034|(317) 984-2379"
+  },
+  {
+    "lon": -85.763079,
+    "lat": 38.313459,
+    "location": "Rally's-Clarksville,IN",
+    "address": "756 Hwy 131 East, Clarksville,IN 47129|(812) 284-5151"
+  },
+  {
+    "lon": -85.887211,
+    "lat": 39.219756,
+    "location": "Rally's-Columbus,IN",
+    "address": "2080 North National Road, Columbus,IN 47201|(812) 372-1059"
+  },
+  {
+    "lon": -87.543006,
+    "lat": 37.981313,
+    "location": "Rally's-Evansville,IN",
+    "address": "1201 East Virginia Street, Evansville,IN 47711|(812) 425-8119"
+  },
+  {
+    "lon": -87.493656,
+    "lat": 37.991246,
+    "location": "Rally's-Evansville,IN",
+    "address": "4720 E Morgan Ave, Evansville,IN 47715|(none listed)"
+  },
+  {
+    "lon": -85.142424,
+    "lat": 41.075715,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "320 W Jefferson Blvd, Fort Wayne,IN 46802|(260) 422-7842"
+  },
+  {
+    "lon": -85.089784,
+    "lat": 41.097676,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "3906 E State Blvd, Fort Wayne,IN 46805|(260) 484-6006"
+  },
+  {
+    "lon": -85.135513,
+    "lat": 41.122329,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "4810 Coldwater Road, Fort Wayne,IN 46825|(260) 483-4335"
+  },
+  {
+    "lon": -85.112834,
+    "lat": 41.033674,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "5607 Anthony Blvd, Fort Wayne,IN 46806|(260) 441-8400"
+  },
+  {
+    "lon": -85.217702,
+    "lat": 41.060398,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "6022 W Jefferson [Times Corner], Fort Wayne,IN 46802|(260) 436-7509"
+  },
+  {
+    "lon": -85.064042,
+    "lat": 41.120298,
+    "location": "Rally's-Fort Wayne,IN",
+    "address": "6139 Stellhorn Road, Fort Wayne,IN 46815|(260) 486-9262"
+  },
+  {
+    "lon": -87.348706,
+    "lat": 41.601978,
+    "location": "Rally's-Gary,IN",
+    "address": "910 West 5th Avenue, Gary,IN 46402|(219) 882-8608"
+  },
+  {
+    "lon": -86.121978,
+    "lat": 39.628897,
+    "location": "Rally's-Greenwood,IN",
+    "address": "839 US 31 North, Greenwood,IN 46142|(317) 885-0435"
+  },
+  {
+    "lon": -87.480937,
+    "lat": 41.591272,
+    "location": "Rally's-Hammond,IN",
+    "address": "6735 Indianapolis Blvd, Hammond,IN 46324|(219) 845-9722"
+  },
+  {
+    "lon": -85.980326,
+    "lat": 39.858386,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "10545 Pendleton Pike, Indianapolis,IN 46236|(317) 224-6703"
+  },
+  {
+    "lon": -86.111562,
+    "lat": 39.768725,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3102 E Washington Street, Indianapolis,IN 46201|(317) 236-8944"
+  },
+  {
+    "lon": -86.217743,
+    "lat": 39.911668,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3325 West 86th Street, Indianapolis,IN 46268|(317) 876-5436"
+  },
+  {
+    "lon": -86.23058,
+    "lat": 39.819553,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3541 Lafayette Road, Indianapolis,IN 46222|(317) 298-4483"
+  },
+  {
+    "lon": -86.238881,
+    "lat": 39.713977,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3605 Kentucky Avenue, Indianapolis,IN 46221|(317) 481-1131"
+  },
+  {
+    "lon": -86.145034,
+    "lat": 39.825222,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3801 N College, Indianapolis,IN 46205|(317) 931-1535"
+  },
+  {
+    "lon": -86.225556,
+    "lat": 39.760422,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "3807 W Washington St, Indianapolis,IN 46241|(317) 243-0993"
+  },
+  {
+    "lon": -86.271369,
+    "lat": 39.692632,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "4905 Kentucky Ave, Indianapolis,IN 46221|(317) 821-0645"
+  },
+  {
+    "lon": -86.046775,
+    "lat": 39.82688,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "6970 E Pendleton Pike, Indianapolis,IN 46226|(317) 546-3411"
+  },
+  {
+    "lon": -86.289549,
+    "lat": 39.779138,
+    "location": "Rally's-Indianapolis,IN",
+    "address": "7311 West 10th Street, Indianapolis,IN 46214|(317) 271-1174"
+  },
+  {
+    "lon": -86.945105,
+    "lat": 38.374742,
+    "location": "Rally's-Jasper,IN",
+    "address": "368 US Hwy 231 S, Jasper,IN 47546|(812) 634-9001"
+  },
+  {
+    "lon": -85.727835,
+    "lat": 38.291023,
+    "location": "Rally's-Jeffersonville,IN",
+    "address": "1514 East 10th St, Jeffersonville,IN 47130|(812) 282-7918"
+  },
+  {
+    "lon": -86.109255,
+    "lat": 40.466188,
+    "location": "Rally's-Kokomo,IN",
+    "address": "1825 E Hoffer Street, Kokomo,IN 46902|(765) 452-9967"
+  },
+  {
+    "lon": -86.163512,
+    "lat": 40.487758,
+    "location": "Rally's-Kokomo,IN",
+    "address": "2316 W Sycamore Street, Kokomo,IN 46901|(765) 459-8697"
+  },
+  {
+    "lon": -85.394317,
+    "lat": 38.774984,
+    "location": "Rally's-Madison,IN",
+    "address": "400 Clifty Drive, Madison,IN 47250|(812) 273-6600"
+  },
+  {
+    "lon": -85.675852,
+    "lat": 40.565439,
+    "location": "Rally's-Marion,IN",
+    "address": "602 Baldwin Avenue, Marion,IN 46952|(765) 664-4672"
+  },
+  {
+    "lon": -86.895327,
+    "lat": 41.704242,
+    "location": "Rally's-Michigan City,IN",
+    "address": "2102 S Franklin, Michigan City,IN 46360|(219) 872-7687"
+  },
+  {
+    "lon": -85.385343,
+    "lat": 40.219024,
+    "location": "Rally's-Muncie,IN",
+    "address": "220 East McGalliard Street, Muncie,IN 47303|(765) 286-0350"
+  },
+  {
+    "lon": -85.381804,
+    "lat": 40.190898,
+    "location": "Rally's-Muncie,IN",
+    "address": "400 South Madison, Muncie,IN 47305|(765) 282-4732"
+  },
+  {
+    "lon": -85.842807,
+    "lat": 38.308991,
+    "location": "Rally's-New Albany,IN",
+    "address": "2350 State St, New Albany,IN 47150|(812) 590-3181"
+  },
+  {
+    "lon": -85.807241,
+    "lat": 38.292749,
+    "location": "Rally's-New Albany,IN",
+    "address": "401 Vincennes Street, New Albany,IN 47150|(812) 944-3670"
+  },
+  {
+    "lon": -86.361804,
+    "lat": 39.715982,
+    "location": "Rally's-Plainfield,IN",
+    "address": "2560 East Main, Plainfield,IN 46168|(317) 838-0626"
+  },
+  {
+    "lon": -85.866581,
+    "lat": 38.958158,
+    "location": "Rally's-Seymour,IN",
+    "address": "1507 East Tipton St, Seymour,IN 47274|(912) 522-1554"
+  },
+  {
+    "lon": -86.249767,
+    "lat": 41.65273,
+    "location": "Rally's-South Bend,IN",
+    "address": "2021 South Michigan Street, South Bend,IN 46613|(574) 234-3407"
+  },
+  {
+    "lon": -76.379189,
+    "lat": 39.66798,
+    "location": "Rally's-Terre Haute,IN",
+    "address": "129 South 3rd Street [Walnut], Terre Haute,IN 47802|(812) 232-3886"
+  },
+  {
+    "lon": -87.371202,
+    "lat": 39.472122,
+    "location": "Rally's-Terre Haute,IN",
+    "address": "3175 East Wabash Avenue, Terre Haute,IN 47803|(812) 232-5168"
+  },
+  {
+    "lon": -87.415931,
+    "lat": 39.42522,
+    "location": "Rally's-Terre Haute,IN",
+    "address": "3492 S US Highway 41, Terre Haute,IN 47802|(812) 235-1160"
+  },
+  {
+    "lon": -87.507847,
+    "lat": 38.68805,
+    "location": "Rally's-Vincennes,IN",
+    "address": "2202 North 6th Street, Vincennes,IN 47591|(812) 886-9530"
+  },
+  {
+    "lon": -82.665851,
+    "lat": 38.493231,
+    "location": "Rally's-Ashland,KY",
+    "address": "405 Russell Road, Ashland,KY 41101|(606) 327-5533"
+  },
+  {
+    "lon": -86.467794,
+    "lat": 36.979743,
+    "location": "Rally's-Bowling Green,KY",
+    "address": "1901 Russellville Road, Bowling Green,KY 42101|(270) 843-3077"
+  },
+  {
+    "lon": -86.429099,
+    "lat": 36.988931,
+    "location": "Rally's-Bowling Green,KY",
+    "address": "640 US 31 W Bypass, Bowling Green,KY 42101|(270) 843-8485"
+  },
+  {
+    "lon": -85.369339,
+    "lat": 37.344601,
+    "location": "Rally's-Campbellsville,KY",
+    "address": "475 Campbellsville Bypass, Campbellsville,KY 42718|(270) 469-9032"
+  },
+  {
+    "lon": -85.868717,
+    "lat": 37.70198,
+    "location": "Rally's-Elizabethtown,KY",
+    "address": "525 W Dixie Avenue, Elizabethtown,KY 42701|(502) 737-0482"
+  },
+  {
+    "lon": -84.627513,
+    "lat": 39.057704,
+    "location": "Rally's-Erlanger,KY",
+    "address": "1790 Airport Exchange, Erlanger,KY 41018|(859) 282-8985"
+  },
+  {
+    "lon": -84.626922,
+    "lat": 38.956207,
+    "location": "Rally's-Florence,KY",
+    "address": "321-B Mt Zion Road, Florence,KY 41042|(859) 371-0354"
+  },
+  {
+    "lon": -84.637507,
+    "lat": 38.990187,
+    "location": "Rally's-Florence,KY",
+    "address": "7843 US Route 42, Florence,KY 41042|(859) 282-0900"
+  },
+  {
+    "lon": -85.92861,
+    "lat": 36.997929,
+    "location": "Rally's-Glasgow,KY",
+    "address": "210 S L Rogers Well Blvd, Glasgow,KY 42141|(270) 629-3278"
+  },
+  {
+    "lon": -87.574493,
+    "lat": 37.863145,
+    "location": "Rally's-Henderson,KY",
+    "address": "1927 US 41 North, Henderson,KY 42420|(270) 869-8251"
+  },
+  {
+    "lon": -87.479773,
+    "lat": 36.838519,
+    "location": "Rally's-Hopkinsville,KY",
+    "address": "2921 Ft Campbell Blvd, Hopkinsville,KY 42240|(502) 886-0255"
+  },
+  {
+    "lon": -86.2942928,
+    "lat": 37.4714628,
+    "location": "Rally's-Leitchfield,KY",
+    "address": "511 S Main Street, Leitchfield,KY 42754|(270) 230-1905"
+  },
+  {
+    "lon": -84.519911,
+    "lat": 38.035867,
+    "location": "Rally's-Lexington,KY",
+    "address": "1214 South Broadway, Lexington,KY 40509|(859) 253-9841"
+  },
+  {
+    "lon": -84.468973,
+    "lat": 38.064268,
+    "location": "Rally's-Lexington,KY",
+    "address": "125 New Circle Road NE, Lexington,KY 40505|(859) 299-3884"
+  },
+  {
+    "lon": -84.449237,
+    "lat": 38.00499,
+    "location": "Rally's-Lexington,KY",
+    "address": "2975 Richmond Road, Lexington,KY 40509|(859) 269-1900"
+  },
+  {
+    "lon": -84.506199,
+    "lat": 38.07536,
+    "location": "Rally's-Lexington,KY",
+    "address": "410 Georgetown Road, Lexington,KY 40511|(859) 255-6474"
+  },
+  {
+    "lon": -85.868486,
+    "lat": 38.104829,
+    "location": "Rally's-Louisville,KY",
+    "address": "10310 Dixie Hwy, Louisville,KY 40272|(502) 933-0431"
+  },
+  {
+    "lon": -85.790742,
+    "lat": 38.228366,
+    "location": "Rally's-Louisville,KY",
+    "address": "1800 W Hill Street, Louisville,KY 40210|(502) 776-6454"
+  },
+  {
+    "lon": -85.787101,
+    "lat": 38.249193,
+    "location": "Rally's-Louisville,KY",
+    "address": "2130 W Broadway, Louisville,KY 40211|(502) 778-3446"
+  },
+  {
+    "lon": -85.74147,
+    "lat": 38.212844,
+    "location": "Rally's-Louisville,KY",
+    "address": "2502 South Preston Hwy, Louisville,KY 40217|(502) 637-4170"
+  },
+  {
+    "lon": -85.669063,
+    "lat": 38.208539,
+    "location": "Rally's-Louisville,KY",
+    "address": "3290 Bardstown Road, Louisville,KY 40205|(502) 459-4124"
+  },
+  {
+    "lon": -85.782881,
+    "lat": 38.1972,
+    "location": "Rally's-Louisville,KY",
+    "address": "3455 Taylor Blvd, Louisville,KY 40215|(502) 368-3956"
+  },
+  {
+    "lon": -85.839139,
+    "lat": 38.197885,
+    "location": "Rally's-Louisville,KY",
+    "address": "4401 Cane Run Road, Louisville,KY 40216|(502) 449-3078"
+  },
+  {
+    "lon": -85.775228,
+    "lat": 38.145475,
+    "location": "Rally's-Louisville,KY",
+    "address": "5506 New Cut Road, Louisville,KY 40214|(502) 361-5151"
+  },
+  {
+    "lon": -85.680395,
+    "lat": 38.126941,
+    "location": "Rally's-Louisville,KY",
+    "address": "8601 Preston Highway, Louisville,KY 40219|(502) 968-7145"
+  },
+  {
+    "lon": -87.484107,
+    "lat": 37.327632,
+    "location": "Rally's-Madisonville,KY",
+    "address": "790 East Center Street, Madisonville,KY 42431|(502) 821-9770"
+  },
+  {
+    "lon": -83.703028,
+    "lat": 36.618299,
+    "location": "Rally's-Middlesboro,KY",
+    "address": "908 12th St, Middlesboro,KY 40965|(606) 302-7010"
+  },
+  {
+    "lon": -83.897346,
+    "lat": 38.092325,
+    "location": "Rally's-Mount Sterling,KY",
+    "address": "3052 Owingsville Rd, Mount Sterling,KY 40353|(859) 432-8985"
+  },
+  {
+    "lon": -88.315761,
+    "lat": 36.616781,
+    "location": "Rally's-Murray,KY",
+    "address": "1201 Chestnut St, Murray,KY 42071|(270) 917-7255"
+  },
+  {
+    "lon": -87.112486,
+    "lat": 37.763475,
+    "location": "Rally's-Owensboro,KY",
+    "address": "1301 Frederica, Owensboro,KY 42301|(502) 685-2788"
+  },
+  {
+    "lon": -85.93883,
+    "lat": 37.840597,
+    "location": "Rally's-Radcliff,KY",
+    "address": "160 N Dixie, Radcliff,KY 40160|(502) 352-1611"
+  },
+  {
+    "lon": -84.310043,
+    "lat": 37.736651,
+    "location": "Rally's-Richmond,KY",
+    "address": "509 Eastern By-Pass, Richmond,KY 40475|(859) 623-5754"
+  },
+  {
+    "lon": -85.710079,
+    "lat": 37.994626,
+    "location": "Rally's-Shepherdsville,KY",
+    "address": "441 Adam Shepherd Pkwy, Shepherdsville,KY 40165|(502) 531-1187"
+  },
+  {
+    "lon": -84.208564,
+    "lat": 38.005976,
+    "location": "Rally's-Winchester,KY",
+    "address": "1478 W Lexington Avenue, Winchester,KY 40391|(606) 745-1929"
+  },
+  {
+    "lon": -90.004749,
+    "lat": 29.957506,
+    "location": "Rally's-Arabi,LA",
+    "address": "6700 St Claude Avenue, Arabi,LA 70032|(504) 271-4696"
+  },
+  {
+    "lon": -90.085426,
+    "lat": 30.468908,
+    "location": "Rally's-Covington,LA",
+    "address": "2560 Highway 190 North, Covington,LA 70433|(985) 809-1809"
+  },
+  {
+    "lon": -90.052035,
+    "lat": 29.913912,
+    "location": "Rally's-Gretna,LA",
+    "address": "62 West Bank Expressway, Gretna,LA 70053|(504) 361-9972"
+  },
+  {
+    "lon": -90.181838,
+    "lat": 29.949247,
+    "location": "Rally's-Harahan,LA",
+    "address": "5300 Jefferson Highway, Harahan,LA 70123|(504) 734-0672"
+  },
+  {
+    "lon": -90.059881,
+    "lat": 29.894069,
+    "location": "Rally's-Harvey,LA",
+    "address": "1509 Manhattan Street, Harvey,LA 70058|(504) 362-2905"
+  },
+  {
+    "lon": -90.689972,
+    "lat": 29.578402,
+    "location": "Rally's-Houma,LA",
+    "address": "1159 Grand Caillou, Houma,LA 70363|(985) 851-5529"
+  },
+  {
+    "lon": -90.746685,
+    "lat": 29.606685,
+    "location": "Rally's-Houma,LA",
+    "address": "1526 Martin Luther King Blvd, Houma,LA 70364|(504) 851-1090"
+  },
+  {
+    "lon": -90.239629,
+    "lat": 30.017921,
+    "location": "Rally's-Kenner,LA",
+    "address": "3401 Williams Boulevard, Kenner,LA 70065|(504) 443-1130"
+  },
+  {
+    "lon": -90.485662,
+    "lat": 30.069524,
+    "location": "Rally's-La Place,LA",
+    "address": "810 West Airline Highway, La Place,LA 70068|(985) 651-0546"
+  },
+  {
+    "lon": -90.098273,
+    "lat": 29.876734,
+    "location": "Rally's-Marerro,LA",
+    "address": "1875 Barataria Boulevard, Marerro,LA 70072|(504) 340-1017"
+  },
+  {
+    "lon": -90.142272,
+    "lat": 30.001865,
+    "location": "Rally's-Metairie,LA",
+    "address": "1720 Veterans Blvd, Metairie,LA 70003|(504) 831-8898"
+  },
+  {
+    "lon": -90.17189,
+    "lat": 29.97561,
+    "location": "Rally's-Metairie,LA",
+    "address": "4001 Airline Dr, Metairie,LA 70001|(504) 831-4753"
+  },
+  {
+    "lon": -90.08698,
+    "lat": 29.966188,
+    "location": "Rally's-New Orleans,LA",
+    "address": "131 N Broad Street, New Orleans,LA 70119|(504) 822-9089"
+  },
+  {
+    "lon": -90.068418,
+    "lat": 29.978124,
+    "location": "Rally's-New Orleans,LA",
+    "address": "2135 St Bernard Ave, New Orleans,LA 70119|(504) 943-5750"
+  },
+  {
+    "lon": -90.090242,
+    "lat": 29.945171,
+    "location": "Rally's-New Orleans,LA",
+    "address": "2201 S Claiborne Ave., New Orleans,LA 70125|(504) 561-9185"
+  },
+  {
+    "lon": -90.052748,
+    "lat": 29.968983,
+    "location": "Rally's-New Orleans,LA",
+    "address": "2371 St Claude Avenue, New Orleans,LA 70117|(504) 944-5410"
+  },
+  {
+    "lon": -90.114174,
+    "lat": 29.96193,
+    "location": "Rally's-New Orleans,LA",
+    "address": "3222 South Carrollton Ave, New Orleans,LA 70118|(504) 482-2668"
+  },
+  {
+    "lon": -90.022173,
+    "lat": 29.925057,
+    "location": "Rally's-New Orleans,LA",
+    "address": "3555 General DeGaulle, New Orleans,LA 70114|(504) 364-1969"
+  },
+  {
+    "lon": -90.037054,
+    "lat": 30.004954,
+    "location": "Rally's-New Orleans,LA",
+    "address": "4460 Chef Menteur Hwy, New Orleans,LA 70122|(504) 947-2355"
+  },
+  {
+    "lon": -90.456143,
+    "lat": 30.445159,
+    "location": "Rally's-Ponchatoula,LA",
+    "address": "1229 Veterans Blvd, Ponchatoula,LA 70454|(985) 467-0129"
+  },
+  {
+    "lon": -90.81679,
+    "lat": 29.805525,
+    "location": "Rally's-Thibodaux,LA",
+    "address": "400 North Canal Blvd, Thibodaux,LA 70301|(985) 492-2180"
+  },
+  {
+    "lon": -84.041161,
+    "lat": 41.874908,
+    "location": "Rally's-Adrian,MI",
+    "address": "1109 East US 223, Adrian,MI 49221|(517) 265-9545"
+  },
+  {
+    "lon": -83.885743,
+    "lat": 43.589297,
+    "location": "Rally's-Bay City,MI",
+    "address": "102 S Madison, Bay City,MI 48708|(989) 895-2677"
+  },
+  {
+    "lon": -83.895131,
+    "lat": 43.623822,
+    "location": "Rally's-Bay City,MI",
+    "address": "3990 East Wilder Road, Bay City,MI 48706|(989) 686-6877"
+  },
+  {
+    "lon": -83.672806,
+    "lat": 42.975031,
+    "location": "Rally's-Burton,MI",
+    "address": "3514 S Saginaw, Burton,MI 48529|(810) 249-3244"
+  },
+  {
+    "lon": -84.824126,
+    "lat": 42.571598,
+    "location": "Rally's-Charlotte,MI",
+    "address": "640 Lansing Road, Charlotte,MI 48813|(517) 531-1561"
+  },
+  {
+    "lon": -83.772872,
+    "lat": 43.177446,
+    "location": "Rally's-Clio,MI",
+    "address": "4514 W Vienna Road, Clio,MI 48420|(810) 686-3942"
+  },
+  {
+    "lon": -83.73326,
+    "lat": 42.80225,
+    "location": "Rally's-Fenton,MI",
+    "address": "15155 Silver Pkwy, Fenton,MI 48430|(810) 215-1225"
+  },
+  {
+    "lon": -83.655011,
+    "lat": 43.033648,
+    "location": "Rally's-Flint,MI",
+    "address": "1914 Dort Hwy, Flint,MI 48506|(810) 766-9537"
+  },
+  {
+    "lon": -83.770506,
+    "lat": 43.002032,
+    "location": "Rally's-Flint,MI",
+    "address": "4455 Corunna Road, Flint,MI 48532|(810) 733-3809"
+  },
+  {
+    "lon": -83.692157,
+    "lat": 43.023498,
+    "location": "Rally's-Flint,MI",
+    "address": "855 E Fifth Avenue, Flint,MI 48503|(810) 234-9577"
+  },
+  {
+    "lon": -84.4276276,
+    "lat": 42.2616005,
+    "location": "Rally's-Jackson,MI",
+    "address": "1095 North Wisner St, Jackson,MI 49202|(517) 787-0478"
+  },
+  {
+    "lon": -84.567399,
+    "lat": 42.701239,
+    "location": "Rally's-Lansing,MI",
+    "address": "3110 S Martin Luther King Jr Blvd, Lansing,MI 48910|(517) 887-9380"
+  },
+  {
+    "lon": -84.61658,
+    "lat": 42.74071,
+    "location": "Rally's-Lansing,MI",
+    "address": "4721 W Saginaw Hwy, Lansing,MI 48906|(517) 483-2578"
+  },
+  {
+    "lon": -84.54625,
+    "lat": 42.743761,
+    "location": "Rally's-Lansing,MI",
+    "address": "505 E Oakland, Lansing,MI 48906|(517) 482-6464"
+  },
+  {
+    "lon": -84.250839,
+    "lat": 43.641323,
+    "location": "Rally's-Midland,MI",
+    "address": "2020 Saginaw Road, Midland,MI 48640|(989) 631-4681"
+  },
+  {
+    "lon": -84.76746,
+    "lat": 43.587864,
+    "location": "Rally's-Mt Pleasant,MI",
+    "address": "1501 S Mission St,Mt Pleasant,MI 48858|(989) 773-5404"
+  },
+  {
+    "lon": -83.975555,
+    "lat": 43.459402,
+    "location": "Rally's-Saginaw,MI",
+    "address": "3588 Bay Road, Saginaw,MI 48603|(989) 399-1540"
+  },
+  {
+    "lon": -83.936352,
+    "lat": 43.432778,
+    "location": "Rally's-Saginaw,MI",
+    "address": "420 E Genesee Ave, Saginaw,MI 48607|(989) 752-2257"
+  },
+  {
+    "lon": -83.967798,
+    "lat": 43.414842,
+    "location": "Rally's-Saginaw,MI",
+    "address": "515 S Michigan, Saginaw,MI 48602|(989) 799-7748"
+  },
+  {
+    "lon": -84.225483,
+    "lat": 44.249192,
+    "location": "Rally's-West Branch,MI",
+    "address": "2961 Cook Rd, West Branch,MI 48861|(989) 701-2601"
+  },
+  {
+    "lon": -90.369547,
+    "lat": 38.448413,
+    "location": "Rally's-Arnold,MO",
+    "address": "#1 Fox Valley Center, Arnold,MO 63010|(636) 296-1263"
+  },
+  {
+    "lon": -89.524278,
+    "lat": 37.318993,
+    "location": "Rally's-Cape Girardeau,MO",
+    "address": "1134 N Sprigg St, Cape Girardeau,MO 63701|(573) 388-2514"
+  },
+  {
+    "lon": -89.973227,
+    "lat": 36.804034,
+    "location": "Rally's-Dexter,MO",
+    "address": "1006 W Business Hwy 60, Dexter,MO 63841|(573) 614-5871"
+  },
+  {
+    "lon": -90.419831,
+    "lat": 37.7862,
+    "location": "Rally's-Farmington,MO",
+    "address": "605 N Washington, Farmington,MO 63640|(573) 701-0150"
+  },
+  {
+    "lon": -90.311226,
+    "lat": 38.802116,
+    "location": "Rally's-Florissant,MO",
+    "address": "2182 N Hwy 67, Florissant,MO 63033|(314) 838-2254"
+  },
+  {
+    "lon": -89.667983,
+    "lat": 37.376933,
+    "location": "Rally's-Jackson,MO",
+    "address": "113 West Jackson Blvd, Jackson,MO 63755|(573) 204-4529"
+  },
+  {
+    "lon": -90.258816,
+    "lat": 38.715879,
+    "location": "Rally's-Jennings,MO",
+    "address": "6710 West Florissant, Jennings,MO 63136|(314) 389-8863"
+  },
+  {
+    "lon": -90.700037,
+    "lat": 38.805499,
+    "location": "Rally's-O'Fallon,MO",
+    "address": "506 South Main, O'Fallon,MO 63366|(636) 978-8968"
+  },
+  {
+    "lon": -90.416182,
+    "lat": 36.769822,
+    "location": "Rally's-Poplar Bluff,MO",
+    "address": "1324 N Westwood Blvd, Poplar Bluff,MO 63901|(573) 712-2316"
+  },
+  {
+    "lon": -89.538389,
+    "lat": 36.890759,
+    "location": "Rally's-Sikeston,MO",
+    "address": "2525 E Malone Ave, Sikeston,MO 63801|(573) 258-8356"
+  },
+  {
+    "lon": -89.581376,
+    "lat": 36.883972,
+    "location": "Rally's-Sikeston,MO",
+    "address": "533 North Main St, Sikeston,MO 63801|(573) 481-2300"
+  },
+  {
+    "lon": -90.388906,
+    "lat": 38.731518,
+    "location": "Rally's-St Ann,MO",
+    "address": "10650 St Charles Rock Rd, St Ann,MO 63074|(314) 395-1056"
+  },
+  {
+    "lon": -90.491947,
+    "lat": 38.782757,
+    "location": "Rally's-St Charles,MO",
+    "address": "826 1st Capital Drive, St Charles,MO 63301|(636) 947-8588"
+  },
+  {
+    "lon": -90.254366,
+    "lat": 38.749698,
+    "location": "Rally's-St Louis,MO",
+    "address": "10004 Halls Ferry Road, St Louis,MO 63136|(314) 867-0454"
+  },
+  {
+    "lon": -90.38839,
+    "lat": 38.69139,
+    "location": "Rally's-St Louis,MO",
+    "address": "10334 Page Avenue, St Louis,MO 63132|(314) 427-2445"
+  },
+  {
+    "lon": -90.223456,
+    "lat": 38.602784,
+    "location": "Rally's-St Louis,MO",
+    "address": "2807 South Jefferson, St Louis,MO 63118|(314) 773-2066"
+  },
+  {
+    "lon": -90.240429,
+    "lat": 38.639535,
+    "location": "Rally's-St Louis,MO",
+    "address": "305 N Vandeventer, St Louis,MO 63108|(314) 531-2336"
+  },
+  {
+    "lon": -90.235803,
+    "lat": 38.625823,
+    "location": "Rally's-St Louis,MO",
+    "address": "3553 Chouteau, St Louis,MO 63103|(314) 773-4177"
+  },
+  {
+    "lon": -90.2174,
+    "lat": 38.66024,
+    "location": "Rally's-St Louis,MO",
+    "address": "3605 N Grand, St Louis,MO 63107|(314) 531-8117"
+  },
+  {
+    "lon": -90.271138,
+    "lat": 38.686272,
+    "location": "Rally's-St Louis,MO",
+    "address": "3730 Goodfellow, St Louis,MO 63120|(314) 382-4143"
+  },
+  {
+    "lon": -90.250062,
+    "lat": 38.675589,
+    "location": "Rally's-St Louis,MO",
+    "address": "4949 Natural Bridge, St Louis,MO 63115|(314) 385-3181"
+  },
+  {
+    "lon": -90.343755,
+    "lat": 38.728663,
+    "location": "Rally's-St Louis,MO",
+    "address": "9651 Natural Bridge Road, St Louis,MO 63134|(314) 890-9958"
+  },
+  {
+    "lon": -90.459381,
+    "lat": 31.579135,
+    "location": "Rally's-Brookhaven,MS",
+    "address": "755 Brookway Blvd, Brookhaven,MS 39601|(601) 99-2235"
+  },
+  {
+    "lon": -90.261239,
+    "lat": 32.185544,
+    "location": "Rally's-Byram,MS",
+    "address": "5804 Terry Rd, Byram,MS 39272|(601) 667-4004"
+  },
+  {
+    "lon": -90.213958,
+    "lat": 32.286874,
+    "location": "Rally's-Jackson,MS",
+    "address": "1805 Highway 80 West, Jackson,MS 39204|(601) 355-7641"
+  },
+  {
+    "lon": -90.271025,
+    "lat": 32.272497,
+    "location": "Rally's-Jackson,MS",
+    "address": "2101 Raymond Rd, Jackson,MS 39212|(769) 251-1912"
+  },
+  {
+    "lon": -90.173189,
+    "lat": 32.35553,
+    "location": "Rally's-Jackson,MS",
+    "address": "219 Northside Drive, Jackson,MS 39206|(601) 982-7337"
+  },
+  {
+    "lon": -90.194043,
+    "lat": 32.326879,
+    "location": "Rally's-Jackson,MS",
+    "address": "318 Woodrow Wilson, Jackson,MS 39213|(601) 354-1020"
+  },
+  {
+    "lon": -90.1320686,
+    "lat": 32.4666582,
+    "location": "Rally's-Madison,MS",
+    "address": "127 Grandview Blvd, Madison,MS 39110|(601) 898-7000"
+  },
+  {
+    "lon": -90.116788,
+    "lat": 32.282334,
+    "location": "Rally's-Pearl,MS",
+    "address": "3105 Hwy 80 E, Pearl,MS 39208|(601) 932-8874"
+  },
+  {
+    "lon": -90.087689,
+    "lat": 32.28388,
+    "location": "Rally's-Pearl,MS",
+    "address": "3105 US-80, Pearl,MS 39208|(601) 932-8874"
+  },
+  {
+    "lon": -115.12309,
+    "lat": 36.158482,
+    "location": "Rally's-Las Vegas,NV",
+    "address": "1900 E Charleston Blvd, Las Vegas,NV 89104|(702) 462-9930"
+  },
+  {
+    "lon": -115.08407,
+    "lat": 36.12969,
+    "location": "Rally's-Las Vegas,NV",
+    "address": "4175 E Desert Inn Rd, Las Vegas,NV 89121|(725) 206-5029"
+  },
+  {
+    "lon": -115.22519,
+    "lat": 36.10067,
+    "location": "Rally's-Las Vegas,NV",
+    "address": "4855 South Jones Blvd, Las Vegas,NV 89103|(725) 204-1059"
+  },
+  {
+    "lon": -81.569964,
+    "lat": 41.06478,
+    "location": "Rally's-Akron,OH",
+    "address": "1345 Vernon Odom Blvd, Akron,OH 44320|(330) 867-8744"
+  },
+  {
+    "lon": -81.510372,
+    "lat": 41.028861,
+    "location": "Rally's-Akron,OH",
+    "address": "471 E Waterloo, Akron,OH 44319|(330) 724-5557"
+  },
+  {
+    "lon": -81.495147,
+    "lat": 41.076009,
+    "location": "Rally's-Akron,OH",
+    "address": "711 East Market, Akron,OH 44305|(330) 434-4457"
+  },
+  {
+    "lon": -81.604806,
+    "lat": 41.017371,
+    "location": "Rally's-Barberton,OH",
+    "address": "254 Wooster Road North, Barberton,OH 44203|(330) 753-4424"
+  },
+  {
+    "lon": -83.650515,
+    "lat": 41.386244,
+    "location": "Rally's-Bowling Green,OH",
+    "address": "1005 N Main, Bowling Green,OH 43402|(419) 352-6168"
+  },
+  {
+    "lon": -81.8003,
+    "lat": 41.40365,
+    "location": "Rally's-Brook Park,OH",
+    "address": "14911 Snow Road, Brook Park,OH 44142|(216) 267-4030"
+  },
+  {
+    "lon": -81.387673,
+    "lat": 40.831715,
+    "location": "Rally's-Canton,OH",
+    "address": "3000 Cleveland Avenue, Canton,OH 44709|(330) 493-1218"
+  },
+  {
+    "lon": -81.428583,
+    "lat": 40.796436,
+    "location": "Rally's-Canton,OH",
+    "address": "4503 W Tuscarawas St, Canton,OH 44708|(330) 280-1893"
+  },
+  {
+    "lon": -82.974894,
+    "lat": 39.336842,
+    "location": "Rally's-Chillicothe,OH",
+    "address": "133 N Bridge Street, Chillicothe,OH 45601|(740) 773-9415"
+  },
+  {
+    "lon": -84.43683,
+    "lat": 39.26958,
+    "location": "Rally's-Cincinnati,OH",
+    "address": "2319 E Sharon Rd, Cinncinnati,OH 45241|(513) 407-6268"
+  },
+  {
+    "lon": -84.496999,
+    "lat": 39.133331,
+    "location": "Rally's-Cincinnati,OH",
+    "address": "3010 Reading Road, Cincinnati,OH 45206|(513) 281-2414"
+  },
+  {
+    "lon": -84.581986,
+    "lat": 39.114303,
+    "location": "Rally's-Cincinnati,OH",
+    "address": "4115 Glenway Avenue #1, Cincinnati,OH 45205|(513) 471-5248"
+  },
+  {
+    "lon": -84.51315,
+    "lat": 39.16687,
+    "location": "Rally's-Cincinnati,OH",
+    "address": "4810 Spring Grove Avenue, Cincinnati,OH 45232|(513) 681-1506"
+  },
+  {
+    "lon": -84.404589,
+    "lat": 39.161433,
+    "location": "Rally's-Cincinnati,OH",
+    "address": "5225 Madison Rd, Cincinnati,OH 45227|(513) 271-4777"
+  },
+  {
+    "lon": -81.616188,
+    "lat": 41.538462,
+    "location": "Rally's-Cleveland,OH",
+    "address": "10430 St Clair, Cleveland,OH 44108|(216) 451-2525"
+  },
+  {
+    "lon": -81.602752,
+    "lat": 41.481019,
+    "location": "Rally's-Cleveland,OH",
+    "address": "11607 Buckeye Rd, Cleveland,OH 44120|(216) 229-1822"
+  },
+  {
+    "lon": -81.6032,
+    "lat": 41.52323,
+    "location": "Rally's-Cleveland,OH",
+    "address": "11701 Superior Ave, Cleveland,OH 44106|(216) 721-3117"
+  },
+  {
+    "lon": -81.583509,
+    "lat": 41.464362,
+    "location": "Rally's-Cleveland,OH",
+    "address": "14110 Kinsman Ave, Cleveland,OH 44120|(216) 561-3197"
+  },
+  {
+    "lon": -81.581719,
+    "lat": 41.530711,
+    "location": "Rally's-Cleveland,OH",
+    "address": "14421 Euclid Ave, Cleveland,OH 44112|(216) 851-7009"
+  },
+  {
+    "lon": -81.768751,
+    "lat": 41.480968,
+    "location": "Rally's-Cleveland,OH",
+    "address": "1481 West 117th Street, Cleveland,OH 44107|(216) 221-5111"
+  },
+  {
+    "lon": -81.651608,
+    "lat": 41.488276,
+    "location": "Rally's-Cleveland,OH",
+    "address": "2585 E 55th Street, Cleveland,OH 44104|(216) 881-4405"
+  },
+  {
+    "lon": -81.666144,
+    "lat": 41.500011,
+    "location": "Rally's-Cleveland,OH",
+    "address": "3040 Carnegie Ave, Cleveland,OH 44115|(216) 361-1738"
+  },
+  {
+    "lon": -81.70769,
+    "lat": 41.46991,
+    "location": "Rally's-Cleveland,OH",
+    "address": "3502 Clark Ave, Cleveland,OH 44113|(216) 961-6145"
+  },
+  {
+    "lon": -81.80144,
+    "lat": 41.450712,
+    "location": "Rally's-Cleveland,OH",
+    "address": "3806 West 150th Street, Cleveland,OH 44111|(216) 252-1422"
+  },
+  {
+    "lon": -81.564845,
+    "lat": 41.446629,
+    "location": "Rally's-Cleveland,OH",
+    "address": "4154 Lee Road, Cleveland,OH 44128|(216) 752-0005"
+  },
+  {
+    "lon": -81.64533,
+    "lat": 41.46212,
+    "location": "Rally's-Cleveland,OH",
+    "address": "6430 Broadway Ave, Cleveland,OH 44105|(216) 441-0355"
+  },
+  {
+    "lon": -83.03418,
+    "lat": 39.946187,
+    "location": "Rally's-Columbus,OH",
+    "address": "1340 West Mound Street, Columbus,OH 43223|(614) 228-8258"
+  },
+  {
+    "lon": -82.983776,
+    "lat": 39.933446,
+    "location": "Rally's-Columbus,OH",
+    "address": "1454 Parsons Avenue, Columbus,OH 43207|(614) 443-0471"
+  },
+  {
+    "lon": -82.945621,
+    "lat": 39.948493,
+    "location": "Rally's-Columbus,OH",
+    "address": "1940 East Livingston Avenue, Columbus,OH 43209|(614) 253-2518"
+  },
+  {
+    "lon": -82.963729,
+    "lat": 40.060516,
+    "location": "Rally's-Columbus,OH",
+    "address": "2110 Morse Rd, Columbus,OH 43229|(380) 997-8375"
+  },
+  {
+    "lon": -83.011328,
+    "lat": 40.014405,
+    "location": "Rally's-Columbus,OH",
+    "address": "2556 North High Street, Columbus,OH 43202|(614) 261-0121"
+  },
+  {
+    "lon": -82.963897,
+    "lat": 40.0328,
+    "location": "Rally's-Columbus,OH",
+    "address": "3187 Cleveland Avenue, Columbus,OH 43224|(614) 447-8824"
+  },
+  {
+    "lon": -82.914277,
+    "lat": 39.971951,
+    "location": "Rally's-Columbus,OH",
+    "address": "3260 E Broad Street, Columbus,OH 43209|(614) 338-8835"
+  },
+  {
+    "lon": -82.975351,
+    "lat": 40.08633,
+    "location": "Rally's-Columbus,OH",
+    "address": "5895 Karl Road, Columbus,OH 43229|(614) 431-8168"
+  },
+  {
+    "lon": -82.833561,
+    "lat": 39.954758,
+    "location": "Rally's-Columbus,OH",
+    "address": "6101 East Main Street, Columbus,OH 43213|(614) 759-6460"
+  },
+  {
+    "lon": -83.112464,
+    "lat": 39.938649,
+    "location": "Rally's-Columbus,OH",
+    "address": "700 Georgesville Road, Columbus,OH 43228|(614) 272-0265"
+  },
+  {
+    "lon": -84.139076,
+    "lat": 39.752293,
+    "location": "Rally's-Dayton,OH",
+    "address": "1111 South Smithville Road, Dayton,OH 45403|(937) 256-4293"
+  },
+  {
+    "lon": -84.253357,
+    "lat": 39.761669,
+    "location": "Rally's-Dayton,OH",
+    "address": "1205 North Gettysburg, Dayton,OH 45417|(937) 263-9307"
+  },
+  {
+    "lon": -84.253221,
+    "lat": 39.799933,
+    "location": "Rally's-Dayton,OH",
+    "address": "3955 Salem Avenue, Dayton,OH 45406|(937) 275-9330"
+  },
+  {
+    "lon": -84.209481,
+    "lat": 39.766992,
+    "location": "Rally's-Dayton,OH",
+    "address": "438 Salem Avenue, Dayton,OH 45406|(937) 276-4926"
+  },
+  {
+    "lon": -84.22185,
+    "lat": 39.672795,
+    "location": "Rally's-Dayton,OH",
+    "address": "5800 Springboro Pike, Dayton,OH 45449|(937) 435-1165"
+  },
+  {
+    "lon": -81.44595,
+    "lat": 41.64279,
+    "location": "Rally's-Eastlake,OH",
+    "address": "34001 Vine St, Eastlake,OH 44095|(440) 525-5511"
+  },
+  {
+    "lon": -82.077237,
+    "lat": 41.377427,
+    "location": "Rally's-Elyria,OH",
+    "address": "711 Cleveland Street, Elyria,OH 44035|(440) 366-6019"
+  },
+  {
+    "lon": -83.104065,
+    "lat": 41.344922,
+    "location": "Rally's-Fremont,OH",
+    "address": "609 E State, Fremont,OH 43420|(419) 334-7901"
+  },
+  {
+    "lon": -83.054878,
+    "lat": 39.878274,
+    "location": "Rally's-Grove City,OH",
+    "address": "1939 Stringtown Road, Grove City,OH 43123|(614) 875-2110"
+  },
+  {
+    "lon": -82.881502,
+    "lat": 39.896848,
+    "location": "Rally's-Groveport,OH",
+    "address": "3800 South Hamilton Rd, Groveport,OH 43125|(614) 441-7734"
+  },
+  {
+    "lon": -84.549682,
+    "lat": 39.378542,
+    "location": "Rally's-Hamilton,OH",
+    "address": "1796 South Erie Blvd, Hamilton,OH 45011|(513) 867-1260"
+  },
+  {
+    "lon": -82.609007,
+    "lat": 39.725432,
+    "location": "Rally's-Lancaster,OH",
+    "address": "1028 North Memorial Drive, Lancaster,OH 43130|(740) 687-0619"
+  },
+  {
+    "lon": -81.536722,
+    "lat": 41.4124,
+    "location": "Rally's-Maple Heights,OH",
+    "address": "5501 Warrensville Center Rd, Maple Heights,OH 44137|(440) 589-8136"
+  },
+  {
+    "lon": -83.12929,
+    "lat": 40.595429,
+    "location": "Rally's-Marion,OH",
+    "address": "412 N Main Street, Marion,OH 43302|(740) 375-0066"
+  },
+  {
+    "lon": -84.38906,
+    "lat": 39.526174,
+    "location": "Rally's-Middletown,OH",
+    "address": "2115 North Verity Parkway, Middletown,OH 45042|(513) 424-6972"
+  },
+  {
+    "lon": -84.282231,
+    "lat": 39.175598,
+    "location": "Rally's-Milford,OH",
+    "address": "801 Lila Avenue, Milford,OH 45150|(513) 248-8873"
+  },
+  {
+    "lon": -82.428557,
+    "lat": 40.074553,
+    "location": "Rally's-Newark,OH",
+    "address": "946 North 21st Street, Newark,OH 43055|(740) 366-1691"
+  },
+  {
+    "lon": -80.759177,
+    "lat": 41.182413,
+    "location": "Rally's-Niles,OH",
+    "address": "301 Robbins Ave, Niles,OH 44446|(330) 574-5005"
+  },
+  {
+    "lon": -83.503039,
+    "lat": 41.627279,
+    "location": "Rally's-Oregon,OH",
+    "address": "1927 Woodville Road, Oregon,OH 43616|(419) 697-0060"
+  },
+  {
+    "lon": -81.727933,
+    "lat": 41.418683,
+    "location": "Rally's-Parma,OH",
+    "address": "6201 Brookpark Road, Parma,OH 44129|(216) 351-8884"
+  },
+  {
+    "lon": -84.249097,
+    "lat": 40.146712,
+    "location": "Rally's-Piqua,OH",
+    "address": "118 N College Road, Piqua,OH 45356|(937) 778-0658"
+  },
+  {
+    "lon": -82.972544,
+    "lat": 38.738788,
+    "location": "Rally's-Portsmouth,OH",
+    "address": "1111 Monroe, Portsmouth,OH 45662|(740) 353-5281"
+  },
+  {
+    "lon": -84.441558,
+    "lat": 39.221891,
+    "location": "Rally's-Reading,OH",
+    "address": "8852 Reading Road, Reading,OH 45215|(513) 821-2338"
+  },
+  {
+    "lon": -81.536267,
+    "lat": 41.520682,
+    "location": "Rally's-South Euclid,OH",
+    "address": "4000 Mayfield Road, South Euclid,OH 44121|(216) 691-1077"
+  },
+  {
+    "lon": -83.854871,
+    "lat": 39.943218,
+    "location": "Rally's-Springfield,OH",
+    "address": "1099 Upper Valley Pike, Springfield,OH 45504|(937) 323-5111"
+  },
+  {
+    "lon": -83.804268,
+    "lat": 39.949959,
+    "location": "Rally's-Springfield,OH",
+    "address": "2000 North Limestone, Springfield,OH 45503|(937) 342-1505"
+  },
+  {
+    "lon": -83.811225,
+    "lat": 39.897553,
+    "location": "Rally's-Springfield,OH",
+    "address": "2122 South Limestone, Springfield,OH 45505|(937) 323-2388"
+  },
+  {
+    "lon": -83.771502,
+    "lat": 39.923388,
+    "location": "Rally's-Springfield,OH",
+    "address": "2510 East Main Street, Springfield,OH 45503|(937) 325-7066"
+  },
+  {
+    "lon": -83.568635,
+    "lat": 41.663682,
+    "location": "Rally's-Toledo,OH",
+    "address": "1035 West Bancroft Street, Toledo,OH 43606|(419) 242-5544"
+  },
+  {
+    "lon": -83.582765,
+    "lat": 41.706851,
+    "location": "Rally's-Toledo,OH",
+    "address": "1647 Laskey Road, Toledo,OH 43612|(419) 476-7293"
+  },
+  {
+    "lon": -83.549661,
+    "lat": 41.677913,
+    "location": "Rally's-Toledo,OH",
+    "address": "3033 Cherry Street, Toledo,OH 43608|(419) 242-7443"
+  },
+  {
+    "lon": -83.626341,
+    "lat": 41.624158,
+    "location": "Rally's-Toledo,OH",
+    "address": "3509 Airport Highway, Toledo,OH 43609|(419) 382-2662"
+  },
+  {
+    "lon": -83.681992,
+    "lat": 41.676323,
+    "location": "Rally's-Toledo,OH",
+    "address": "5855 West Central Avenue, Toledo,OH 43615|(419) 535-7476"
+  },
+  {
+    "lon": -80.811258,
+    "lat": 41.234448,
+    "location": "Rally's-Warren,OH",
+    "address": "519 South St, Warren,OH 44483|(330) 469-6107"
+  },
+  {
+    "lon": -82.877099,
+    "lat": 39.958269,
+    "location": "Rally's-Whitehall,OH",
+    "address": "837 S Hamilton Rd, Whitehall,OH 43213|(614) 256-8204"
+  },
+  {
+    "lon": -80.664979,
+    "lat": 41.141227,
+    "location": "Rally's-Youngstown,OH",
+    "address": "3219 Belmont Ave, Youngstown,OH 44505|(234) 254-8058"
+  },
+  {
+    "lon": -82.015969,
+    "lat": 39.977792,
+    "location": "Rally's-Zanesville,OH",
+    "address": "3050 Maple Avenue, Zanesville,OH 43701|(740) 452-0693"
+  },
+  {
+    "lon": -79.898299,
+    "lat": 40.408947,
+    "location": "Rally's-Munhall,PA",
+    "address": "906 E 8th Ave, Munhall,PA 15120|(412) 426-9128"
+  },
+  {
+    "lon": -79.825423,
+    "lat": 40.467987,
+    "location": "Rally's-Pittsburgh,PA",
+    "address": "11749 Frankstown Rd, Pittsburgh,PA 15235|(412) 241-1099"
+  },
+  {
+    "lon": -76.384979,
+    "lat": 37.042564,
+    "location": "Rally's-Hampton,VA",
+    "address": "1064 W Mercury Blvd, Hampton,VA 23666|(757) 262-0883"
+  },
+  {
+    "lon": -76.535599,
+    "lat": 37.129846,
+    "location": "Rally's-Newport News,VA",
+    "address": "410 Denbigh Blvd, Newport News,VA 23602|(757) 874-1888"
+  },
+  {
+    "lon": -76.28672,
+    "lat": 36.860718,
+    "location": "Rally's-Norfolk,VA",
+    "address": "1208 Monticello Ave, Norfolk,VA 23510|(757) 446-7033"
+  },
+  {
+    "lon": -76.2346975,
+    "lat": 36.91656,
+    "location": "Rally's-Norfolk,VA",
+    "address": "1366 East Little Creek Rd, Norfolk,VA 23518|(757) 431-7333"
+  },
+  {
+    "lon": -76.232545,
+    "lat": 36.870328,
+    "location": "Rally's-Norfolk,VA",
+    "address": "2300 Azalea Garden Rd, Norfolk,VA 23513|(757) 852-3779"
+  },
+  {
+    "lon": -76.339822,
+    "lat": 36.829833,
+    "location": "Rally's-Portsmouth,VA",
+    "address": "1101 Frederick Blvd, Portsmouth,VA 23707|(757) 397-1185"
+  },
+  {
+    "lon": -76.58276,
+    "lat": 36.750842,
+    "location": "Rally's-Suffolk,VA",
+    "address": "1528 North Main St, Suffolk,VA 23434|(757) 922-7055"
+  },
+  {
+    "lon": -76.15723,
+    "lat": 36.84545,
+    "location": "Rally's-Virginia Beach,VA",
+    "address": "5101 Virginia Beach Blvd, Virginia Beach,VA 23462|(757) 326-6224"
+  },
+  {
+    "lon": -81.665885,
+    "lat": 38.36855,
+    "location": "Rally's-Charleston,WV",
+    "address": "1667 3rd Ave, Charleston,WV 25312|(304) 345-2808"
+  },
+  {
+    "lon": -82.3839254,
+    "lat": 38.4271835,
+    "location": "Rally's-Huntington,WV",
+    "address": "604 5th Ave, Huntington,WV 25702|(304) 525-5889"
+  }
+]

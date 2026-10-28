@@ -1,0 +1,5213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Auburn,AL",
+                "address": "1601 Opelika Rd, Auburn,AL 36830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.44814,
+                    32.624407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Birmingham,AL",
+                "address": "281 Lakeshore Pkwy, Birmingham,AL 35209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.827632,
+                    33.44416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Birmingham,AL",
+                "address": "301 24th St, Birmingham,AL 35233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.796769,
+                    33.512509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Decatur,AL",
+                "address": "1654 Beltline Rd, Decatur,AL 35601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.011218,
+                    34.567794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Dothan,AL",
+                "address": "3354 Montgomery Hwy, Dothan,AL 36303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.429838,
+                    31.254796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Florence,AL",
+                "address": "570 S Court St, Florence,AL 35630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.673676,
+                    34.79579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Foley,AL",
+                "address": "2550 South Mckenzie St, Foley,AL 36535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.896465,
+                    32.529751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fort Payne,AL",
+                "address": "1503 Glenn Blvd SW, Fort Payne,AL 35968|coming soon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.752567,
+                    34.437901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gadsden,AL",
+                "address": "303 E Meighan Blvd, Gadsden,AL 35903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.989091,
+                    34.009623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Huntsville,AL",
+                "address": "2200 Sparkman Dr NW, Huntsville,AL 35810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.594589,
+                    34.76357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jacksonville,AL",
+                "address": "402 S Pelham, Jacksonville,AL 36235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.760944,
+                    33.811561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mobile,AL",
+                "address": "116 S University Blvd, Mobile,AL 36608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.172271,
+                    30.685369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Montgomery,AL",
+                "address": "2610 Zelda Rd, Montgomery,AL 36107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.27102,
+                    32.3637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Prattville,AL",
+                "address": "2557 Cobbs Ford Rd, Prattville,AL 36066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.392711,
+                    32.460728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Troy,AL",
+                "address": "1107 US Hwy 231 S, Troy,AL 36081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.959128,
+                    31.78365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Tuscaloosa,AL",
+                "address": "100 15th St E, Tuscaloosa,AL 35401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.53499,
+                    33.19856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Pensacola,FL",
+                "address": "1735 E Nine Mile Rd, Pensacola,FL 32514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.226598,
+                    30.532459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Tallahasee,FL",
+                "address": "1942 N Monroe St, Tallahassee,FL 32303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.284605,
+                    30.466302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Albany,GA",
+                "address": "609 N Slappey Blvd, Albany,GA 31701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.17682,
+                    31.58533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Alpharetta,GA",
+                "address": "11475 Haynes Bridge Road, Alpharetta,GA 30009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.289406,
+                    34.061417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Athens,GA",
+                "address": "1020 Jordan Dr, Athens,GA 30606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.442928,
+                    33.919687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Athens,GA",
+                "address": "1917 West Broad St, Athens,GA 30606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.400904,
+                    33.95186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Atlanta,GA",
+                "address": "1112 Northside Dr, Atlanta,GA 30318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.411224,
+                    33.783711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Atlanta,GA",
+                "address": "403 Moreland Ave SE, Atlanta,GA 30316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.349257,
+                    33.743008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Atlanta,GA",
+                "address": "544 Ponce De Leon Ave NE, Atlanta,GA 30308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.369201,
+                    33.774118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Augusta,GA",
+                "address": "1801 Walton Way, Augusta,GA 30904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.997756,
+                    33.475944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Augusta,GA",
+                "address": "2910 Washington Rd, Augusta,GA 30909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.039604,
+                    33.511116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Augusta,GA",
+                "address": "3012 Peach Orchard Road, Augusta,GA 30906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.02341,
+                    33.415995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Augusta,GA",
+                "address": "4088 Jimmie Dyess Parkway, Augusta,GA 30909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.117639,
+                    33.441407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Brunswick,GA",
+                "address": "4950 New Jesup Rd, Brunswick,GA 31520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.518279,
+                    31.217171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Calhoun,GA",
+                "address": "610 East Hwy 53, Calhoun,GA 30701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.925725,
+                    34.474429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Carrollton,GA",
+                "address": "904 South Park Street, Carrollton,GA 30117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.075683,
+                    33.565452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbus,GA",
+                "address": "3189 Manchester Expy, Columbus,GA 31909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.941003,
+                    32.507856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cordele,GA",
+                "address": "1405 E 16th Ave, Cordele,GA 31015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.759689,
+                    31.961615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Dalton,GA",
+                "address": "1257 N Glenwood Ave, Dalton,GA 30721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.962707,
+                    34.794243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fort Oglethorpe,GA",
+                "address": "920 Battlefield Pkwy, Fort Oglethorpe,GA 30742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24921,
+                    34.953084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gainesville,GA",
+                "address": "3626 Mundy Mill Rd, Gainesville,GA 30504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.86718,
+                    34.228528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gainesville,GA",
+                "address": "719 Jesse Jewell Parkway, Gainesville,GA 30501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.818742,
+                    34.300717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hinesville,GA",
+                "address": "705 W Oglethorpe Hwy, Hinesville,GA 31313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.597781,
+                    31.830069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kennesaw,GA",
+                "address": "745 Chastain Rd, Kennesaw,GA 30144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.570961,
+                    34.03442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-LaGrange,GA",
+                "address": "126 Commerce Ave, LaGrange,GA 30241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.025559,
+                    33.049125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lithonia,GA",
+                "address": "2790 Panola Rd, Lithonia,GA 30038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.175652,
+                    33.683479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Macon,GA",
+                "address": "155 Tom Hill Sr Blvd, Macon,GA 31210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.68815,
+                    32.899297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Macon,GA",
+                "address": "5001 Brookhaven Rd, Macon,GA 31206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.720627,
+                    32.81169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Marietta,GA",
+                "address": "3800 Austell Road Southwest, Marietta,GA 30008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.598579,
+                    33.860901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Marietta,GA",
+                "address": "9 Cobb Parkway, Marietta,GA 30062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.521424,
+                    33.951335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-McDonough,GA",
+                "address": "1404 GA-20, McDonough,GA 30253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.107755,
+                    33.4743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Milledgeville,GA",
+                "address": "1893 North Columbia Street, Milledgeville,GA 31061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.250908,
+                    33.10574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Morrow,GA",
+                "address": "6273 Jonesboro Rd, Morrow,GA 30260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.33979,
+                    33.584026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Perry,GA",
+                "address": "1340 Sam Nunn Blvd, Perry,GA 31069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.739215,
+                    32.467535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Pooler,GA",
+                "address": "480 Pooler Parkway, Pooler,GA 31322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.254606,
+                    32.136564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Riverdale,GA",
+                "address": "6897 GA-85, Riverdale,GA 30274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.413605,
+                    33.56699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Rome,GA",
+                "address": "808 Martha Berry Blvd NE, Rome,GA 30165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.180071,
+                    34.26204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Savannah,GA",
+                "address": "11700 Abercorn St, Savannah,GA 31419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.151856,
+                    31.982623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Savannah,GA",
+                "address": "3009 Skidaway Rd, Savannah,GA 31404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.06632,
+                    32.038311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Snellville,GA",
+                "address": "2019 Scenic Hwy, Snellville,GA 30078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.016002,
+                    33.869121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Statesboro,GA",
+                "address": "550 Fair Road, Statesboro,GA 30458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.780462,
+                    32.432673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Tifton,GA",
+                "address": "1401 US 82, Tifton,GA 31793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.535957,
+                    31.449026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Tucker,GA",
+                "address": "4487 Hugh Howell Rd, Tucker,GA 30084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205009,
+                    33.848805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Valdosta,GA",
+                "address": "990 N St Augustine Rd, Valdosta,GA 31601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.318012,
+                    30.838663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Warner Robins,GA",
+                "address": "113 Russell Parkway, Warner Robins,GA 31088"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.625038,
+                    32.593418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Warner Robins,GA",
+                "address": "3061 Watson Blvd, Warner Robins,GA 31093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.692762,
+                    32.616471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winder,GA",
+                "address": "46 W May St, Winder,GA 30680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.725963,
+                    33.991909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Bowling Green,KY",
+                "address": "730 Campbell Ln, Bowling Green,KY 42104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.472351,
+                    36.964314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Campbellsville,KY",
+                "address": "615 East Broadway St, Campbellsville,KY 42718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.339275,
+                    37.345167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,KY",
+                "address": "1001 Jamestown St, Columbia,KY 42728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.303631,
+                    37.092136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Frankfort,KY",
+                "address": "1234 US Hwy 127 S, Frankfort,KY 40601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.899696,
+                    38.17073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lexington,KY",
+                "address": "855 S Broadway Rd, Lexington,KY 40504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.513725,
+                    38.040398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Morehead,KY",
+                "address": "225 Stone Street, Morehead,KY 40351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.43586,
+                    38.175629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mount Sterling,KY",
+                "address": "706 Northview Dr, Mount Sterling,KY 40353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.949699,
+                    38.075936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Murray,KY",
+                "address": "205 N 12th St, Murray,KY 42071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.315554,
+                    36.61333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Richmond,KY",
+                "address": "120 Eastern Bypass, Richmond,KY 40475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.32166,
+                    37.736238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Somerset,KY",
+                "address": "2561 S Hwy 27, Somerset,KY 42501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.624494,
+                    37.057739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Williamsburg,KY",
+                "address": "510 KY-92, Williamsburg,KY 40769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.170041,
+                    36.722156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winchester,KY",
+                "address": "100 Hospital Dr, Winchester,KY 40391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.214767,
+                    38.009294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Salisbury,MD",
+                "address": "1115 S Salisbury Blvd, Salisbury,MD 21801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60202,
+                    38.347351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbus,MS",
+                "address": "503 N 18th Ave, Columbus,MS 39705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.432528,
+                    33.516109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hattiesburg,MS",
+                "address": "3601 Hardy St, Hattiesburg,MS 39402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.343521,
+                    31.32527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jackson,MS",
+                "address": "2603 Hwy 80 West, Jackson,MS 39204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.230061,
+                    32.292408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jackson,MS",
+                "address": "956 High St, Jackson,MS 39202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.174045,
+                    32.303993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Meridian,MS",
+                "address": "1219 S Frontage Rd, Meridian,MS 39301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.682432,
+                    32.354283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Olive Branch,MS",
+                "address": "7406 Hacks Cross Rd, Olive Branch,MS 38654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.79458,
+                    34.968384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Oxford,MS",
+                "address": "2195 Jackson Ave W, Oxford,MS 58655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.56018,
+                    34.363304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Starkville,MS",
+                "address": "102 Hwy 12 W, Starkville,MS 39759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.814116,
+                    33.454511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Albemarle,NC",
+                "address": "707 Leonard Ave, Albemarle,NC 28001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.17543,
+                    35.343151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Asheboro,NC",
+                "address": "544 E Dixie Drive, Asheboro,NC 27204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.807436,
+                    35.688989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Asheville,NC",
+                "address": "1055 Patton Ave, Asheville,NC 28806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.594451,
+                    35.587104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Asheville,NC",
+                "address": "251 Tunnel Rd, Asheville,NC 28805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.527928,
+                    35.584992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Boone,NC",
+                "address": "1179 Blowing Rock Road, Boone,NC 28607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.666953,
+                    36.204247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Brevard,NC",
+                "address": "244 Asheville Hwy, Brevard,NC 28712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.72304,
+                    35.24572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Burlington,NC",
+                "address": "414 Huffman Mill Road, Burlington,NC 27215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.48892,
+                    36.07532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cary,NC",
+                "address": "1607 Walnut Street, Cary,NC 27511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.748105,
+                    35.764089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Chapel Hill,NC",
+                "address": "450 S Elliott Rd, Chapel Hill,NC 27514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.025213,
+                    35.932217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "1025 Frank Bailey Dr [#1], Charlotte,NC 28205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.779693,
+                    35.200881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "10525 Mallard Creek Rd, Charlotte,NC 28269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.766654,
+                    35.342116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "10645 Park Road, Charlotte,NC 28210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.869139,
+                    35.091578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "10820 Woodland Beaver Rd, Charlotte,NC 28215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.632716,
+                    35.22399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "1301 W Sugar Creek Road, Charlotte,NC 28262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.793911,
+                    35.279924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "13317 York Center Dr, Charlotte,NC 28273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.949843,
+                    35.121676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "1815 Sardis Rd, Charlotte,NC 28270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.735565,
+                    35.140793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "2540 Freedom Drive, Charlotte,NC 28208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.881277,
+                    35.236991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "3704 West WT Harris Blvd, Charlotte,NC 28269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7929,
+                    35.33387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "4333 Sunset Road, Charlotte,NC 28216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.857085,
+                    35.305461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "4374 South Tryon St, Charlotte,NC 28217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.885867,
+                    35.186056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "5715 N Sharon Amity Road, Charlotte,NC 28215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.738788,
+                    35.234889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "6438 Albemarle Road, Charlotte,NC 28212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.734886,
+                    35.202105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "715 Charlottetowne Ave, Charlotte,NC 28204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.83536,
+                    35.214247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlotte,NC",
+                "address": "9705 North Tryon Street, Charlotte,NC 28262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.738377,
+                    35.317799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Clayton,NC",
+                "address": "11637 US 70 Business Hwy W, Clayton,NC 27520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.474468,
+                    35.653848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Clemmons,NC",
+                "address": "3125 Gammon Ln, Clemmons,NC 27012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.387348,
+                    36.040435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Concord,NC",
+                "address": "280 Concord Pkwy S, Concord,NC 28027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.611364,
+                    35.398498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Concord,NC",
+                "address": "7771 Gateway Lane NW, Concord,NC 28027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.711105,
+                    35.367672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Conover,NC",
+                "address": "460 E Conover Blvd, Conover,NC 28613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.218208,
+                    35.699137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cornelius,NC",
+                "address": "20220 W Catawba Ave, Cornelius,NC 28031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.879225,
+                    35.482516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Creedmoor,NC",
+                "address": "2538 Telecom Dr, Creedmoor,NC 27522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.729153,
+                    36.136624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Denver,NC",
+                "address": "7519 Hwy 73, Denver,NC 28037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.704386,
+                    35.437309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Dunn,NC",
+                "address": "1723 W Cumberland St, Dunn,NC 28334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.626752,
+                    35.316318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Durham,NC",
+                "address": "1540 S Miami Blvd, Durham,NC 27703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.839127,
+                    35.950703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Durham,NC",
+                "address": "2103 Allendown Dr, Durham,NC 27713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.895927,
+                    35.899147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Durham,NC",
+                "address": "3119 Shannon Road, Durham,NC 27707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.954964,
+                    35.967042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Durham,NC",
+                "address": "3624 Hillsborough Road, Durham,NC 27707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.954994,
+                    36.023392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Durham,NC",
+                "address": "4245 N Roxboro Street, Durham,NC 27705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.903915,
+                    36.050163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Eden,NC",
+                "address": "659 Van Buren Rd, Eden,NC 27288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.751197,
+                    36.519025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Elizabeth City,NC",
+                "address": "912 W Ehringhaus St, Elizabeth City,NC 27909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.233321,
+                    36.295579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Elkin,NC",
+                "address": "1425 North Bridge St, Elkin,NC 28621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.853827,
+                    36.268925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fayetteville,NC",
+                "address": "1909 Skibo Rd, Fayetteville,NC 28314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.965696,
+                    35.068872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fayetteville,NC",
+                "address": "2921 Owen Drive, Fayetteville,NC 28306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.899864,
+                    35.019527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fayetteville,NC",
+                "address": "3745 Ramsey St, Fayetteville,NC 28311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.88,
+                    35.111989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fayetteville,NC",
+                "address": "6903 Cliffdale Road, Fayetteville,NC 28314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.013016,
+                    35.059986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Forest City,NC",
+                "address": "130 Grace Way, Forest City,NC 28043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.903182,
+                    35.338894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Franklin,NC",
+                "address": "963 Georgia Rd, Franklin,NC 28734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39198,
+                    35.161885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fuquay Varina,NC",
+                "address": "1433 N Main Street, Fuquay Varina,NC 27526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.770988,
+                    35.593948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Garner,NC",
+                "address": "102 Bratton Drive, Garner,NC 27529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.55838,
+                    35.610664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Garner,NC",
+                "address": "4001 Jones Sausage Rd, Garner,NC 27529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.579544,
+                    35.725893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gastonia,NC",
+                "address": "2113 S Union Road, Gastonia,NC 28054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.171227,
+                    35.233177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gastonia,NC",
+                "address": "2810 East Franklin Blvd, Gastonia,NC 28056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.129768,
+                    35.260483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Goldsboro,NC",
+                "address": "432 N Berkley Blvd, Goldsboro,NC 27534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.945824,
+                    35.373932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Graham,NC",
+                "address": "311 S Main St, Graham,NC 27253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.401138,
+                    36.064522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "1041 Summit Avenue, Greensboro,NC 27405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.774986,
+                    36.088551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "2411 Battleground Avenue, Greensboro,NC 27408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.825188,
+                    36.103687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "2601 Randleman Road, Greensboro,NC 27406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.801056,
+                    36.030006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "3309 Battleground Ave, Greensboro,NC 27410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.845407,
+                    36.12229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "3804 High Point Road, Greensboro,NC 27407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.855286,
+                    36.038723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "4801 W Market St, Greensboro,NC 27407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.869554,
+                    36.069085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greensboro,NC",
+                "address": "5406 Sapp Road, Greensboro,NC 27409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.90509,
+                    36.055702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,NC",
+                "address": "3209 10th St, Greenville,NC 27858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.330792,
+                    35.599029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,NC",
+                "address": "711 S Memorial Drive, Greenville,NC 27834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.394882,
+                    35.606739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Harrisburg,NC",
+                "address": "5161 Z-Max Blvd, Harrisburg,NC 28075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.662204,
+                    35.320588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Havelock,NC",
+                "address": "534 US Hwy 70 West, Havelock,NC 28532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.935898,
+                    34.909765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hendersonville,NC",
+                "address": "2546 Chimney Rock Rd, Hendersonville,NC 28792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.43092,
+                    35.34682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hickory,NC",
+                "address": "1710 N Center Street, Hickory,NC 28601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.336159,
+                    35.754726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hickory,NC",
+                "address": "1935 Hwy 70 SE, Hickory,NC 28602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.406216,
+                    35.721975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-High Point,NC",
+                "address": "2420 N Main Street, High Point,NC 27265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.025795,
+                    35.98877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-High Point,NC",
+                "address": "2923 S Main St, High Point,NC 27263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.977203,
+                    35.920761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Huntersville,NC",
+                "address": "425 Huntersville Gateway Blvd, Huntersville,NC 28078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.856743,
+                    35.413567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Indian Trail,NC",
+                "address": "13703 B Hwy 74, Indian Trail,NC 28079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.663528,
+                    35.086779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jacksonville,NC",
+                "address": "407 South Marine Blvd, Jacksonville,NC 28540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.447189,
+                    34.751541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jacksonville,NC",
+                "address": "421 Western Blvd, Jacksonville,NC 28546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.386841,
+                    34.770084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kannapolis,NC",
+                "address": "901 S Cannon Blvd, Kannapolis,NC 28083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.610962,
+                    35.484299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kernersville,NC",
+                "address": "1010 S Main Street, Kernersville,NC 27284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.096985,
+                    36.10873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kill Devil Hills,NC",
+                "address": "2005 S Croatan Hwy, Kill Devil  Hills,NC 27948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.649102,
+                    35.99454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-King,NC",
+                "address": "636 South Main St, King,NC 27021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.361954,
+                    36.264682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kings Mountain,NC",
+                "address": "711 York Rd, Kings Mountain,NC 28086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.331869,
+                    35.230165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kinston,NC",
+                "address": "4050 W Vernon Ave, Kinston,NC 28504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.644452,
+                    35.261451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Knightdale,NC",
+                "address": "1151 North Smithfield Rd, Knightdale,NC 27545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.487444,
+                    35.797206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Laurinburg,NC",
+                "address": "1304 Scotland Crossing Dr, Laurinburg,NC 28352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.487864,
+                    34.761212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-LeLand,NC",
+                "address": "1147 New Pointe Blvd, LeLand,NC 28451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.02165,
+                    34.213072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lenoir,NC",
+                "address": "510 Blowing Rock Blvd, Lenoir,NC 28645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.524971,
+                    35.92231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lexington,NC",
+                "address": "1700 Cotton Grove Rd, Lexington,NC 27292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.259466,
+                    35.778007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lincolnton,NC",
+                "address": "1437 E Main Street, Lincolnton,NC 28093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.236175,
+                    35.477406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Locust,NC",
+                "address": "222 James Ave, Locust,NC 28097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.452965,
+                    35.253804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Louisburg,NC",
+                "address": "21 Golden Leaf Dr, Louisburg,NC 27549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.307435,
+                    36.084333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lumberton,NC",
+                "address": "2712 N Roberts Ave, Lumberton,NC 28358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.011215,
+                    34.644253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Marion,NC",
+                "address": "96 US 70, Marion,NC 28752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.033946,
+                    35.705691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mebane,NC",
+                "address": "1255 Mebane Oaks Rd, Mebane,NC 27302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.27251,
+                    36.069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mocksville,NC",
+                "address": "1562 Yadkinville Rd, Mocksville,NC 27208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.588434,
+                    35.921933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Monroe,NC",
+                "address": "1410 W Roosevelt Blvd, Monroe,NC 28110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.543227,
+                    34.995756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mooresville,NC",
+                "address": "355 W Plaza Dr, Mooresville,NC 28117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.855644,
+                    35.593372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Morehead City,NC",
+                "address": "4127 Arendell St, Morehead City,NC 28557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.770617,
+                    34.726934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Morganton,NC",
+                "address": "1000 Burkemont Rd, Morganton,NC 28655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.693628,
+                    35.722631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mount Airy,NC",
+                "address": "1988 Rockford Street, Mount Airy,NC 27030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.614394,
+                    36.482444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Nashville,NC",
+                "address": "102 E Evans Dr, Nashville,NC 27856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.972333,
+                    35.979914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-New Bern,NC",
+                "address": "2500 Dr ML King Blvd, New Bern,NC 28562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.105011,
+                    35.071255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Oxford,NC",
+                "address": "525 E Industry Dr, Oxford,NC 27565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.58395,
+                    36.298491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Pembroke,NC",
+                "address": "601 W 3rd St, Pembroke,NC 28372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.199929,
+                    34.683472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raeford,NC",
+                "address": "114 Fayetteville Rd, Raeford,NC 28376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.235965,
+                    34.979511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "1201 New Bern Avenue, Raleigh,NC 27610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.62191,
+                    35.78019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "3222 S Wilmington Sreet, Raleigh,NC 27603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.650696,
+                    35.736591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "3244 Capital Blvd, Raleigh,NC 27604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.587204,
+                    35.823746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "3930 Western Blvd, Raleigh,NC 27606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.693054,
+                    35.784824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "6505 Falls Of Neuse Road, Raleigh,NC 27615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.622368,
+                    35.871651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Raleigh,NC",
+                "address": "9500 Strickland Rd, Raleigh,NC 27615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.654198,
+                    35.901668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Randleman,NC",
+                "address": "685 W Academy St, Randleman,NC 27317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.820027,
+                    35.821729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Reidsville,NC",
+                "address": "1646 Freeway Drive, Reidsville,NC 27320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.692134,
+                    36.351822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Roanoke Rapids,NC",
+                "address": "1505 Julian R Allsbrook Hwy, Roanoke Rapids,NC 27870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.636996,
+                    36.433724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Rockingham,NC",
+                "address": "1240 E Broad St, Rockingham,NC 28379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.973495,
+                    34.813276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Rocky Mount,NC",
+                "address": "1020 N Wesleyan Blvd, Rocky Mount,NC 27801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.809395,
+                    35.971184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Roxboro,NC",
+                "address": "110 Walker St, Roxboro,NC 27573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.979773,
+                    36.400767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Salisbury,NC",
+                "address": "801 East Innes Street, Salisbury,NC 28144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.462822,
+                    35.660484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Sanford,NC",
+                "address": "1906 S Horner Blvd, Sanford,NC 27330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.155005,
+                    35.465188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Selma,NC",
+                "address": "603 Ricks Road, Selma,NC 27576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.292564,
+                    35.522095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Shallotte,NC",
+                "address": "4455 Main St, Shallotte,NC 28470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.367011,
+                    33.984239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Shelby,NC",
+                "address": "308 Earl Road, Shelby,NC 28150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.537537,
+                    35.278867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Sherrills Ford,NC",
+                "address": "7930 Bradley Long Dr, Sherrills Ford,NC 28673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.988714,
+                    35.583237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Southern Pines,NC",
+                "address": "11000 US Highway 15/501, Southern Pines,NC 28315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419952,
+                    35.16013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Southport,NC",
+                "address": "4960 Old Long Beach Rd Se, Southport,NC 28461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.048667,
+                    33.950999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Spring Lake,NC",
+                "address": "406 Lillington Hwy, Spring Lake,NC 28390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.971113,
+                    35.170778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Statesville,NC",
+                "address": "181 Turnersburg Hwy, Statesville,NC 28625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.876133,
+                    35.812832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Sylva,NC",
+                "address": "1391 E Main St, Sylva,NC 28779"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.20143,
+                    35.359796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Tarboro,NC",
+                "address": "104 River Oaks Dr, Tarboro,NC 27886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.547417,
+                    35.883927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Thomasville,NC",
+                "address": "1123 Randolph Street, Thomasville,NC 27360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.072174,
+                    35.858234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wake Forest,NC",
+                "address": "11690 Northpark Dr, Wake Forest,NC 27587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.544423,
+                    35.964137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Walkertown,NC",
+                "address": "5190 Walkertown Commons Drive, Walkertown,NC 27051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.13432,
+                    36.163269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Warsaw,NC",
+                "address": "2683 NC Hwy 24, Warsaw,NC 28396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.137149,
+                    34.990374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Washington,NC",
+                "address": "1006 Carolina Ave, Washington,NC 27889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.060342,
+                    35.557593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Waynesville,NC",
+                "address": "1870 South Main St, Waynesville,NC 28726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.005095,
+                    35.468541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Whiteville,NC",
+                "address": "615 N J K Powell Blvd, Whiteville,NC 28472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.708326,
+                    34.33781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wilkesboro,NC",
+                "address": "1919 US Highway 421, Wilkesboro,NC 28697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.199808,
+                    36.150011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Williamston,NC",
+                "address": "1549 Washington St, Williamston,NC 27892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.066329,
+                    35.833773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wilmington,NC",
+                "address": "429 South College Rd, Wilmington,NC 28403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.87591,
+                    34.23104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wilmington,NC",
+                "address": "5615 Carolina Beach Rd, Wilmington,NC 28412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.894073,
+                    34.135303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wilmington,NC",
+                "address": "715 S College Rd, Wilmington,NC 28403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.881851,
+                    34.222511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Wilson,NC",
+                "address": "2925 Raleigh Rd Parkway, Wilson,NC 27896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.956071,
+                    35.738523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winston Salem,NC",
+                "address": "245 Summit Point Lane, Winston Salem,NC 27105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.274506,
+                    36.185108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winston Salem,NC",
+                "address": "2897 Reynolda Rd, Winston Salem,NC 27106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.300084,
+                    36.14462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winston Salem,NC",
+                "address": "3103 Peters Creek Pkwy, Winston Salem,NC 27127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.259466,
+                    36.049423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winston Salem,NC",
+                "address": "339 Akron Drive, Winston Salem,NC 27105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.240882,
+                    36.137153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winston Salem,NC",
+                "address": "4505 Kester Mill Rd, Winston Salem,NC 27103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.334366,
+                    36.069691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winterville,NC",
+                "address": "4145 S Memorial Dr, Winterville,NC 28590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.404663,
+                    35.549855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Zebulon,NC",
+                "address": "1206 N Arendell Ave, Zebulon,NC 27597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.322981,
+                    35.837434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Aiken,SC",
+                "address": "2086 Whiskey Rd, Aiken,SC 29083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.71593,
+                    33.518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Anderson,SC",
+                "address": "3432 Clemson Blvd, Anderson,SC 29621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.672554,
+                    34.54887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Batesburg Leesville,SC",
+                "address": "179 E Church St, Batesburg-Leesville,SC 29070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.525412,
+                    33.915526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Beaufort,SC",
+                "address": "2434 Boundary Street, Beaufort,SC 29906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.706227,
+                    32.439964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Bennettsville,SC",
+                "address": "109 US-401, Bennettsville,SC 29512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.678951,
+                    34.608615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Boiling Springs,SC",
+                "address": "1800 Boiling Springs Hwy, Boiling Springs,SC 29316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.959541,
+                    35.015797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charleston,SC",
+                "address": "2036 Savanah Hwy, Charleston,SC 29407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.029039,
+                    32.789628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Clemson,SC",
+                "address": "1055 Tiger Blvd, Clemson,SC 29631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.837921,
+                    34.691526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "10030 Two Notch Rd, Columbia,SC 29223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.891167,
+                    34.113152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "1101 Harden St, Columbia,SC 29205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.019073,
+                    34.00452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "1331 Roberts Branch Pkwy, Columbia,SC 29203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.961446,
+                    34.13705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "5311 Forrest Dr, Columbia,SC 29206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.074928,
+                    33.955101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "600 Bush River Rd, Columbia,SC 29210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.097053,
+                    34.029987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Columbia,SC",
+                "address": "7440 Garners Ferry Rd, Columbia,SC 29209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.94288,
+                    33.965346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Conway,SC",
+                "address": "1629 Church St, Conway,SC 29526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.067289,
+                    33.847467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Conway,SC",
+                "address": "2480 US 501, Conway,SC 29526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.082894,
+                    33.856459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Dillon,SC",
+                "address": "379 Radford Blvd, Dillon,SC 29536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.367637,
+                    34.432786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Easley,SC",
+                "address": "5146 Calhoun Memorial Hwy, Easley,SC 29640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.557617,
+                    34.824917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Florence,SC",
+                "address": "2007 S Irby St, Florence,SC 29505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.767989,
+                    34.156196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Florence,SC",
+                "address": "2112 Lucas St, Florence,SC 29501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.804315,
+                    34.232557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gaffney,SC",
+                "address": "1513 West Floyd Baker Rd, Gaffney,SC 29341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.66198,
+                    35.089043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,SC",
+                "address": "1513 Poinsett Hwy, Greenville,SC 29609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.405505,
+                    34.888517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,SC",
+                "address": "1560 Laurens Rd, Greenville,SC 29607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.359891,
+                    34.84179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,SC",
+                "address": "1820 Woodruff Rd, Greenville,SC 29607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.26794,
+                    34.819811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenville,SC",
+                "address": "6175 White Horse Road, Greenville,SC 29611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.457022,
+                    34.855189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greenwood,SC",
+                "address": "1821 HWY 72, Greenwood,SC 29649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.131307,
+                    34.215499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greer,SC",
+                "address": "1353 West Wade Hampton Boulevard, Greer,SC 29650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.263344,
+                    34.939926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hartsville,SC",
+                "address": "626 5th St, Hartsville,SC 29550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.069916,
+                    34.367107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hilton Head,SC",
+                "address": "101 Central Ave, Hilton Head,SC 29926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.726242,
+                    32.21299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lancaster,SC",
+                "address": "1262 Hwy 9 Bypass W, Lancaster SC 29720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.799833,
+                    34.733747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lexington,SC",
+                "address": "515 W Main Street, Lexington,SC 29072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.246391,
+                    33.985695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lugoff,SC",
+                "address": "920 US 1, Lugoff,SC 29078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.679807,
+                    34.22616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Manning,SC",
+                "address": "2821 Paxville Hwy, Manning,SC 29102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.239596,
+                    33.701864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mauldin,SC",
+                "address": "386 West Butler Rd, Mauldin,SC 29662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.318576,
+                    34.775782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mt Pleasant,SC",
+                "address": "1711 N Hwy 17, Mt Pleasant,SC 29460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.838832,
+                    32.823879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mullins,SC",
+                "address": "105 Market St, Mullins,SC 29574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.249456,
+                    34.199349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Myrtle Beach,SC",
+                "address": "100 Loyola Dr, Myrtle Beach,SC 29588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.990709,
+                    33.639998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Myrtle Beach,SC",
+                "address": "174 Fresh Dr, Myrtle Beach,SC 29579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.856862,
+                    33.759902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Myrtle Beach,SC",
+                "address": "1800 North Kings Hwy, Myrtle Beach,SC 29577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.874444,
+                    33.700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Newberry,SC",
+                "address": "2800 Main St, Newberry,SC 29108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.592173,
+                    34.282542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-North Charleston,SC",
+                "address": "8475 Dorchester Rd, North Charleston,SC 29420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.11285,
+                    32.91668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-North Charleston,SC",
+                "address": "8970 University Blvd, North Charleston,SC 29406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.060701,
+                    32.97487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-North Myrtle Beach,SC",
+                "address": "205 US 17, North Myrtle Beach,SC 29582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.684902,
+                    33.823947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Orangeburg,SC",
+                "address": "725 John C Calhoun Dr, Orangeburg,SC 29115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.855659,
+                    33.491043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Rock Hill,SC",
+                "address": "2531 Cherry Rd, Rock Hill,SC 29732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.990615,
+                    34.970871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Spartanburg,SC",
+                "address": "1620 John B White Sr Blvd, Spartanburg,SC 29301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97922,
+                    34.92355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Spartanburg,SC",
+                "address": "1996 E Main St, Spartanburg,SC 29307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.887733,
+                    34.971088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Summerville,SC",
+                "address": "703 N Main St, Summerville,SC 29483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.168892,
+                    33.02766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Sumter,SC",
+                "address": "1180 Broad St, Sumter,SC 29150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.382103,
+                    33.955387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Walterboro,SC",
+                "address": "1395 Bells Hwy, Walterboro,SC 29488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.68513,
+                    32.92617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-West Columbia,SC",
+                "address": "1413 Charleston Hwy, West Columbia,SC 29169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.07553,
+                    33.975428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Antioch,TN",
+                "address": "5321 Hickory Hollow Ln, Antioch,TN 37013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.653171,
+                    36.048045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Athens,TN",
+                "address": "1227 Congress Pkwy S, Athens,TN 37303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.622131,
+                    35.451369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Bristol,TN",
+                "address": "1316 Volunteer Parkway, Bristol,TN 36720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.209991,
+                    36.561718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Chattanooga,TN",
+                "address": "5001 Brainerd Rd, Chattanooga,TN 37421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.225494,
+                    35.01218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Chattanooga,TN",
+                "address": "5390 Highway 153, Chattanooga,TN 37343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.246368,
+                    35.136009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Clarksville,TN",
+                "address": "2892 Wilma Rudolph Blvd, Clarksville,TN 37040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.291626,
+                    36.591568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Clarksville,TN",
+                "address": "804 N 2nd St, Clarksville,TN 37040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.362159,
+                    36.537076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cleveland,TN",
+                "address": "822 25th St, Cleveland,TN 37311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.874295,
+                    35.183025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cookeville,TN",
+                "address": "869 Jefferson Ave, Cookeville,TN 38506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.501251,
+                    36.140978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Dickson,TN",
+                "address": "109 Mathis Dr, Dickson,TN 37055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.376167,
+                    36.076084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Elizabethton,TN",
+                "address": "509 W Elk Ave, Elizabethton,TN 37643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.23523,
+                    36.35111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Greeneville,TN",
+                "address": "3545 East Andrew Johnson Hwy, Greenville,TN 37745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.762626,
+                    36.186607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hermitage,TN",
+                "address": "5002 Old Hickory Blvd, Hermitage,TN 37076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.617577,
+                    36.194789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jackson,TN",
+                "address": "4 Stonebridge Blvd, Jackson,TN 38305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.85308,
+                    35.67087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Johnson City,TN",
+                "address": "1206 W State Of Franklin Rd, Johnson City,TN 37604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.368021,
+                    36.306458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Jonesborough,TN",
+                "address": "150 N Lincoln Ave, Jonesborough,TN 37659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.468259,
+                    36.299075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kingsport,TN",
+                "address": "1600 E Stone Dr, Kingsport,TN 37660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.519936,
+                    36.549126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Kingston,TN",
+                "address": "616 N Kentucky St, Kingston,TN 37763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.511788,
+                    35.876985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Knoxville,TN",
+                "address": "11113 Parkdide Dr, Knoxville,TN 37934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.152706,
+                    35.902523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Knoxville,TN",
+                "address": "2135 Cumberland Ave, Knoxville,TN 37916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.938881,
+                    35.954414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Knoxville,TN",
+                "address": "321 Cedar Bluff Rd, Knoxville,TN 37923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.092679,
+                    35.92068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Knoxville,TN",
+                "address": "6920 Kingston Pike, Knoxville,TN 37919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.020798,
+                    35.93174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lebanon,TN",
+                "address": "107 Legends Dr, Lebanon,TN 38087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.295345,
+                    36.189109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lenoir City,TN",
+                "address": "401 Us Highway 321 N, Lenoir City,TN 37771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.260624,
+                    35.802933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Madison,TN",
+                "address": "2102 Gallatin Pike N, Madison,TN 37115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.691673,
+                    36.303928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Martin,TN",
+                "address": "131 University Plaza, Martin,TN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.87702,
+                    36.34867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Maryville,TN",
+                "address": "1305 W Lamar Alexander Pkwy, Maryville,TN 37801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.998967,
+                    35.751011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Memphis,TN",
+                "address": "1463 Union Ave, Memphis,TN 38104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.012476,
+                    35.136103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Memphis,TN",
+                "address": "4286 Elvis Presley Blvd, Memphis,TN 38116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.024873,
+                    35.031706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Memphis,TN",
+                "address": "757 South Highland Street, Memphis,TN 38111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.946161,
+                    35.110802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Memphis,TN",
+                "address": "7755 Winchester Rd, Memphis,TN 38125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.805018,
+                    35.048793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Memphis,TN",
+                "address": "7970 US Hwy 64, Memphis,TN 38133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.797508,
+                    35.205113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Millington,TN",
+                "address": "8569 Hwy 51, Millington,TN 38053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.891752,
+                    35.361761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Morristown,TN",
+                "address": "2251 West Andrew Johnson Hwy, Morristown,TN 37814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.324089,
+                    36.204922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Murfreesboro,TN",
+                "address": "1682 Memorial Blvd, Murfreesboro,TN 37129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.387262,
+                    35.867019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Murfreesboro,TN",
+                "address": "2919 South Rutherford Blvd, Murfreesboro,TN 37130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.351524,
+                    35.832249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Nashville,TN",
+                "address": "10 Harding Mall Dr, Nashville,TN 37211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.722694,
+                    36.080684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Nashville,TN",
+                "address": "1807 West End Ave, Nashville,TN 37203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.796162,
+                    36.152859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Nashville,TN",
+                "address": "2910 Gallatin Pike, Nashville,TN 37216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.738644,
+                    36.203251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Nashville,TN",
+                "address": "5802 Charlotte Pike, Nashville,TN 37209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.861725,
+                    36.149462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Pigeon Forge,TN",
+                "address": "3984 Parkway, Pigeon Forge,TN 37863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.545556,
+                    35.776387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Powell,TN",
+                "address": "435 E Emory Rd, Powell,TN 37849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.996826,
+                    36.050465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Smyrna,TN",
+                "address": "491 Sam Ridley Parkway West, Smyrna,TN 37167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.55587,
+                    35.981484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Ashland,VA",
+                "address": "800 England St, Ashland,VA 23005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467686,
+                    37.758763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Blacksburg,VA",
+                "address": "1311 South Main St, Blacksburg,VA 24060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.400749,
+                    37.217003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Bristol,VA",
+                "address": "3128 Lee Hwy, Bristol,VA 24202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.126335,
+                    36.632939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charlottesville,VA",
+                "address": "1254 Emmet St N, Charlottesville,VA 22903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.496651,
+                    38.054871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Chesapeake,VA",
+                "address": "1328 North Battlefield Blvd, Chesapeake,VA 23320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.251805,
+                    36.764859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Chesapeake,VA",
+                "address": "3216 Western Branch Blvd, Chesapeake,VA 23321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.405667,
+                    36.864191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Collinsville,VA",
+                "address": "2439 Virginia Ave, Collinsville,VA 24078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.909053,
+                    36.713854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Colonial Heights,VA",
+                "address": "618 US 1, Colonial Heights,VA 23834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.409401,
+                    37.30003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Danville,VA",
+                "address": "3409 Riverside Dr, Danville,VA 24541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.426956,
+                    36.583469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Farmville,VA",
+                "address": "1437 South Main St, Farmville,VA 23901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.396087,
+                    37.284962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fredericksburg,VA",
+                "address": "10108 Jefferson Davis Hwy, Fredericksburg,VA 22407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501928,
+                    38.234849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Fredericksburg,VA",
+                "address": "2024 Plank Rd, Fredericksburg,VA 22401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.494451,
+                    38.295351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Glen Allen,VA",
+                "address": "4245 Pouncey Tract Rd, Glen Allen,VA 23060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.610529,
+                    37.653908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Gloucester Courthouse,VA",
+                "address": "7065 George Washington Memorial Highway, Gloucester,VA 23061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.527878,
+                    37.392967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hampton,VA",
+                "address": "1025 West Mercury Boulevard, Hampton,VA 23666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.37957,
+                    37.042965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Harrisonburg,VA",
+                "address": "1688 East Market St, Harrisonburg,VA 22801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.844452,
+                    38.433987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Henrico,VA",
+                "address": "1501 Eastridge Rd, Henrico,VA 23229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.562447,
+                    37.601654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Hopewell,VA",
+                "address": "5105 Oaklawn Boulevard, Hopewell,VA 23860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.325433,
+                    37.261618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lexington,VA",
+                "address": "445 E Nelson St, Lexington,VA 24450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.437782,
+                    37.779839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Lynchburg,VA",
+                "address": "2629 Wards Rd, Lynchburg,VA 24502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.18164,
+                    37.363446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Madison Heights,VA",
+                "address": "4812 South Amerst Hwy, Madison Heights,VA 24572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.120713,
+                    37.440818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Manassas Park,VA",
+                "address": "8502 Centerville Rd, Manassas Park,VA 20111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.453116,
+                    38.770922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Mechanicsville,VA",
+                "address": "7114 Mechanicsville Turnpike, Mechanicsville,VA 23111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34433,
+                    37.611706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Newport News,VA",
+                "address": "12471 Jefferson Ave, Newport News,VA 23602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.509567,
+                    37.124264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Norfolk,VA",
+                "address": "1105 N Military Highway, Norfolk,VA 23502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.210625,
+                    36.859734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Norfolk,VA",
+                "address": "1818 Monticello Ave, Norfolk,VA 23517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.284355,
+                    36.865368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Norfolk,VA",
+                "address": "720 E Little Creek Rd, Norfolk,VA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.25291,
+                    36.91626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Portsmouth,VA",
+                "address": "4015 Victory Blvd, Portsmouth,VA 23701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.36026,
+                    36.811283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Radford,VA",
+                "address": "7400 Lee Hwy, Radford,VA 24141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.583282,
+                    37.14431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Richmond,VA",
+                "address": "4300 Labernum Avenue, Richmond,VA 23231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.371719,
+                    37.55521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Richmond,VA",
+                "address": "4802 W Broad St, Richmond,VA 23230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.491478,
+                    37.580406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Richmond,VA",
+                "address": "8240 Midlothian Turnpike, Richmond,VA 23235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.548958,
+                    37.497623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Roanoke,VA",
+                "address": "1423 Hershberger Rd NW, Roanoke,VA 24012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.958458,
+                    37.315387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Roanoke,VA",
+                "address": "2809 Franklin Rd, Roanoke,VA 24014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.960804,
+                    37.246114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Rocky Mount,VA",
+                "address": "12 Powder Creek Ln, Rocky Mount,VA 24151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.870168,
+                    37.01159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Salem,VA",
+                "address": "1251 West Main St, Salem,VA 24153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.077987,
+                    37.290109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Staunton,VA",
+                "address": "109 George M Cochran Pkwy, Staunton,VA 24401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.041905,
+                    38.132489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Suffolk,VA",
+                "address": "1017 N Main St, Suffolk,VA 23434 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.584412,
+                    36.744209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Virginia Beach,VA",
+                "address": "1010 Independence Blvd, Virginia Beach,VA 23455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.133721,
+                    36.87237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Virginia Beach,VA",
+                "address": "1634 General Booth Blvd, Virginia Beach,VA 23454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.000831,
+                    36.782953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Virginia Beach,VA",
+                "address": "5670 Indian River Rd, Virginia Beach,VA 23464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.190429,
+                    36.805675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Waynesboro,VA",
+                "address": "1432 W Main St, Waynesboro,VA 22980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.900879,
+                    38.072033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Williamsburg,VA",
+                "address": "1660 Richmond Rd, Williamsburg,VA 23185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.72628,
+                    37.295601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Winchester,VA",
+                "address": "1551 S Pleasant Valley Rd, Winchester,VA 22601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.164296,
+                    39.167362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Beckley,WV",
+                "address": "1346 N Eisenhower Dr, Beckley,WV 25801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.182107,
+                    37.803458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Charleston,WV",
+                "address": "5505 MacCorkle Ave SE, Charleston,WV 25304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.570875,
+                    38.314858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Cross Lanes,WV",
+                "address": "131 Goff Mountain Rd, Cross Lanes,WV 25313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.793157,
+                    38.417425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "COOK OUT-Huntington,WV",
+                "address": "416 25th St, Huntington,WV 25703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.413933,
+                    38.43084
+                ]
+            }
+        }
+    ]
+}

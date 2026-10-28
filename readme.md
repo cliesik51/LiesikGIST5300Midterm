@@ -1,3 +1,23 @@
 # GIST5300 Midterm: Regional Fast Food Burger Chains
 ## Author: Carson Liesik
 ### Date: 10/11/2026
+
+#### Data Collection
+
+I collected the following CSVs from POI Factory and used gejson.io to convert them to geoJSON files for each regional chain. I chose the geoJSON format because they were what was recommended as the prefered format when working with data on Leaflet.
+
+geojson.io: <https://geojson.io/?map=3.89/35.99897/-97.24291>
+
+In-N-Out Burger: <http://www.poi-factory.com/node/33102>
+Shake Shack: <http://www.poi-factory.com/node/43965>
+Checkers and Rally's: <http://www.poi-factory.com/node/18641>
+Cookout <http://www.poi-factory.com/node/17729>
+
+These are 4 popular regional fast food burger restaurants that are present in different areas in the United States. In-N-Out started in California but have spread across the American West and are known world wide. Shake Shack started as a burger stand in New York, and has quickly spread across the majority of the United States. Checkers and Rally's started as 2 separate restaurants in the American South, after merging into one restaurant they have spread from coast to coast in states along the southern border. Cookout started in North Carolina and spread across the majority of the American South. My brother lives in Savannah, GA and swears this is better than In-N-Out by a mile.
+
+It is constantly argued about which brand has the best food, but it would also be interesting to see how these locations compare to each other in a spatial scale.
+
+#### Analysis
+
+#### Web Map Link
+<https://cliesik51.github.io/LiesikGIST5300Midterm/>

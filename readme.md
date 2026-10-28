@@ -7,12 +7,17 @@
 I collected the following CSVs from POI Factory and used geojson.io to convert them to GeoJSON files for each regional chain. I chose the GeoJSON format because they were what was recommended as the preferred format when working with data on Leaflet.
 
 geojson.io: <https://geojson.io/?map=3.89/35.99897/-97.24291>
+
 Leaflet geoJSON Tutorial: <https://leafletjs.com/examples/geojson/>
+
 Leaflet Layer Group and Control Tutorial: <https://leafletjs.com/examples/layers-control/>
 
 In-N-Out Burger: <http://www.poi-factory.com/node/33102>
+
 Shake Shack: <http://www.poi-factory.com/node/43965>
+
 Checkers and Rally's: <http://www.poi-factory.com/node/18641>
+
 Cookout <http://www.poi-factory.com/node/17729>
 
 These are 4 popular regional fast food burger restaurants that are present in different areas in the United States. In-N-Out started in California but have spread across the American West and is known worldwide. Shake Shack started as a burger stand in New York and has quickly spread across the majority of the United States. Checkers and Rally's started as 2 separate restaurants in the American South; after merging into one restaurant, they have spread from coast to coast in states along the southern border. Cookout started in North Carolina and spread across the majority of the American South. My brother lives in Savannah, GA, and swears this is better than In-N-Out by a mile.
